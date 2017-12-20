@@ -651,5 +651,3 @@ Package: curatedTCGAData
 
 Package: topdownrdata
 
-Package: HMP16SData
-
