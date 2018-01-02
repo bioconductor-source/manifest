@@ -2949,3 +2949,5 @@ Package: MetaNeighbor
 
 Package: TFEA.ChIP
 
+Package: scFeatureFilter
+
