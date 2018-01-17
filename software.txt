@@ -2957,3 +2957,5 @@ Package: RGMQL
 
 Package: hmdbQuery
 
+Package: DropletUtils
+
