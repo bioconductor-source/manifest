@@ -38,3 +38,4 @@ Package: TCGAWorkflow
 
 Package: variants
 
+Package: testproj
