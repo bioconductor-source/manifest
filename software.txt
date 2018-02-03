@@ -2981,3 +2981,5 @@ Package: gsean
 
 Package: BEARscc
 
+Package: omicplotR
+
