@@ -667,3 +667,5 @@ Package: hgu133plus2CellScore
 
 Package: BloodCancerMultiOmics2017
 
+Package: CLLmethylation
+
