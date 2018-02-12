@@ -2997,3 +2997,5 @@ Package: kissDE
 
 Package: enrichplot
 
+Package: CellScore
+
