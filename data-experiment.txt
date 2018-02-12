@@ -663,3 +663,5 @@ Package: mCSEAdata
 
 Package: RcisTarget.hg19.motifDBs.cisbpOnly.500bp
 
+Package: hgu133plus2CellScore
+
