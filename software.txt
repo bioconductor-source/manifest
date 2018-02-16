@@ -3001,3 +3001,5 @@ Package: CellScore
 
 Package: MetaGxOvarian
 
+Package: scmeth
+
