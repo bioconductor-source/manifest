@@ -2881,8 +2881,6 @@ Package: anota2seq
 
 Package: slalom
 
-Package: JASPAR2018
-
 Package: iterClust
 
 Package: bnbc
