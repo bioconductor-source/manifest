@@ -2997,8 +2997,6 @@ Package: enrichplot
 
 Package: CellScore
 
-Package: MetaGxOvarian
-
 Package: scmeth
 
 Package: MACPET
