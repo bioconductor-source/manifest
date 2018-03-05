@@ -1765,8 +1765,6 @@ Package: SGSeq
 
 Package: CoRegNet
 
-Package: mvGST
-
 Package: groHMM
 
 Package: facopy
