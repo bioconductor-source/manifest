@@ -37,5 +37,3 @@ Package: simpleSingleCell
 Package: TCGAWorkflow
 
 Package: variants
-
-Package: testproj
