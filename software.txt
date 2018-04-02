@@ -3041,3 +3041,5 @@ Package: Sconify
 
 Package: GSEABenchmarkeR
 
+Package: adaptest
+
