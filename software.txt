@@ -3057,3 +3057,5 @@ Package: plyranges
 
 Package: GDSArray
 
+Package: DEsingle
+
