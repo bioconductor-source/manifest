@@ -681,3 +681,5 @@ Package: HDCytoData
 
 Package: MetaGxPancreas
 
+Package: ChIC.data
+
