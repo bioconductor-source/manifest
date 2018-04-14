@@ -3081,3 +3081,5 @@ Package: RSeqAn
 
 Package: SDAMS
 
+Package: PowerExplorer
+
