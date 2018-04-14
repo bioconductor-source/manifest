@@ -3075,3 +3075,5 @@ Package: InTAD
 
 Package: CytoDx
 
+Package: ChIC
+
