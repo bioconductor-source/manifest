@@ -3079,3 +3079,5 @@ Package: ChIC
 
 Package: RSeqAn
 
+Package: SDAMS
+
