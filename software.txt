@@ -3077,3 +3077,5 @@ Package: CytoDx
 
 Package: ChIC
 
+Package: RSeqAn
+
