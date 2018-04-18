@@ -37,3 +37,5 @@ Package: simpleSingleCell
 Package: TCGAWorkflow
 
 Package: variants
+Package: BiocMetaWorkflow
+
