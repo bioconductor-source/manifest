@@ -3091,3 +3091,5 @@ Package: singleCellTK
 
 Package: BioNetStat
 
+Package: igvR
+
