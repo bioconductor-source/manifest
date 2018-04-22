@@ -3105,3 +3105,5 @@ Package: RandomWalkRestartMH
 
 Package: BiocOncoTK
 
+Package: singscore
+
