@@ -3113,3 +3113,5 @@ Package: MSstatsQCgui
 
 Package: CAGEfightR
 
+Package: netSmooth
+
