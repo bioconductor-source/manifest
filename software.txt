@@ -3111,3 +3111,5 @@ Package: TxRegInfra
 
 Package: MSstatsQCgui
 
+Package: CAGEfightR
+
