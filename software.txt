@@ -2927,7 +2927,7 @@ Package: gep2pep
 
 Package: bcSeq
 
-Package: roma
+Package: OmaDB
 
 Package: loci2path
 
