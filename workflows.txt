@@ -1,3 +1,4 @@
+## Blank lines between all entries
 Package: annotation
 
 Package: arrays
@@ -37,5 +38,6 @@ Package: simpleSingleCell
 Package: TCGAWorkflow
 
 Package: variants
+
 Package: BiocMetaWorkflow
 
