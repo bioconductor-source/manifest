@@ -181,8 +181,6 @@ Package: pasilla
 
 Package: LiebermanAidenHiC2009
 
-Package: cheung2010
-
 Package: yeastNagalakshmi
 
 Package: PREDAsampledata
@@ -202,8 +200,6 @@ Package: TCGAMethylation450k
 Package: tweeDEseqCountData
 
 Package: BeadArrayUseCases
-
-Package: RnaSeqTutorial
 
 Package: serumStimulation
 
@@ -498,8 +494,6 @@ Package: QDNAseq.hg19
 Package: QDNAseq.mm10
 
 Package: SNPhoodData
-
-Package: MEALData
 
 Package: miRcompData
 
