@@ -3119,3 +3119,4 @@ Package: ORFik
 
 Package: SIAMCAT
 
+Package: BiocVersion
