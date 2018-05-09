@@ -3102,3 +3102,5 @@ Package: SIAMCAT
 Package: MBttest
 
 Package: BiocVersion
+Package: sigFeature
+
