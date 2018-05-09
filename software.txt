@@ -3104,3 +3104,5 @@ Package: MBttest
 Package: BiocVersion
 Package: sigFeature
 
+Package: maser
+
