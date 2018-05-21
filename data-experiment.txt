@@ -533,7 +533,7 @@ Package: tximportData
 
 Package: FlowSorted.CordBlood.450k
 
-Package: GSE62944 
+Package: GSE62944
 
 Package: msqc1
 
@@ -571,7 +571,7 @@ Package: IHWpaper
 
 Package: msPurityData
 
-Package: curatedMetagenomicData 
+Package: curatedMetagenomicData
 
 Package: minfiDataEPIC
 
@@ -681,3 +681,4 @@ Package: FlowSorted.Blood.EPIC
 
 Package: allenpvc
 
+Package: MSMB
