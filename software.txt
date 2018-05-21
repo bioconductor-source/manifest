@@ -3108,3 +3108,5 @@ Package: maser
 
 Package: iasva
 
+Package: FastqCleaner
+
