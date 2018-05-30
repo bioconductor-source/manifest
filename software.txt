@@ -3110,3 +3110,5 @@ Package: iasva
 
 Package: FastqCleaner
 
+Package: slingshot
+
