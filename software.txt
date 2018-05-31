@@ -3122,3 +3122,5 @@ Package: Rmmquant
 
 Package: onlineFDR
 
+Package: gwasurvivr
+
