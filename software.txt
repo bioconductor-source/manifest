@@ -3126,3 +3126,6 @@ Package: gwasurvivr
 
 Package: icetea
 
+Package: htSeqTools
+
+Package: GMRP
