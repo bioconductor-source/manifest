@@ -3129,3 +3129,5 @@ Package: icetea
 Package: htSeqTools
 
 Package: GMRP
+Package: CellTrails
+
