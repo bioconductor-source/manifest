@@ -41,3 +41,5 @@ Package: variants
 
 Package: BiocMetaWorkflow
 
+Package: maEndToEnd
+
