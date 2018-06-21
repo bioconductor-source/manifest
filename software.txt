@@ -3137,3 +3137,5 @@ Package: mlm4omics
 
 Package: qPLEXanalyzer
 
+Package: slinky
+
