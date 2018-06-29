@@ -3141,3 +3141,5 @@ Package: slinky
 
 Package: kmknn
 
+Package: condcomp
+
