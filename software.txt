@@ -3147,3 +3147,5 @@ Package: ipdDb
 
 Package: methylGSA
 
+Package: appreci8R
+
