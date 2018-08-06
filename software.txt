@@ -3165,3 +3165,5 @@ Package: strandCheckR
 
 Package: coRdon
 
+Package: consensus
+
