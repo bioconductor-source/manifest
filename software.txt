@@ -3163,3 +3163,5 @@ Package: LRBaseDbi
 
 Package: strandCheckR
 
+Package: coRdon
+
