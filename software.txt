@@ -3197,3 +3197,5 @@ Package: HPAanalyze
 
 Package: miRSM
 
+Package: plotGrouper
+
