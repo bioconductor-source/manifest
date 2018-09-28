@@ -3209,3 +3209,5 @@ Package: NormalyzerDE
 
 Package: DEqMS
 
+Package: BiocPkgTools
+
