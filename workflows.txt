@@ -45,5 +45,3 @@ Package: maEndToEnd
 
 Package: rnaseqDTU
 
-Package: OMICsPCA
-
