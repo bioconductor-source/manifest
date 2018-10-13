@@ -3231,3 +3231,5 @@ Package: ExCluster
 
 Package: OMICsPCA
 
+Package: countsimQC
+
