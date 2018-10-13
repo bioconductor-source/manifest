@@ -3233,3 +3233,5 @@ Package: OMICsPCA
 
 Package: countsimQC
 
+Package: cicero
+
