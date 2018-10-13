@@ -3237,3 +3237,5 @@ Package: cicero
 
 Package: AffiXcan
 
+Package: MPRAnalyze
+
