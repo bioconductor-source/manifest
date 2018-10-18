@@ -3251,3 +3251,5 @@ Package: KinSwingR
 
 Package: bayNorm
 
+Package: HIREewas
+
