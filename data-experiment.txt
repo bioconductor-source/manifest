@@ -711,3 +711,5 @@ Package: OMICsPCAdata
 
 Package: RegParallel
 
+Package: RNASeqRData
+
