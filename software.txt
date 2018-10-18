@@ -3247,3 +3247,5 @@ Package: MSstatsTMT
 
 Package: RNASeqR
 
+Package: KinSwingR
+
