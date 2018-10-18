@@ -709,3 +709,5 @@ Package: breakpointRdata
 
 Package: OMICsPCAdata
 
+Package: RegParallel
+
