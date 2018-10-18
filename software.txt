@@ -3245,3 +3245,5 @@ Package: FCBF
 
 Package: MSstatsTMT
 
+Package: RNASeqR
+
