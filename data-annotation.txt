@@ -1,0 +1,2 @@
+## Blank lines between all entries
+Package: EuPathDB
