@@ -3261,3 +3261,5 @@ Package: HiCBricks
 
 Package: tRNA
 
+Package: QSutils
+
