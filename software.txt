@@ -3279,3 +3279,5 @@ Package: AssessORF
 
 Package: artMS
 
+Package: abseqR
+
