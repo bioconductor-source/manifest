@@ -3285,3 +3285,5 @@ Package: mixOmics
 
 Package: TimeSeriesExperiment
 
+Package: universalmotif
+
