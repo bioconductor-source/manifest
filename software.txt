@@ -3283,3 +3283,5 @@ Package: abseqR
 
 Package: mixOmics
 
+Package: TimeSeriesExperiment
+
