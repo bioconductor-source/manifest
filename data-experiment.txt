@@ -715,3 +715,5 @@ Package: RNASeqRData
 
 Package: AssessORFData
 
+Package: PepsNMRData
+
