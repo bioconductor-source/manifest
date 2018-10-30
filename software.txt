@@ -3287,3 +3287,5 @@ Package: TimeSeriesExperiment
 
 Package: universalmotif
 
+Package: compartmap
+
