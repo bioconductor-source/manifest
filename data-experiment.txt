@@ -185,8 +185,6 @@ Package: yeastNagalakshmi
 
 Package: PREDAsampledata
 
-Package: iontreeData
-
 Package: minfiData
 
 Package: bladderbatch
@@ -374,8 +372,6 @@ Package: bcellViper
 Package: COPDSexualDimorphism.data
 
 Package: metaMSdata
-
-Package: MSBdata
 
 Package: FlowSorted.DLPFC.450k
 

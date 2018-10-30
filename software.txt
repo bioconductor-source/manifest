@@ -253,8 +253,6 @@ Package: Heatplus
 
 Package: maCorrPlot
 
-Package: nudge
-
 Package: cghMCR
 
 Package: OrderedList
@@ -428,8 +426,6 @@ Package: GSEAlm
 Package: affyPara
 
 Package: flowClust
-
-Package: GeneSelector
 
 Package: GEOmetadb
 
@@ -831,8 +827,6 @@ Package: anota
 
 Package: GSVA
 
-Package: BiocInstaller
-
 Package: ArrayExpressHTS
 
 Package: flowWorkspace
@@ -864,8 +858,6 @@ Package: GOFunction
 Package: IdMappingRetrieval
 
 Package: GRENITS
-
-Package: RamiGO
 
 Package: RedeR
 
@@ -1273,8 +1265,6 @@ Package: plethy
 
 Package: EBSeq
 
-Package: prot2D
-
 Package: tRanslatome
 
 Package: vtpnet
@@ -1374,8 +1364,6 @@ Package: SimBindProfiles
 Package: STRINGdb
 
 Package: AllelicImbalance
-
-Package: ampliQueso
 
 Package: bioassayR
 
@@ -1551,8 +1539,6 @@ Package: compcodeR
 
 Package: RefNet
 
-Package: gaucho
-
 Package: GenomicFiles
 
 Package: MeSHDbi
@@ -1622,8 +1608,6 @@ Package: shinyMethyl
 Package: GSReg
 
 Package: MEIGOR
-
-Package: mQTL.NMR
 
 Package: MultiMed
 
@@ -1757,8 +1741,6 @@ Package: CoRegNet
 
 Package: groHMM
 
-Package: facopy
-
 Package: IMPCdata
 
 Package: kebabs
@@ -1836,8 +1818,6 @@ Package: parglms
 Package: ggtree
 
 Package: seq2pathway
-
-Package: cytofkit
 
 Package: IVAS
 
@@ -1926,8 +1906,6 @@ Package: SVM2CRM
 Package: cogena
 
 Package: CopywriteR
-
-Package: GoogleGenomics
 
 Package: NanoStringQCPro
 
@@ -2308,8 +2286,6 @@ Package: BgeeDB
 Package: genbankr
 
 Package: LymphoSeq
-
-Package: pbcmc
 
 Package: InteractionSet
 
@@ -2784,8 +2760,6 @@ Package: DEP
 Package: M3C
 
 Package: miRsponge
-
-Package: IrisSpatialFeatures
 
 Package: cytolib
 
