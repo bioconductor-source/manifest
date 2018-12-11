@@ -3281,3 +3281,5 @@ Package: decompTumor2Sig
 
 Package: DNABarcodeCompatibility
 
+Package: rScudo
+
