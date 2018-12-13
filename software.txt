@@ -3289,3 +3289,5 @@ Package: DelayedDataFrame
 
 Package: epihet
 
+Package: VCFArray
+
