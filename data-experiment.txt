@@ -719,3 +719,5 @@ Package: HCAData
 
 Package: CluMSIDdata
 
+Package: chipseqDBData
+
