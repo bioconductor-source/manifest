@@ -3307,3 +3307,5 @@ Package: PAIRADISE
 
 Package: OVESEG
 
+Package: Rhisat2
+
