@@ -45,3 +45,5 @@ Package: maEndToEnd
 
 Package: rnaseqDTU
 
+Package: csawUsersGuide
+
