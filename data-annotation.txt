@@ -1,2 +1,4 @@
 ## Blank lines between all entries
 Package: EuPathDB
+Package: rat2302frmavecs
+
