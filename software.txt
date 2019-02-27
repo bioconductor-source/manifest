@@ -3337,3 +3337,5 @@ Package: Rcwl
 
 Package: BioMM
 
+Package: atSNP
+
