@@ -3341,3 +3341,5 @@ Package: atSNP
 
 Package: BiocSingular
 
+Package: alevinQC
+
