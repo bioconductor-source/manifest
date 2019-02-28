@@ -3339,3 +3339,5 @@ Package: BioMM
 
 Package: atSNP
 
+Package: BiocSingular
+
