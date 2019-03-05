@@ -2761,6 +2761,8 @@ Package: M3C
 
 Package: miRsponge
 
+Package: miRspongeR
+
 Package: cytolib
 
 Package: TMixClust
