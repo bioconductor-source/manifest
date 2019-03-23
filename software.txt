@@ -3359,3 +3359,5 @@ Package: CellBench
 
 Package: hypeR
 
+Package: CoRegFlux
+
