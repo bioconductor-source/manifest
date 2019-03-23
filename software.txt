@@ -3363,3 +3363,5 @@ Package: CoRegFlux
 
 Package: Modstrings
 
+Package: PrInCE
+
