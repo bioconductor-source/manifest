@@ -3361,3 +3361,5 @@ Package: hypeR
 
 Package: CoRegFlux
 
+Package: Modstrings
+
