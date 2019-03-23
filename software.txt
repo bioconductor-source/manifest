@@ -3367,3 +3367,5 @@ Package: PrInCE
 
 Package: pram
 
+Package: qckitfastq
+
