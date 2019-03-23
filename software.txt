@@ -3357,3 +3357,5 @@ Package: Xeva
 
 Package: CellBench
 
+Package: hypeR
+
