@@ -3385,3 +3385,5 @@ Package: pathwayPCA
 
 Package: proBatch
 
+Package: projectR
+
