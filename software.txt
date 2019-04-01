@@ -3387,3 +3387,5 @@ Package: proBatch
 
 Package: projectR
 
+Package: qsmooth
+
