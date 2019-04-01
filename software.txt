@@ -3389,3 +3389,5 @@ Package: projectR
 
 Package: qsmooth
 
+Package: MOFA
+
