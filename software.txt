@@ -3379,3 +3379,5 @@ Package: CHETAH
 
 Package: Structstrings
 
+Package: AMARETTO
+
