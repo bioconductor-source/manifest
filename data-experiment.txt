@@ -735,3 +735,5 @@ Package: curatedAdipoRNA
 
 Package: bodymapRat
 
+Package: MOFAdata
+
