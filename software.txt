@@ -3401,3 +3401,5 @@ Package: batchelor
 
 Package: TNBC.CMS
 
+Package: survtype
+
