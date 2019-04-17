@@ -493,8 +493,6 @@ Package: SNPhoodData
 
 Package: miRcompData
 
-Package: PGPC
-
 Package: PCHiCdata
 
 Package: yriMulti
@@ -572,8 +570,6 @@ Package: curatedMetagenomicData
 Package: minfiDataEPIC
 
 Package: lydata
-
-Package: flowQBData
 
 Package: chromstaRData
 

@@ -305,8 +305,6 @@ Package: flowCore
 
 Package: flowUtils
 
-Package: flowQ
-
 Package: flowViz
 
 Package: AnnotationDbi
@@ -538,8 +536,6 @@ Package: qpcrNorm
 Package: SSPA
 
 Package: GeneRegionScan
-
-Package: rMAT
 
 Package: flowStats
 
@@ -869,8 +865,6 @@ Package: Streamer
 
 Package: VariantAnnotation
 
-Package: TSSi
-
 Package: PREDA
 
 Package: rqubic
@@ -1031,8 +1025,6 @@ Package: MiRaGE
 
 Package: rols
 
-Package: flowQB
-
 Package: annmap
 
 Package: flowPeaks
@@ -1128,8 +1120,6 @@ Package: NOISeq
 Package: chroGPS
 
 Package: VariantTools
-
-Package: rSFFreader
 
 Package: matchBox
 
@@ -1355,8 +1345,6 @@ Package: GOSim
 
 Package: omicade4
 
-Package: ProCoNA
-
 Package: rTRMui
 
 Package: SimBindProfiles
@@ -1387,8 +1375,6 @@ Package: qcmetrics
 
 Package: shinyTANDEM
 
-Package: spliceSites
-
 Package: sRAP
 
 Package: TFBSTools
@@ -1410,8 +1396,6 @@ Package: PSICQUIC
 Package: CNVrd2
 
 Package: GenomicAlignments
-
-Package: GOTHiC
 
 Package: CRISPRseek
 
@@ -1589,8 +1573,6 @@ Package: Pbase
 
 Package: riboSeqR
 
-Package: DOQTL
-
 Package: flowDensity
 
 Package: oposSOM
@@ -1660,8 +1642,6 @@ Package: switchBox
 Package: FourCSeq
 
 Package: SNPRelate
-
-Package: NGScopy
 
 Package: rain
 
@@ -1900,8 +1880,6 @@ Package: mogsa
 Package: OmicsMarkeR
 
 Package: RUVcorr
-
-Package: SVM2CRM
 
 Package: cogena
 
@@ -2759,8 +2737,6 @@ Package: DEP
 
 Package: M3C
 
-Package: miRsponge
-
 Package: miRspongeR
 
 Package: cytolib
@@ -3102,8 +3078,6 @@ Package: onlineFDR
 Package: gwasurvivr
 
 Package: icetea
-
-Package: htSeqTools
 
 Package: GMRP
 
