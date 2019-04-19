@@ -3417,3 +3417,5 @@ Package: NBAMSeq
 
 Package: profileplyr
 
+Package: sRACIPE
+
