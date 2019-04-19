@@ -3405,3 +3405,5 @@ Package: scAlign
 
 Package: ADAMgui
 
+Package: HumanTranscriptomeCompendium
+
