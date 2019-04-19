@@ -3413,3 +3413,5 @@ Package: ngsReports
 
 Package: DiscoRhythm
 
+Package: NBAMSeq
+
