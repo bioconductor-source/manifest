@@ -3389,3 +3389,5 @@ Package: DiscoRhythm
 
 Package: NBAMSeq
 
+Package: profileplyr
+
