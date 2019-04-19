@@ -3411,3 +3411,5 @@ Package: mbkmeans
 
 Package: ngsReports
 
+Package: DiscoRhythm
+
