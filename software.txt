@@ -3419,3 +3419,5 @@ Package: profileplyr
 
 Package: sRACIPE
 
+Package: BANDITS
+
