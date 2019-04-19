@@ -3399,3 +3399,5 @@ Package: ssrch
 
 Package: RepViz
 
+Package: scRecover
+
