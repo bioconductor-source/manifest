@@ -3423,3 +3423,5 @@ Package: BANDITS
 
 Package: ssrch
 
+Package: RepViz
+
