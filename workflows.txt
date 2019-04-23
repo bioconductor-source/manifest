@@ -49,3 +49,5 @@ Package: csawUsersGuide
 
 Package: SingscoreAMLMutations
 
+Package: CAGEWorkflow
+
