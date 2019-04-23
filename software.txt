@@ -3445,3 +3445,5 @@ Package: pipeFrame
 
 Package: scMerge
 
+Package: gpuMagic
+
