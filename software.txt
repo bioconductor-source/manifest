@@ -3447,3 +3447,5 @@ Package: scMerge
 
 Package: gpuMagic
 
+Package: nanotatoR
+
