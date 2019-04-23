@@ -3437,3 +3437,5 @@ Package: OmicsLonDA
 
 Package: CopyNumberPlots
 
+Package: lipidr
+
