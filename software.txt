@@ -3443,3 +3443,5 @@ Package: dcanr
 
 Package: pipeFrame
 
+Package: scMerge
+
