@@ -3479,3 +3479,5 @@ Package: TreeSummarizedExperiment
 
 Package: VennDetail
 
+Package: mnem
+
