@@ -743,3 +743,5 @@ Package: HMP2Data
 
 Package: RNAmodR.Data
 
+Package: depmap
+
