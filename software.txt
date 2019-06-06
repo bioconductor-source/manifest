@@ -3459,3 +3459,5 @@ Package: XCIR
 
 Package: SQLDataFrame
 
+Package: RNAmodR
+
