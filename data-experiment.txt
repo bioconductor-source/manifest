@@ -741,3 +741,5 @@ Package: benchmarkfdrData2019
 
 Package: HMP2Data
 
+Package: RNAmodR.Data
+
