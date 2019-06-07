@@ -3465,3 +3465,5 @@ Package: RNAmodR.RiboMethSeq
 
 Package: AlkAnilineSeq
 
+Package: RNAmodR.AlkAnilineSeq
+
