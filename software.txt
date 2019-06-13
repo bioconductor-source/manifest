@@ -3467,3 +3467,5 @@ Package: RNAmodR.AlkAnilineSeq
 
 Package: TOAST
 
+Package: MMAPPR2
+
