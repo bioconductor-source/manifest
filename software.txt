@@ -3471,3 +3471,5 @@ Package: MMAPPR2
 
 Package: RNAmodR.ML
 
+Package: KnowSeq
+
