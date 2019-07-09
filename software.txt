@@ -3480,3 +3480,5 @@ Package: MetaVolcanoR
 Package: GOTHiC
 Package: gemini
 
+Package: AWFisher
+
