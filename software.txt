@@ -3478,3 +3478,5 @@ Package: SBGNview
 Package: MetaVolcanoR
 
 Package: GOTHiC
+Package: gemini
+
