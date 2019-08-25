@@ -3518,3 +3518,5 @@ Package: SigsPack
 
 Package: VariantExperiment
 
+Package: brendaDb
+
