@@ -3520,3 +3520,5 @@ Package: VariantExperiment
 
 Package: brendaDb
 
+Package: sojourner
+
