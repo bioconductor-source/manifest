@@ -3552,3 +3552,5 @@ Package: debCAM
 
 Package: ReactomeGSA
 
+Package: pwrEWAS
+
