@@ -761,3 +761,5 @@ Package: DMRcatedata
 
 Package: ReactomeGSA.data
 
+Package: pwrEWAS.data
+
