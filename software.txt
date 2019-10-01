@@ -3554,3 +3554,5 @@ Package: ReactomeGSA
 
 Package: pwrEWAS
 
+Package: flowSpecs
+
