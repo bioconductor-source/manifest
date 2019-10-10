@@ -3562,3 +3562,5 @@ Package: Spaniel
 
 Package: cliqueMS
 
+Package: peakPantheR
+
