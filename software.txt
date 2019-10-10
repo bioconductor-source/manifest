@@ -3560,3 +3560,5 @@ Package: lionessR
 
 Package: Spaniel
 
+Package: cliqueMS
+
