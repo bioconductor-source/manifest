@@ -3560,8 +3560,6 @@ Package: lionessR
 
 Package: Spaniel
 
-Package: cliqueMS
-
 Package: peakPantheR
 
 Package: MEB
