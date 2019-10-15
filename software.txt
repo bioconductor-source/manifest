@@ -3578,3 +3578,5 @@ Package: MSstatsSampleSize
 
 Package: SAIGEgds
 
+Package: CNVfilteR
+
