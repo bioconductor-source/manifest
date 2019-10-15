@@ -3588,3 +3588,5 @@ Package: AltWrapper
 
 Package: blacksheepr
 
+Package: ssPATHS
+
