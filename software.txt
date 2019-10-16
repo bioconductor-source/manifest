@@ -243,8 +243,6 @@ Package: copa
 
 Package: sizepower
 
-Package: SNPchip
-
 Package: EBImage
 
 Package: OCplus
@@ -332,8 +330,6 @@ Package: annotationTools
 Package: LBE
 
 Package: SLqPCR
-
-Package: rHVDM
 
 Package: CALIB
 
@@ -426,8 +422,6 @@ Package: affyPara
 Package: flowClust
 
 Package: GEOmetadb
-
-Package: GenomeGraphs
 
 Package: RBioinf
 
@@ -569,8 +563,6 @@ Package: mBPCR
 
 Package: ChIPsim
 
-Package: plateCore
-
 Package: MiChip
 
 Package: clippda
@@ -631,8 +623,6 @@ Package: pint
 
 Package: MassArray
 
-Package: charm
-
 Package: SamSPECTRAL
 
 Package: segmentSeq
@@ -692,8 +682,6 @@ Package: CoGAPS
 Package: BioNet
 
 Package: CGEN
-
-Package: HTSanalyzeR
 
 Package: imageHTS
 
@@ -1165,8 +1153,6 @@ Package: casper
 
 Package: clipper
 
-Package: PathNet
-
 Package: DrugVsDisease
 
 Package: MethylSeekR
@@ -1303,8 +1289,6 @@ Package: RRHO
 
 Package: msmsTests
 
-Package: Rchemcpp
-
 Package: rfPred
 
 Package: RTN
@@ -1361,8 +1345,6 @@ Package: dagLogo
 
 Package: epivizr
 
-Package: exomePeak
-
 Package: flowMap
 
 Package: methylMnM
@@ -1380,8 +1362,6 @@ Package: sRAP
 Package: TFBSTools
 
 Package: FGNet
-
-Package: flipflop
 
 Package: ChAMP
 
@@ -1568,8 +1548,6 @@ Package: DEGreport
 Package: RGSEA
 
 Package: ssviz
-
-Package: Pbase
 
 Package: riboSeqR
 
@@ -1783,8 +1761,6 @@ Package: coMET
 
 Package: gespeR
 
-Package: RnaSeqSampleSize
-
 Package: TRONCO
 
 Package: gdsfmt
@@ -1808,8 +1784,6 @@ Package: Cardinal
 Package: sincell
 
 Package: HIBAG
-
-Package: birte
 
 Package: rGREAT
 
@@ -1942,8 +1916,6 @@ Package: RareVariantVis
 Package: caOmicsV
 
 Package: hierGWAS
-
-Package: SEPA
 
 Package: mirIntegrator
 
@@ -2078,8 +2050,6 @@ Package: miRcomp
 Package: biobroom
 
 Package: subSeq
-
-Package: CNPBayes
 
 Package: R4RNA
 
@@ -2294,8 +2264,6 @@ Package: EGAD
 Package: epivizrStandalone
 
 Package: Director
-
-Package: dSimer
 
 Package: covRNA
 
@@ -3085,15 +3053,11 @@ Package: CellTrails
 
 Package: sesame
 
-Package: mlm4omics
-
 Package: qPLEXanalyzer
 
 Package: slinky
 
 Package: BiocNeighbors
-
-Package: condcomp
 
 Package: ipdDb
 
@@ -3122,8 +3086,6 @@ Package: consensus
 Package: INDEED
 
 Package: hierinf
-
-Package: brainImageR
 
 Package: GeneAccord
 

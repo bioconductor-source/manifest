@@ -133,8 +133,6 @@ Package: hgu133plus2barcodevecs
 
 Package: hgu133abarcodevecs
 
-Package: charmData
-
 Package: leeBamViews
 
 Package: geneLenDataBase
@@ -419,8 +417,6 @@ Package: RRBSdata
 
 Package: seqc
 
-Package: facopy.annot
-
 Package: genomationData
 
 Package: geuvPack
@@ -670,8 +666,6 @@ Package: MetaGxPancreas
 Package: ChIC.data
 
 Package: FlowSorted.Blood.EPIC
-
-Package: allenpvc
 
 Package: MSMB
 
