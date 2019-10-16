@@ -3594,3 +3594,5 @@ Package: OmnipathR
 
 Package: waddR
 
+Package: ALPS
+
