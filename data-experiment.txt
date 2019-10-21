@@ -757,3 +757,5 @@ Package: ReactomeGSA.data
 
 Package: pwrEWAS.data
 
+Package: biscuiteerData
+
