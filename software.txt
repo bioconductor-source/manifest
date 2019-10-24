@@ -3634,3 +3634,5 @@ Package: RNAsense
 
 Package: brainflowprobes
 
+Package: tradeSeq
+
