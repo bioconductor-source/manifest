@@ -765,3 +765,5 @@ Package: pwrEWAS.data
 
 Package: biscuiteerData
 
+Package: tartare
+
