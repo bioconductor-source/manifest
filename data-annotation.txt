@@ -6,3 +6,5 @@ Package: ENCODExplorerData
 
 Package: GenomicState
 
+Package: JASPAR2020
+
