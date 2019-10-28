@@ -3640,3 +3640,5 @@ Package: signatureSearch
 
 Package: HCAExplorer
 
+Package: BiocSet
+
