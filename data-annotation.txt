@@ -1,5 +1,6 @@
 ## Blank lines between all entries
 Package: EuPathDB
+
 Package: rat2302frmavecs
 
 Package: ENCODExplorerData
@@ -10,3 +11,4 @@ Package: JASPAR2020
 
 Package: org.Mxanthus.db
 
+Package: PANTHER.db
