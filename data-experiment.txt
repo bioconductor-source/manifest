@@ -751,8 +751,6 @@ Package: PhyloProfileData
 
 Package: TENxBUSData
 
-Package: DMRcatedata
-
 Package: ReactomeGSA.data
 
 Package: pwrEWAS.data
