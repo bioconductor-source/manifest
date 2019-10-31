@@ -3600,6 +3600,8 @@ Package: tradeSeq
 
 Package: signatureSearch
 
+Package: cliqueMS
+
 Package: HCAExplorer
 
 Package: BiocSet
