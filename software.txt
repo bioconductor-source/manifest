@@ -3614,3 +3614,4 @@ Package: mitch
 
 Package: selectKSigs
 
+Package: PathNet
