@@ -3617,3 +3617,5 @@ Package: selectKSigs
 Package: PathNet
 Package: PubScore
 
+Package: NPARC
+
