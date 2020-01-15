@@ -3629,3 +3629,5 @@ Package: EnMCB
 
 Package: dearseq
 
+Package: easyreporting
+
