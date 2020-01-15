@@ -3631,3 +3631,5 @@ Package: dearseq
 
 Package: easyreporting
 
+Package: scMAGeCK
+
