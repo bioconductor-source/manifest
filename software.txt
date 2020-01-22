@@ -3635,3 +3635,5 @@ Package: easyreporting
 Package: scMAGeCK
 
 Package: BgeeCall
+Package: packFinder
+
