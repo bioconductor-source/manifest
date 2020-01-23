@@ -1,0 +1,25 @@
+## Blank lines between all entries
+Package: BiocGenerics
+
+Package: Biobase
+
+Package: zlibbioc
+
+Package: S4Vectors
+
+Package: IRanges
+
+Package: XVector
+
+Package: Biostrings
+
+Package: preprocessCore
+
+Package: affyio
+
+Package: affy
+
+Package: Rhdf5lib
+
+Package: Rhtslib
+
