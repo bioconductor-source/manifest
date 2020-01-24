@@ -23,8 +23,6 @@ Package: Biostrings
 
 Package: DelayedArray
 
-Package: HDF5Array
-
 Package: DelayedMatrixStats
 
 Package: genefilter
@@ -52,4 +50,6 @@ Package: affy
 Package: Rhdf5lib
 
 Package: rhdf5
+
+Package: HDF5Array
 
