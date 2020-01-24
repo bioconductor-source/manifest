@@ -25,6 +25,8 @@ Package: DelayedArray
 
 Package: DelayedMatrixStats
 
+Package: annotate
+
 Package: genefilter
 
 Package: SummarizedExperiment
