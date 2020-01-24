@@ -19,6 +19,14 @@ Package: GenomicRanges
 
 Package: Biostrings
 
+Package: DelayedArray
+
+Package: HDF5Array
+
+Package: DelayedMatrixStats
+
+Package: genefilter
+
 Package: SummarizedExperiment
 
 Package: Rhtslib
