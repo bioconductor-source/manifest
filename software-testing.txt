@@ -81,5 +81,7 @@ Package: ProtGenerics
 
 Package: ensembldb
 
+Package: mzID
+
 Package: mzR
 
