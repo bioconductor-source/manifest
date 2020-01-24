@@ -59,6 +59,8 @@ Package: biomaRt
 
 Package: GenomicFeatures
 
+Package: ShortRead
+
 Package: preprocessCore
 
 Package: affyio
