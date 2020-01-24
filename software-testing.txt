@@ -1,4 +1,6 @@
 ## Blank lines between all entries
+Package: BiocVersion
+
 Package: BiocGenerics
 
 Package: Biobase
@@ -31,6 +33,8 @@ Package: genefilter
 
 Package: SummarizedExperiment
 
+Package: SingleCellExperiment
+
 Package: Rhtslib
 
 Package: Rsamtools
@@ -42,6 +46,12 @@ Package: rtracklayer
 Package: BSgenome
 
 Package: BiocFileCache
+
+Package: interactiveDisplayBase
+
+Package: AnnotationHub
+
+Package: ExperimentHub
 
 Package: biomaRt
 
