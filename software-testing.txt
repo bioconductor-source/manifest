@@ -13,6 +13,8 @@ Package: XVector
 
 Package: Biostrings
 
+Package: BSgenome
+
 Package: preprocessCore
 
 Package: affyio
