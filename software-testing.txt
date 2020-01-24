@@ -39,6 +39,10 @@ Package: rtracklayer
 
 Package: BSgenome
 
+Package: BiocFileCache
+
+Package: biomaRt
+
 Package: GenomicFeatures
 
 Package: preprocessCore
