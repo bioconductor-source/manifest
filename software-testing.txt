@@ -1,6 +1,8 @@
 ## Blank lines between all entries
 Package: BiocVersion
 
+Package: BiocStyle
+
 Package: BiocGenerics
 
 Package: Biobase
