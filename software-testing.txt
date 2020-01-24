@@ -57,3 +57,9 @@ Package: rhdf5
 
 Package: HDF5Array
 
+Package: AnnotationFilter
+
+Package: ProtGenerics
+
+Package: ensembldb
+
