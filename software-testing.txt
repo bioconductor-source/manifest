@@ -61,6 +61,8 @@ Package: GenomicFeatures
 
 Package: ShortRead
 
+Package: VariantAnnotation
+
 Package: preprocessCore
 
 Package: affyio
