@@ -9,11 +9,27 @@ Package: S4Vectors
 
 Package: IRanges
 
+Package: GenomeInfoDb
+
+Package: AnnotationDbi
+
 Package: XVector
+
+Package: GenomicRanges
 
 Package: Biostrings
 
+Package: SummarizedExperiment
+
+Package: Rsamtools
+
+Package: GenomicAlignments
+
+Package: rtracklayer
+
 Package: BSgenome
+
+Package: GenomicFeatures
 
 Package: preprocessCore
 
