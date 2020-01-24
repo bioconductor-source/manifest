@@ -77,6 +77,12 @@ Package: HDF5Array
 
 Package: AnnotationFilter
 
+Package: limma
+
+Package: vsn
+
+Package: illuminaio
+
 Package: ProtGenerics
 
 Package: ensembldb
