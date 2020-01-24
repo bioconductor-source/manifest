@@ -21,6 +21,8 @@ Package: Biostrings
 
 Package: SummarizedExperiment
 
+Package: Rhtslib
+
 Package: Rsamtools
 
 Package: GenomicAlignments
@@ -39,5 +41,5 @@ Package: affy
 
 Package: Rhdf5lib
 
-Package: Rhtslib
+Package: rhdf5
 
