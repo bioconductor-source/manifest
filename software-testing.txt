@@ -71,11 +71,19 @@ Package: affyio
 
 Package: affy
 
+Package: multtest
+
+Package: impute
+
 Package: Rhdf5lib
 
 Package: rhdf5
 
 Package: HDF5Array
+
+Package: beachmat
+
+Package: BiocNeighbors
 
 Package: AnnotationFilter
 
@@ -86,6 +94,10 @@ Package: vsn
 Package: illuminaio
 
 Package: edgeR
+
+Package: geneplotter
+
+Package: DESeq2
 
 Package: graph
 
@@ -100,4 +112,10 @@ Package: ensembldb
 Package: mzID
 
 Package: mzR
+
+Package: RProtoBufLib
+
+Package: cytolib
+
+Package: flowCore
 
