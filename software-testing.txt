@@ -95,6 +95,8 @@ Package: illuminaio
 
 Package: edgeR
 
+Package: Rsubread
+
 Package: geneplotter
 
 Package: DESeq2
