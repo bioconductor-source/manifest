@@ -27,6 +27,8 @@ Package: AnnotationDbi
 
 Package: AnnotationForge
 
+Package: OrganismDbi
+
 Package: XVector
 
 Package: GenomicRanges
