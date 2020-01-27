@@ -53,6 +53,8 @@ Package: GenomicAlignments
 
 Package: rtracklayer
 
+Package: microRNA
+
 Package: BSgenome
 
 Package: BiocFileCache
