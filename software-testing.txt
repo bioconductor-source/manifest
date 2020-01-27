@@ -71,6 +71,8 @@ Package: ShortRead
 
 Package: VariantAnnotation
 
+Package: snpStats
+
 Package: preprocessCore
 
 Package: affyio
