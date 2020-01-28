@@ -33,6 +33,10 @@ Package: XVector
 
 Package: GenomicRanges
 
+Package: KEGGgraph
+
+Package: SPIA
+
 Package: Biostrings
 
 Package: DelayedArray
