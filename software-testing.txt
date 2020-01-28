@@ -113,6 +113,12 @@ Package: geneplotter
 
 Package: DESeq2
 
+Package: tximport
+
+Package: tximeta
+
+Package: csaw
+
 Package: graph
 
 Package: Rgraphviz
