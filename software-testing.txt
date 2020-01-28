@@ -111,6 +111,8 @@ Package: Rsubread
 
 Package: geneplotter
 
+Package: DESeq
+
 Package: DESeq2
 
 Package: tximport
