@@ -47,6 +47,8 @@ Package: annotate
 
 Package: genefilter
 
+Package: ROC
+
 Package: SummarizedExperiment
 
 Package: SingleCellExperiment
