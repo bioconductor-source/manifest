@@ -137,6 +137,10 @@ Package: ProtGenerics
 
 Package: ensembldb
 
+Package: biovizBase
+
+Package: Gviz
+
 Package: mzID
 
 Package: mzR
