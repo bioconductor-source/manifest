@@ -123,6 +123,8 @@ Package: tximport
 
 Package: tximeta
 
+Package: apeglm
+
 Package: csaw
 
 Package: graph
