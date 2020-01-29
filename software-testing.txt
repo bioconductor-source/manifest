@@ -127,6 +127,10 @@ Package: tximeta
 
 Package: apeglm
 
+Package: qvalue
+
+Package: fishpond
+
 Package: DEXSeq
 
 Package: csaw
