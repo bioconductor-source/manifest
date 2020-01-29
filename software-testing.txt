@@ -127,6 +127,8 @@ Package: tximeta
 
 Package: apeglm
 
+Package: DEXSeq
+
 Package: csaw
 
 Package: graph
