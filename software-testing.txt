@@ -147,6 +147,8 @@ Package: ensembldb
 
 Package: biovizBase
 
+Package: ggbio
+
 Package: Gviz
 
 Package: mzID
