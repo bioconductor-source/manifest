@@ -73,6 +73,8 @@ Package: AnnotationHub
 
 Package: ExperimentHub
 
+Package: gdsfmt
+
 Package: biomaRt
 
 Package: GenomicFeatures
