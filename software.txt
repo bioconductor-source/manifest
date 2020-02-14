@@ -3649,3 +3649,5 @@ Package: DAMEfinder
 
 Package: DIAlignR
 
+Package: structToolbox
+
