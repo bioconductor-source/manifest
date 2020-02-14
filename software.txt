@@ -3653,3 +3653,5 @@ Package: structToolbox
 
 Package: netDx
 
+Package: struct
+
