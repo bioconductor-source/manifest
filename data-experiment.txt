@@ -761,3 +761,5 @@ Package: tartare
 
 Package: signatureSearchData
 
+Package: curatedAdipoArray
+
