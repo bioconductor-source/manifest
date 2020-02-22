@@ -763,5 +763,3 @@ Package: signatureSearchData
 
 Package: curatedAdipoArray
 
-Package: netDx.examples
-
