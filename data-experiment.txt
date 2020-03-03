@@ -763,3 +763,5 @@ Package: signatureSearchData
 
 Package: curatedAdipoArray
 
+Package: WGSmapp
+
