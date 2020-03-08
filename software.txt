@@ -3669,3 +3669,5 @@ Package: clustifyr
 
 Package: SCOPE
 
+Package: frenchFISH
+
