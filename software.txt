@@ -3691,3 +3691,5 @@ Package: exomePeak2
 
 Package: dittoSeq
 
+Package: ribor
+
