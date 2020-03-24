@@ -3693,3 +3693,5 @@ Package: ribor
 
 Package: scTHI
 
+Package: TAPseq
+
