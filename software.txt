@@ -3685,3 +3685,5 @@ Package: sarks
 
 Package: receptLoss
 
+Package: tscR
+
