@@ -3687,3 +3687,5 @@ Package: receptLoss
 
 Package: tscR
 
+Package: exomePeak2
+
