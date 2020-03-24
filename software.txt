@@ -3689,3 +3689,5 @@ Package: tscR
 
 Package: exomePeak2
 
+Package: dittoSeq
+
