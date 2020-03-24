@@ -765,3 +765,5 @@ Package: curatedAdipoArray
 
 Package: WGSmapp
 
+Package: scTHI.data
+
