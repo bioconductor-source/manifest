@@ -3703,3 +3703,5 @@ Package: rhdf5filters
 
 Package: RNAAgeCalc
 
+Package: eisaR
+
