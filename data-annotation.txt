@@ -16,3 +16,5 @@ Package: EpiTxDb.Hs.hg38
 
 Package: EpiTxDb.Sc.sacCer3
 
+Package: EpiTxDb.Mm.mm10
+
