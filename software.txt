@@ -3709,3 +3709,5 @@ Package: EpiTxDb
 
 Package: NoRCE
 
+Package: cmapR
+
