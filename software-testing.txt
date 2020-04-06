@@ -163,3 +163,7 @@ Package: cytolib
 
 Package: flowCore
 
+Package: basilisk.utils
+
+Package: basilisk
+
