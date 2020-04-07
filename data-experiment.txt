@@ -767,3 +767,5 @@ Package: WGSmapp
 
 Package: scTHI.data
 
+Package: HighlyReplicatedRNASeq
+
