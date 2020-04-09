@@ -167,3 +167,9 @@ Package: basilisk.utils
 
 Package: basilisk
 
+Package: rBiopaxParser
+
+Package: pcaMethods
+
+Package: MSnbase
+
