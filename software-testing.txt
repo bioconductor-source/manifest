@@ -173,3 +173,5 @@ Package: pcaMethods
 
 Package: MSnbase
 
+Package: nem
+
