@@ -3725,3 +3725,5 @@ Package: spicyR
 
 Package: BRGenomics
 
+Package: HIPPO
+
