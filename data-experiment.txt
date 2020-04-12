@@ -769,3 +769,5 @@ Package: scTHI.data
 
 Package: HighlyReplicatedRNASeq
 
+Package: dorothea
+
