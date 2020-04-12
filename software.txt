@@ -3723,3 +3723,5 @@ Package: ROCpAI
 
 Package: spicyR
 
+Package: BRGenomics
+
