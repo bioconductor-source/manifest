@@ -3721,3 +3721,5 @@ Package: GCSConnection
 
 Package: ROCpAI
 
+Package: spicyR
+
