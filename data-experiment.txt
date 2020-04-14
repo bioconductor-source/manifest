@@ -771,3 +771,5 @@ Package: HighlyReplicatedRNASeq
 
 Package: dorothea
 
+Package: gpaExample
+
