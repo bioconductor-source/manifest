@@ -3729,3 +3729,5 @@ Package: HIPPO
 
 Package: cytomapper
 
+Package: BiocDockerManager
+
