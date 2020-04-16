@@ -3741,3 +3741,5 @@ Package: MatrixGenerics
 
 Package: ExploreModelMatrix
 
+Package: glmGamPoi
+
