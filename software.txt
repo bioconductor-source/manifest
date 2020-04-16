@@ -3737,3 +3737,5 @@ Package: GPA
 
 Package: sparseMatrixStats
 
+Package: MatrixGenerics
+
