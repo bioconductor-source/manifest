@@ -251,8 +251,6 @@ Package: stemHypoxia
 
 Package: LungCancerLines
 
-Package: RIPSeekerData
-
 Package: SNAGEEdata
 
 Package: pRolocdata
@@ -702,8 +700,6 @@ Package: RNASeqRData
 Package: AssessORFData
 
 Package: PepsNMRData
-
-Package: MTseekerData
 
 Package: HCAData
 
