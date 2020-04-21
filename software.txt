@@ -3661,3 +3661,5 @@ Package: scClassify
 
 Package: methylSig
 
+Package: FRASER
+
