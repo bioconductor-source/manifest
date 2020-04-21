@@ -769,3 +769,5 @@ Package: dorothea
 
 Package: gpaExample
 
+Package: spqnData
+
