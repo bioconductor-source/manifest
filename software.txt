@@ -3657,3 +3657,5 @@ Package: randRotation
 
 Package: OpenStats
 
+Package: scClassify
+
