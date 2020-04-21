@@ -3643,3 +3643,5 @@ Package: MsCoreUtils
 
 Package: iSEEu
 
+Package: CiteFuse
+
