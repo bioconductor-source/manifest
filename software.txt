@@ -3649,3 +3649,5 @@ Package: GGPA
 
 Package: PloGO2
 
+Package: spqn
+
