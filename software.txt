@@ -3775,3 +3775,5 @@ Package: methylSig
 
 Package: FRASER
 
+Package: ROSeq
+
