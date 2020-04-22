@@ -3675,3 +3675,5 @@ Package: dpeak
 
 Package: scry
 
+Package: regutools
+
