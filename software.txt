@@ -3677,3 +3677,5 @@ Package: scry
 
 Package: regutools
 
+Package: SynExtend
+
