@@ -3679,3 +3679,5 @@ Package: regutools
 
 Package: SynExtend
 
+Package: SingleCellSignalR
+
