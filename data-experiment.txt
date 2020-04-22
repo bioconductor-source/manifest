@@ -771,3 +771,5 @@ Package: gpaExample
 
 Package: spqnData
 
+Package: SingleCellMultiModal
+
