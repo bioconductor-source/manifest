@@ -3681,3 +3681,5 @@ Package: SynExtend
 
 Package: SingleCellSignalR
 
+Package: metaseqR2
+
