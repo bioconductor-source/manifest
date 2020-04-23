@@ -3797,3 +3797,5 @@ Package: metaseqR2
 
 Package: CoreGx
 
+Package: weitrix
+
