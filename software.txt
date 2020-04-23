@@ -3683,3 +3683,5 @@ Package: SingleCellSignalR
 
 Package: metaseqR2
 
+Package: CoreGx
+
