@@ -777,3 +777,5 @@ Package: spqnData
 
 Package: SingleCellMultiModal
 
+Package: spatialLIBD
+
