@@ -3697,3 +3697,5 @@ Package: AnVIL
 
 Package: cBioPortalData
 
+Package: sangeranalyseR
+
