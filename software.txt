@@ -3701,3 +3701,5 @@ Package: sangeranalyseR
 
 Package: BrainSABER
 
+Package: TADCompare
+
