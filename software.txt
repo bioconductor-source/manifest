@@ -3717,3 +3717,5 @@ Package: getDEE2
 
 Package: SPsimSeq
 
+Package: RegEnrich
+
