@@ -3715,3 +3715,5 @@ Package: multicrispr
 
 Package: getDEE2
 
+Package: SPsimSeq
+
