@@ -19,3 +19,5 @@ Package: EpiTxDb.Sc.sacCer3
 
 Package: EpiTxDb.Mm.mm10
 
+Package: metaboliteIDmapping
+
