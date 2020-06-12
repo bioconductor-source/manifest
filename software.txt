@@ -3725,3 +3725,5 @@ Package: HCAMatrixBrowser
 
 Package: RadioGx
 
+Package: MouseFM
+
