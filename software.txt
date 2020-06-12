@@ -3733,3 +3733,5 @@ Package: ToxicoGx
 
 Package: multiGSEA
 
+Package: pipeComp
+
