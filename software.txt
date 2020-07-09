@@ -3749,3 +3749,5 @@ Package: scCB2
 
 Package: GSEAmining
 
+Package: wpm
+
