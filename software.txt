@@ -3755,3 +3755,5 @@ Package: MultiBaC
 
 Package: bluster
 
+Package: scDataviz
+
