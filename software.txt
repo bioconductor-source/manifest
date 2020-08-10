@@ -3763,3 +3763,5 @@ Package: escape
 
 Package: SpatialExperiment
 
+Package: ILoReg
+
