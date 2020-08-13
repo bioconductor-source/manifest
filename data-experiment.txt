@@ -781,3 +781,5 @@ Package: celldex
 
 Package: FieldEffectCrc
 
+Package: SCATE
+
