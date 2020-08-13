@@ -3775,3 +3775,5 @@ Package: transomics2cytoscape
 
 Package: Omixer
 
+Package: HPAStainR
+
