@@ -3777,3 +3777,5 @@ Package: Omixer
 
 Package: HPAStainR
 
+Package: hummingbird
+
