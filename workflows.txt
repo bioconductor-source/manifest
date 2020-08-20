@@ -33,6 +33,8 @@ Package: RnaSeqGeneEdgeRQL
 
 Package: sequencing
 
+Package: simpleSingleCell
+
 Package: TCGAWorkflow
 
 Package: variants
