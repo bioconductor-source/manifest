@@ -1,3 +1,0 @@
-## Blank lines between all entries
-Package: simpleSingleCell
-
