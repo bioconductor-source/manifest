@@ -3785,3 +3785,5 @@ Package: UMI4Cats
 
 Package: snifter
 
+Package: Nebulosa
+
