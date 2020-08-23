@@ -3783,3 +3783,5 @@ Package: uncoverappLib
 
 Package: UMI4Cats
 
+Package: snifter
+
