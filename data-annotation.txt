@@ -21,3 +21,5 @@ Package: EpiTxDb.Mm.mm10
 
 Package: metaboliteIDmapping
 
+Package: geneplast.data
+
