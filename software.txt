@@ -3791,3 +3791,5 @@ Package: rebook
 
 Package: QFeatures
 
+Package: VplotR
+
