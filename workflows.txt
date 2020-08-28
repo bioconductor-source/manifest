@@ -53,5 +53,3 @@ Package: CAGEWorkflow
 
 Package: fluentGenomics
 
-Package: OrchestratingSingleCellAnalysisWrapper
-
