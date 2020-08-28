@@ -1,5 +1,3 @@
 ## Blank lines between all entries
-Package: simpleSingleCell
-
 Package: OrchestratingSingleCellAnalysisWrapper
 
