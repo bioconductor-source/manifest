@@ -3803,3 +3803,5 @@ Package: idpr
 
 Package: Rfastp
 
+Package: metabolomicsWorkbenchR
+
