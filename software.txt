@@ -3805,3 +3805,5 @@ Package: Rfastp
 
 Package: metabolomicsWorkbenchR
 
+Package: FScanR
+
