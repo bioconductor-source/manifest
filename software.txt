@@ -3801,6 +3801,8 @@ Package: RIPAT
 
 Package: idpr
 
+Package: SCATE
+
 Package: Rfastp
 
 Package: metabolomicsWorkbenchR

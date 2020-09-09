@@ -781,8 +781,6 @@ Package: celldex
 
 Package: FieldEffectCrc
 
-Package: SCATE
-
 Package: SCATEData
 
 Package: clustifyrdatahub
