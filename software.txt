@@ -3809,3 +3809,5 @@ Package: metabolomicsWorkbenchR
 
 Package: FScanR
 
+Package: Spectra
+
