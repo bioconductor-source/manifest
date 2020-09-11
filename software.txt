@@ -3811,3 +3811,5 @@ Package: FScanR
 
 Package: Spectra
 
+Package: ISAnalytics
+
