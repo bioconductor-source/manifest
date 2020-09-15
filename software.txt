@@ -3815,3 +3815,5 @@ Package: ISAnalytics
 
 Package: recountmethylation
 
+Package: periodicDNA
+
