@@ -3839,3 +3839,5 @@ Package: TileDBArray
 
 Package: pageRank
 
+Package: MethReg
+
