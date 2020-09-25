@@ -53,3 +53,5 @@ Package: CAGEWorkflow
 
 Package: fluentGenomics
 
+Package: BP4RNAseq
+
