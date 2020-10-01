@@ -789,3 +789,5 @@ Package: timecoursedata
 
 Package: DropletTestFiles
 
+Package: TMExplorer
+
