@@ -55,5 +55,3 @@ Package: fluentGenomics
 
 Package: BP4RNAseq
 
-Package: SingleRBookWrapper
-
