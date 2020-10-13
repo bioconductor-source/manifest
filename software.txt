@@ -3865,3 +3865,5 @@ Package: ChromSCape
 
 Package: spatialHeatmap
 
+Package: tomoda
+
