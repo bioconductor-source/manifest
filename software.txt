@@ -3741,3 +3741,5 @@ Package: BayesSpace
 
 Package: customCMPdb
 
+Package: rnaEditr
+
