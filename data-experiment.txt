@@ -33,8 +33,6 @@ Package: gaschYHS
 
 Package: gatingMLData
 
-Package: GGdata
-
 Package: golubEsets
 
 Package: harbChIP
@@ -151,8 +149,6 @@ Package: gageData
 
 Package: mosaicsExample
 
-Package: RNAinteractMAPK
-
 Package: affycompData
 
 Package: simpIntLists
@@ -199,12 +195,6 @@ Package: BeadArrayUseCases
 
 Package: serumStimulation
 
-Package: pcaGoPromoter.Hs.hg19
-
-Package: pcaGoPromoter.Mm.mm9
-
-Package: pcaGoPromoter.Rn.rn4
-
 Package: rheumaticConditionWOLLBOLD
 
 Package: cgdv17
@@ -221,13 +211,7 @@ Package: cancerdata
 
 Package: miRNATarget
 
-Package: FunciSNP.data
-
 Package: PWMEnrich.Dmelanogaster.background
-
-Package: Mulder2012
-
-Package: waveTilingData
 
 Package: synapterdata
 
@@ -300,8 +284,6 @@ Package: RNAseqData.HNRNPC.bam.chr14
 Package: mammaPrintData
 
 Package: seventyGeneData
-
-Package: mitoODEdata
 
 Package: LungCancerACvsSCCGEO
 
@@ -489,15 +471,11 @@ Package: miRcompData
 
 Package: PCHiCdata
 
-Package: yriMulti
-
 Package: FIs
 
 Package: furrowSeg
 
 Package: JASPAR2016
-
-Package: geuvStore2
 
 Package: JctSeqData
 
