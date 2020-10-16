@@ -3745,3 +3745,5 @@ Package: rnaEditr
 
 Package: scp
 
+Package: microbiomeExplorer
+
