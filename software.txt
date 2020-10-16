@@ -59,8 +59,6 @@ Package: webbioc
 
 Package: ecolitk
 
-Package: simpleaffy
-
 Package: LPE
 
 Package: pickgene
@@ -94,8 +92,6 @@ Package: limmaGUI
 Package: marray
 
 Package: convert
-
-Package: prada
 
 Package: DNAcopy
 
@@ -147,8 +143,6 @@ Package: biomaRt
 
 Package: made4
 
-Package: spotSegmentation
-
 Package: tilingArray
 
 Package: safe
@@ -186,8 +180,6 @@ Package: fdrame
 Package: diffGeneAnalysis
 
 Package: timecourse
-
-Package: reb
 
 Package: maanova
 
@@ -271,8 +263,6 @@ Package: BioMVCClass
 
 Package: lapmix
 
-Package: GGtools
-
 Package: beadarraySNP
 
 Package: pkgDepTools
@@ -307,8 +297,6 @@ Package: BufferedMatrix
 
 Package: BufferedMatrixMethods
 
-Package: GeneticsDesign
-
 Package: seqLogo
 
 Package: topGO
@@ -318,8 +306,6 @@ Package: annotationTools
 Package: LBE
 
 Package: SLqPCR
-
-Package: PGSEA
 
 Package: Ringo
 
@@ -347,8 +333,6 @@ Package: keggorthology
 
 Package: SMAP
 
-Package: explorase
-
 Package: vbmp
 
 Package: arrayQualityMetrics
@@ -370,8 +354,6 @@ Package: maigesPack
 Package: yaqcaffy
 
 Package: Rdisop
-
-Package: xps
 
 Package: Rtreemix
 
@@ -408,8 +390,6 @@ Package: GEOmetadb
 Package: RBioinf
 
 Package: rtracklayer
-
-Package: GGBase
 
 Package: AffyCompatible
 
@@ -537,8 +517,6 @@ Package: ddCt
 
 Package: ChIPpeakAnno
 
-Package: Starr
-
 Package: mBPCR
 
 Package: ChIPsim
@@ -567,11 +545,7 @@ Package: ChIPseqR
 
 Package: HTqPCR
 
-Package: CNVtools
-
 Package: LiquidAssociation
-
-Package: BioSeqClass
 
 Package: DEGseq
 
@@ -580,8 +554,6 @@ Package: SpeCond
 Package: eisa
 
 Package: CSAR
-
-Package: DESeq
 
 Package: frma
 
@@ -595,8 +567,6 @@ Package: iChip
 
 Package: rGADEM
 
-Package: methVisual
-
 Package: MassArray
 
 Package: SamSPECTRAL
@@ -608,8 +578,6 @@ Package: GenomicRanges
 Package: genoCN
 
 Package: BeadDataPackR
-
-Package: MotIV
 
 Package: girafe
 
@@ -654,8 +622,6 @@ Package: IsoGeneGUI
 Package: CoGAPS
 
 Package: BioNet
-
-Package: CGEN
 
 Package: imageHTS
 
@@ -721,8 +687,6 @@ Package: chopsticks
 
 Package: pvac
 
-Package: joda
-
 Package: procoil
 
 Package: RNAinteract
@@ -746,8 +710,6 @@ Package: AnnotationFuncs
 Package: ENVISIONQuery
 
 Package: cn.farms
-
-Package: mcaGUI
 
 Package: Rsubread
 
@@ -797,13 +759,9 @@ Package: cqn
 
 Package: Repitools
 
-Package: flowType
-
 Package: ReadqPCR
 
 Package: Cormotif
-
-Package: GOFunction
 
 Package: GRENITS
 
@@ -863,8 +821,6 @@ Package: r3Cseq
 
 Package: ggbio
 
-Package: MmPalateMiRNA
-
 Package: isobar
 
 Package: exomeCopy
@@ -884,8 +840,6 @@ Package: fastseg
 Package: trigger
 
 Package: BiocGenerics
-
-Package: sigaR
 
 Package: ASEB
 
@@ -912,8 +866,6 @@ Package: Gviz
 Package: ternarynet
 
 Package: gwascat
-
-Package: NarrowPeaks
 
 Package: PING
 
@@ -989,8 +941,6 @@ Package: DBChIP
 
 Package: gmapR
 
-Package: CorMut
-
 Package: iPAC
 
 Package: networkBMA
@@ -1059,8 +1009,6 @@ Package: SNAGEE
 
 Package: UniProt.ws
 
-Package: plrs
-
 Package: BiocParallel
 
 Package: pvca
@@ -1080,8 +1028,6 @@ Package: GraphPAC
 Package: iBMQ
 
 Package: RSVSim
-
-Package: rTANDEM
 
 Package: Rbowtie
 
@@ -1110,8 +1056,6 @@ Package: cisPath
 Package: biomvRCNS
 
 Package: CAGEr
-
-Package: chimera
 
 Package: DESeq2
 
@@ -1168,8 +1112,6 @@ Package: sSeq
 Package: XVector
 
 Package: clonotypeR
-
-Package: flowFit
 
 Package: plethy
 
@@ -1245,13 +1187,9 @@ Package: BiGGR
 
 Package: chipenrich
 
-Package: Roleswitch
-
 Package: BADER
 
 Package: mzID
-
-Package: ArrayTV
 
 Package: BiRewire
 
@@ -1284,8 +1222,6 @@ Package: MSstats
 Package: openCyto
 
 Package: qcmetrics
-
-Package: shinyTANDEM
 
 Package: TFBSTools
 
@@ -1339,8 +1275,6 @@ Package: GenomeInfoDb
 
 Package: SomaticSignatures
 
-Package: Mirsynergy
-
 Package: MIMOSA
 
 Package: CNEr
@@ -1357,8 +1291,6 @@ Package: DMRcate
 
 Package: EDDA
 
-Package: scsR
-
 Package: Clomial
 
 Package: dualKS
@@ -1373,8 +1305,6 @@ Package: INPower
 
 Package: massiR
 
-Package: metaseqR
-
 Package: MLSeq
 
 Package: rpx
@@ -1382,8 +1312,6 @@ Package: rpx
 Package: QDNAseq
 
 Package: Rcpi
-
-Package: sapFinder
 
 Package: UNDO
 
@@ -1404,8 +1332,6 @@ Package: CompGO
 Package: flowCyBar
 
 Package: FRGEpistasis
-
-Package: Rariant
 
 Package: BiocCheck
 
@@ -1533,8 +1459,6 @@ Package: Rnits
 
 Package: switchBox
 
-Package: FourCSeq
-
 Package: SNPRelate
 
 Package: rain
@@ -1590,8 +1514,6 @@ Package: PAA
 Package: paxtoolsr
 
 Package: flowcatchR
-
-Package: focalCall
 
 Package: GenomicTuples
 
@@ -1652,10 +1574,6 @@ Package: cpvSNP
 Package: nethet
 
 Package: PROPER
-
-Package: gQTLBase
-
-Package: gQTLstats
 
 Package: FlowSOM
 
@@ -1723,8 +1641,6 @@ Package: LEA
 
 Package: MatrixRider
 
-Package: netbenchmark
-
 Package: RNAprobR
 
 Package: SIMAT
@@ -1761,8 +1677,6 @@ Package: FISHalyseR
 
 Package: mogsa
 
-Package: OmicsMarkeR
-
 Package: RUVcorr
 
 Package: cogena
@@ -1794,8 +1708,6 @@ Package: diffHic
 Package: CAnD
 
 Package: ENCODExplorer
-
-Package: flowVS
 
 Package: RnBeads
 
@@ -1829,8 +1741,6 @@ Package: hierGWAS
 
 Package: mirIntegrator
 
-Package: PGA
-
 Package: erma
 
 Package: IONiseR
@@ -1840,8 +1750,6 @@ Package: fCI
 Package: CNVPanelizer
 
 Package: XBSeq
-
-Package: Prize
 
 Package: INSPEcT
 
@@ -1856,8 +1764,6 @@ Package: ropls
 Package: genotypeeval
 
 Package: miRLAB
-
-Package: OGSA
 
 Package: traseR
 
@@ -2003,8 +1909,6 @@ Package: ggcyto
 
 Package: cellTree
 
-Package: JunctionSeq
-
 Package: SC3
 
 Package: PanVizGenerator
@@ -2048,8 +1952,6 @@ Package: chromPlot
 Package: cellity
 
 Package: garfield
-
-Package: GenRank
 
 Package: dada2
 
@@ -2233,8 +2135,6 @@ Package: ASAFE
 
 Package: RCAS
 
-Package: ImpulseDE
-
 Package: GeneGeneInteR
 
 Package: SNPediaR
@@ -2259,8 +2159,6 @@ Package: GRmetrics
 
 Package: CancerSubtypes
 
-Package: SVAPLSseq
-
 Package: GAprediction
 
 Package: PharmacoGx
@@ -2280,8 +2178,6 @@ Package: philr
 Package: MetaboSignal
 
 Package: gCrisprTools
-
-Package: LINC
 
 Package: signeR
 
@@ -2415,8 +2311,6 @@ Package: MCbiclust
 
 Package: RTNduals
 
-Package: sampleClassifier
-
 Package: geneClassifiers
 
 Package: REMP
@@ -2424,8 +2318,6 @@ Package: REMP
 Package: swfdr
 
 Package: TCGAbiolinksGUI
-
-Package: Logolas
 
 Package: mapscape
 
@@ -2445,13 +2337,9 @@ Package: rqt
 
 Package: GISPA
 
-Package: hicrep
-
 Package: epiNEM
 
 Package: IntEREst
-
-Package: pathprint
 
 Package: multiOmicsViz
 
@@ -2466,8 +2354,6 @@ Package: BiocFileCache
 Package: motifcounter
 
 Package: cydar
-
-Package: netReg
 
 Package: GA4GHclient
 
@@ -2498,8 +2384,6 @@ Package: GenomicScores
 Package: IMAS
 
 Package: semisup
-
-Package: ImpulseDE2
 
 Package: methylInheritance
 
@@ -2661,10 +2545,6 @@ Package: MIRA
 
 Package: omicRexposome
 
-Package: methyvim
-
-Package: PathwaySplice
-
 Package: chromVAR
 
 Package: methimpute
@@ -2729,8 +2609,6 @@ Package: loci2path
 
 Package: omicsPrint
 
-Package: signet
-
 Package: LineagePulse
 
 Package: GOfuncR
@@ -2752,8 +2630,6 @@ Package: hmdbQuery
 Package: DropletUtils
 
 Package: BiFET
-
-Package: CHARGE
 
 Package: mCSEA
 
@@ -2835,8 +2711,6 @@ Package: Sconify
 
 Package: GSEABenchmarkeR
 
-Package: adaptest
-
 Package: IMMAN
 
 Package: GateFinder
@@ -2898,8 +2772,6 @@ Package: RandomWalkRestartMH
 Package: BiocOncoTK
 
 Package: singscore
-
-Package: TxRegInfra
 
 Package: MSstatsQCgui
 
@@ -3460,8 +3332,6 @@ Package: MethCP
 Package: biscuiteer
 
 Package: DEWSeq
-
-Package: flowSpy
 
 Package: MMUPHin
 
