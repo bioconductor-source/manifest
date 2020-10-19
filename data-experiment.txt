@@ -399,6 +399,8 @@ Package: seqc
 
 Package: genomationData
 
+Package: geuvPack
+
 Package: RnaSeqSampleSizeData
 
 Package: WES.1KG.WUGSC
