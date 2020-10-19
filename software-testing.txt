@@ -43,6 +43,8 @@ Package: MatrixGenerics
 
 Package: DelayedArray
 
+Package: sparseMatrixStats
+
 Package: DelayedMatrixStats
 
 Package: annotate
