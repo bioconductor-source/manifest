@@ -39,6 +39,8 @@ Package: SPIA
 
 Package: Biostrings
 
+Package: MatrixGenerics
+
 Package: DelayedArray
 
 Package: DelayedMatrixStats
