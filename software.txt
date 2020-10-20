@@ -3745,3 +3745,5 @@ Package: microbiomeExplorer
 
 Package: RnaSeqSampleSize
 
+Package: recount3
+
