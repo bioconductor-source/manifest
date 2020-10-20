@@ -3877,3 +3877,5 @@ Package: scp
 
 Package: microbiomeExplorer
 
+Package: RnaSeqSampleSize
+
