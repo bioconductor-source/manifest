@@ -761,3 +761,5 @@ Package: TMExplorer
 
 Package: MethylSeqData
 
+Package: NanoporeRNASeq
+
