@@ -277,8 +277,6 @@ Package: prebsdata
 
 Package: DeSousa2013
 
-Package: flowFitExampleData
-
 Package: RNAseqData.HNRNPC.bam.chr14
 
 Package: mammaPrintData
@@ -573,11 +571,7 @@ Package: VariantToolsData
 
 Package: ChIPexoQualExample
 
-Package: sampleClassifierData
-
 Package: MIGSAdata
-
-Package: pathprintGEOData
 
 Package: biotmleData
 
@@ -592,8 +586,6 @@ Package: OnassisJavaLibs
 Package: MSstatsBioData
 
 Package: restfulSEData
-
-Package: methyvimData
 
 Package: vulcandata
 
