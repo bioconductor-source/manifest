@@ -3881,3 +3881,5 @@ Package: RnaSeqSampleSize
 
 Package: recount3
 
+Package: SpatialDecon
+
