@@ -917,8 +917,6 @@ Package: annmap
 
 Package: flowPeaks
 
-Package: FunciSNP
-
 Package: DSS
 
 Package: PWMEnrich
