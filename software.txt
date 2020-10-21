@@ -3081,8 +3081,6 @@ Package: projectR
 
 Package: qsmooth
 
-Package: MOFA
-
 Package: evaluomeR
 
 Package: DeMixT
