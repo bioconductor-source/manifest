@@ -3787,3 +3787,5 @@ Package: densvis
 
 Package: tidySummarizedExperiment
 
+Package: CellaRepertorium
+
