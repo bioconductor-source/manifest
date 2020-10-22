@@ -3921,3 +3921,5 @@ Package: NanoMethViz
 
 Package: densvis
 
+Package: tidySummarizedExperiment
+
