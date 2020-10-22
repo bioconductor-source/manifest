@@ -3789,3 +3789,5 @@ Package: tidySummarizedExperiment
 
 Package: CellaRepertorium
 
+Package: tidySingleCellExperiment
+
