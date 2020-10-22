@@ -3773,3 +3773,5 @@ Package: musicatk
 
 Package: megadepth
 
+Package: VERSO
+
