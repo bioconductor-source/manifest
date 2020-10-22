@@ -3919,3 +3919,5 @@ Package: ADImpute
 
 Package: NanoMethViz
 
+Package: densvis
+
