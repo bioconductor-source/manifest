@@ -3809,3 +3809,5 @@ Package: NewWave
 
 Package: GSgalgoR
 
+Package: AlpsNMR
+
