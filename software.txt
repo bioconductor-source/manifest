@@ -3929,3 +3929,5 @@ Package: tidySingleCellExperiment
 
 Package: dasper
 
+Package: scRepertoire
+
