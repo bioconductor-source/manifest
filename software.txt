@@ -3931,3 +3931,5 @@ Package: dasper
 
 Package: scRepertoire
 
+Package: GWAS.BAYES
+
