@@ -3811,3 +3811,5 @@ Package: GSgalgoR
 
 Package: AlpsNMR
 
+Package: moanin
+
