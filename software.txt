@@ -3813,3 +3813,5 @@ Package: AlpsNMR
 
 Package: moanin
 
+Package: shinyepico
+
