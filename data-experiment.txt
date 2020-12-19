@@ -765,3 +765,5 @@ Package: NanoporeRNASeq
 
 Package: preciseTADhub
 
+Package: GenomicDistributionsData
+
