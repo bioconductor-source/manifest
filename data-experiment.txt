@@ -767,3 +767,4 @@ Package: preciseTADhub
 
 Package: GenomicDistributionsData
 
+Package: RNAinteractMAPK
