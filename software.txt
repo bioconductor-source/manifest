@@ -3855,3 +3855,5 @@ Package: BumpyMatrix
 
 Package: ramr
 
+Package: SCArray
+
