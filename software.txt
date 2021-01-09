@@ -3853,3 +3853,5 @@ Package: GenomicDistributions
 
 Package: BumpyMatrix
 
+Package: ramr
+
