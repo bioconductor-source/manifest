@@ -768,3 +768,6 @@ Package: preciseTADhub
 Package: GenomicDistributionsData
 
 Package: RNAinteractMAPK
+
+Package: sampleClassifierData
+
