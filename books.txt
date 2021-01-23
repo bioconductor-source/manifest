@@ -4,3 +4,5 @@ Package: OSCA
 Package: SingleRBook
 
 Package: csawBook
+Package: OSCA.basic
+
