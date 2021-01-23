@@ -10,3 +10,5 @@ Package: OSCA.intro
 
 Package: OSCA.workflows
 
+Package: OSCA.advanced
+
