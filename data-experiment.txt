@@ -771,3 +771,5 @@ Package: RNAinteractMAPK
 
 Package: sampleClassifierData
 
+Package: scpdata
+
