@@ -3873,3 +3873,5 @@ Package: scClassifR
 
 Package: RiboDiPA
 
+Package: GeomxTools
+
