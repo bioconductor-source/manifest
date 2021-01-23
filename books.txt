@@ -8,3 +8,5 @@ Package: OSCA.basic
 
 Package: OSCA.intro
 
+Package: OSCA.workflows
+
