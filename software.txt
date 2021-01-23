@@ -3869,3 +3869,5 @@ Package: planet
 
 Package: NanoStringNCTools
 
+Package: scClassifR
+
