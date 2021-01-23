@@ -3871,3 +3871,5 @@ Package: NanoStringNCTools
 
 Package: scClassifR
 
+Package: RiboDiPA
+
