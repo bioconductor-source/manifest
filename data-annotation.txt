@@ -23,3 +23,14 @@ Package: metaboliteIDmapping
 
 Package: geneplast.data
 
+Package: AHEnsDbs
+
+Package: phastCons30way.UCSC.hg38
+
+Package: alternativeSplicingEvents.hg19
+
+Package: alternativeSplicingEvents.hg38
+
+Package: AHCytoBands
+
+Package: hpAnnot
