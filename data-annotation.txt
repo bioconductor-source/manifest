@@ -34,3 +34,5 @@ Package: alternativeSplicingEvents.hg38
 Package: AHCytoBands
 
 Package: hpAnnot
+Package: AHPathbankDbs
+
