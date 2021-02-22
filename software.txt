@@ -3427,7 +3427,7 @@ Package: ctgGEM
 
 Package: basilisk.utils
 
-Package: vasp
+Package: VaSP
 
 Package: ribosomeProfilingQC
 
