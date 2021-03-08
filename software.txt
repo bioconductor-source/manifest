@@ -3905,3 +3905,5 @@ Package: satuRn
 
 Package: IRISFGM
 
+Package: MAGAR
+
