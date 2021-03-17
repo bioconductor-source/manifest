@@ -3917,3 +3917,5 @@ Package: PDATK
 
 Package: midasHLA
 
+Package: dce
+
