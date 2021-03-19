@@ -57,3 +57,5 @@ Package: BP4RNAseq
 
 Package: OSCA.multisample
 
+Package: ExpHunterSuite
+
