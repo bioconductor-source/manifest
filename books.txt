@@ -13,3 +13,5 @@ Package: OSCA.workflows
 
 Package: OSCA.advanced
 
+Package: OSCA.multisample
+
