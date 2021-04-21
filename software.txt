@@ -3977,3 +3977,5 @@ Package: epidecodeR
 
 Package: cyanoFilter
 
+Package: conclus
+
