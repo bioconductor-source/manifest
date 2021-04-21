@@ -3975,3 +3975,5 @@ Package: mirTarRnaSeq
 
 Package: epidecodeR
 
+Package: cyanoFilter
+
