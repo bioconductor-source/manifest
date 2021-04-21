@@ -3973,3 +3973,5 @@ Package: LRcell
 
 Package: mirTarRnaSeq
 
+Package: epidecodeR
+
