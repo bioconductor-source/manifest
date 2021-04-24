@@ -39,3 +39,5 @@ Package: AHPathbankDbs
 
 Package: AHMeSHDbs
 
+Package: AHPubMedDbs
+
