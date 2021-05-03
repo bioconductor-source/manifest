@@ -3993,3 +3993,5 @@ Package: sechm
 
 Package: MungeSumstats
 
+Package: tricycle
+
