@@ -797,3 +797,5 @@ Package: BioImageDbs
 
 Package: emtdata
 
+Package: DExMAdata
+
