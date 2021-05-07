@@ -4023,3 +4023,5 @@ Package: immunotation
 
 Package: supersigs
 
+Package: DeepPINCS
+
