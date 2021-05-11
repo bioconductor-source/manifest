@@ -4039,3 +4039,5 @@ Package: MQmetrics
 
 Package: cbpManager
 
+Package: POWSC
+
