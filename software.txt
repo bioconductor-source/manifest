@@ -4051,3 +4051,5 @@ Package: epialleleR
 
 Package: MatrixQCvis
 
+Package: XNAString
+
