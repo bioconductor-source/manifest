@@ -4047,3 +4047,5 @@ Package: cosmosR
 
 Package: HGC
 
+Package: epialleleR
+
