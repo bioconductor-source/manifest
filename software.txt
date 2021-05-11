@@ -4043,3 +4043,5 @@ Package: POWSC
 
 Package: diffUTR
 
+Package: cosmosR
+
