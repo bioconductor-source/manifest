@@ -805,3 +805,5 @@ Package: TENxVisiumData
 
 Package: msigdb
 
+Package: STexampleData
+
