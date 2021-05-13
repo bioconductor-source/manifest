@@ -9,8 +9,6 @@ Package: cytofWorkflow
 
 Package: EGSEA123
 
-Package: eQTL
-
 Package: ExpressionNormalizationWorkflow
 
 Package: generegulation
