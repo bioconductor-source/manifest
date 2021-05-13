@@ -4065,3 +4065,5 @@ Package: decoupleR
 
 Package: KBoost
 
+Package: epigraHMM
+
