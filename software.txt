@@ -4075,3 +4075,5 @@ Package: mistyR
 
 Package: GenomicSuperSignature
 
+Package: SingleMoleculeFootprinting
+
