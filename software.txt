@@ -173,8 +173,6 @@ Package: oligo
 
 Package: clusterStab
 
-Package: affyQCReport
-
 Package: fdrame
 
 Package: diffGeneAnalysis
@@ -252,8 +250,6 @@ Package: Harshlight
 Package: quantsmooth
 
 Package: aroma.light
-
-Package: pcot2
 
 Package: spikeLI
 
@@ -335,13 +331,9 @@ Package: arrayQualityMetrics
 
 Package: CGHcall
 
-Package: AffyExpress
-
 Package: oligoClasses
 
 Package: VanillaICE
-
-Package: OutlierD
 
 Package: rsbml
 
@@ -356,8 +348,6 @@ Package: BGmix
 Package: gaga
 
 Package: SLGI
-
-Package: PCpheno
 
 Package: BAC
 
@@ -425,8 +415,6 @@ Package: edgeR
 
 Package: MEDME
 
-Package: ArrayTools
-
 Package: microRNA
 
 Package: ArrayExpress
@@ -476,8 +464,6 @@ Package: crlmm
 Package: dyebias
 
 Package: qpcrNorm
-
-Package: SSPA
 
 Package: GeneRegionScan
 
@@ -541,8 +527,6 @@ Package: DEGseq
 
 Package: SpeCond
 
-Package: eisa
-
 Package: CSAR
 
 Package: frma
@@ -572,8 +556,6 @@ Package: BeadDataPackR
 Package: girafe
 
 Package: Rsamtools
-
-Package: ExpressionView
 
 Package: tigre
 
@@ -637,8 +619,6 @@ Package: gage
 
 Package: CRImage
 
-Package: rnaSeqMap
-
 Package: GeneGA
 
 Package: R453Plus1Toolbox
@@ -695,8 +675,6 @@ Package: ibh
 
 Package: flowPlots
 
-Package: AnnotationFuncs
-
 Package: ENVISIONQuery
 
 Package: cn.farms
@@ -706,8 +684,6 @@ Package: Rsubread
 Package: genefu
 
 Package: survcomp
-
-Package: genoset
 
 Package: qrqc
 
@@ -877,8 +853,6 @@ Package: VegaMC
 
 Package: BitSeq
 
-Package: CancerMutationAnalysis
-
 Package: iBBiG
 
 Package: cnvGSA
@@ -923,8 +897,6 @@ Package: synapter
 
 Package: bsseq
 
-Package: DBChIP
-
 Package: gmapR
 
 Package: iPAC
@@ -941,11 +913,7 @@ Package: MotifDb
 
 Package: GeneNetworkBuilder
 
-Package: EasyqpcR
-
 Package: CNORfuzzy
-
-Package: methyAnalysis
 
 Package: fmcsR
 
@@ -970,8 +938,6 @@ Package: SCAN.UPC
 Package: agilp
 
 Package: CNORdt
-
-Package: bigmemoryExtras
 
 Package: CNORode
 
@@ -1051,8 +1017,6 @@ Package: ARRmNormalization
 
 Package: deltaGseg
 
-Package: dexus
-
 Package: epigenomix
 
 Package: pathview
@@ -1118,8 +1082,6 @@ Package: NetSAM
 Package: paircompviz
 
 Package: pathifier
-
-Package: RDAVIDWebService
 
 Package: rTRM
 
@@ -1193,8 +1155,6 @@ Package: AllelicImbalance
 
 Package: bioassayR
 
-Package: CexoR
-
 Package: dagLogo
 
 Package: epivizr
@@ -1251,8 +1211,6 @@ Package: BEAT
 
 Package: iClusterPlus
 
-Package: ELBOW
-
 Package: savR
 
 Package: trackViewer
@@ -1274,8 +1232,6 @@ Package: sangerseqR
 Package: unifiedWMWqPCR
 
 Package: DMRcate
-
-Package: EDDA
 
 Package: Clomial
 
@@ -1312,8 +1268,6 @@ Package: ASSIGN
 Package: ABSSeq
 
 Package: ChIPQC
-
-Package: CompGO
 
 Package: flowCyBar
 
@@ -1387,8 +1341,6 @@ Package: oposSOM
 
 Package: pepStat
 
-Package: Polyfit
-
 Package: pRolocGUI
 
 Package: Pviz
@@ -1453,8 +1405,6 @@ Package: TSCAN
 
 Package: GOsummaries
 
-Package: seqplots
-
 Package: systemPipeR
 
 Package: EnrichmentBrowser
@@ -1462,8 +1412,6 @@ Package: EnrichmentBrowser
 Package: GOexpress
 
 Package: MSnID
-
-Package: simulatorZ
 
 Package: MGFM
 
@@ -1523,8 +1471,6 @@ Package: IMPCdata
 
 Package: kebabs
 
-Package: ToPASeq
-
 Package: tracktables
 
 Package: BridgeDbR
@@ -1562,8 +1508,6 @@ Package: nethet
 Package: PROPER
 
 Package: FlowSOM
-
-Package: mdgsa
 
 Package: rgsepd
 
@@ -1626,8 +1570,6 @@ Package: immunoClust
 Package: LEA
 
 Package: MatrixRider
-
-Package: RNAprobR
 
 Package: SIMAT
 
@@ -1733,8 +1675,6 @@ Package: fCI
 
 Package: CNVPanelizer
 
-Package: XBSeq
-
 Package: INSPEcT
 
 Package: rnaseqcomp
@@ -1815,13 +1755,9 @@ Package: gcatest
 
 Package: iCheck
 
-Package: Imetagene
-
 Package: lfa
 
 Package: MEAL
-
-Package: metagenomeFeatures
 
 Package: pathVar
 
@@ -2261,8 +2197,6 @@ Package: ramwas
 
 Package: scDD
 
-Package: samExploreR
-
 Package: scone
 
 Package: treeio
@@ -2288,8 +2222,6 @@ Package: splatter
 Package: karyoploteR
 
 Package: discordant
-
-Package: POST
 
 Package: MCbiclust
 
@@ -2400,8 +2332,6 @@ Package: trena
 Package: GA4GHshiny
 
 Package: ndexr
-
-Package: IntramiRExploreR
 
 Package: methInheritSim
 
@@ -2993,8 +2923,6 @@ Package: cola
 
 Package: bigPint
 
-Package: cytofast
-
 Package: adductomicsR
 
 Package: topconfects
@@ -3036,8 +2964,6 @@ Package: Xeva
 Package: CellBench
 
 Package: hypeR
-
-Package: CoRegFlux
 
 Package: Modstrings
 
@@ -3242,8 +3168,6 @@ Package: Qtlizer
 Package: microbiomeDASim
 
 Package: idr2d
-
-Package: CrossICC
 
 Package: SEtools
 
