@@ -45,3 +45,5 @@ Package: AHLRBaseDbs
 
 Package: AHWikipathwaysDbs
 
+Package: gwascatData
+

@@ -4043,3 +4043,29 @@ Package: POWSC
 
 Package: diffUTR
 
+Package: cosmosR
+
+Package: HGC
+
+Package: epialleleR
+
+Package: MatrixQCvis
+
+Package: XNAString
+
+Package: vissE
+
+Package: BloodGen3Module
+
+Package: HubPub
+
+Package: msqrob2
+
+Package: decoupleR
+
+Package: KBoost
+
+Package: epigraHMM
+
+Package: rawrr
+

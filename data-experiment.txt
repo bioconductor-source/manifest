@@ -803,3 +803,9 @@ Package: BeadSorted.Saliva.EPIC
 
 Package: TENxVisiumData
 
+Package: msigdb
+
+Package: STexampleData
+
+Package: GSE13015
+
