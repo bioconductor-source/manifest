@@ -809,3 +809,5 @@ Package: STexampleData
 
 Package: GSE13015
 
+Package: SingleMoleculeFootprintingData
+

@@ -4069,3 +4069,11 @@ Package: epigraHMM
 
 Package: rawrr
 
+Package: MSstatsLOBD
+
+Package: mistyR
+
+Package: GenomicSuperSignature
+
+Package: SingleMoleculeFootprinting
+
