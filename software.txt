@@ -4063,3 +4063,5 @@ Package: msqrob2
 
 Package: decoupleR
 
+Package: KBoost
+
