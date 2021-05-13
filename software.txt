@@ -4061,3 +4061,5 @@ Package: HubPub
 
 Package: msqrob2
 
+Package: decoupleR
+
