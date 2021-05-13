@@ -267,8 +267,6 @@ Package: pkgDepTools
 
 Package: splots
 
-Package: SAGx
-
 Package: pcaMethods
 
 Package: RbcBook1
@@ -349,13 +347,9 @@ Package: rsbml
 
 Package: maigesPack
 
-Package: yaqcaffy
-
 Package: Rdisop
 
 Package: Rtreemix
-
-Package: BiocCaseStudies
 
 Package: BGmix
 
@@ -434,8 +428,6 @@ Package: MEDME
 Package: ArrayTools
 
 Package: microRNA
-
-Package: RNAither
 
 Package: ArrayExpress
 
@@ -882,8 +874,6 @@ Package: ReactomePA
 Package: gprege
 
 Package: VegaMC
-
-Package: RchyOptimyx
 
 Package: BitSeq
 
@@ -1696,8 +1686,6 @@ Package: ENmix
 Package: pandaR
 
 Package: R3CPET
-
-Package: FlowRepositoryR
 
 Package: diffHic
 
@@ -2647,8 +2635,6 @@ Package: omicplotR
 
 Package: TTMap
 
-Package: ChIPSeqSpike
-
 Package: DEComplexDisease
 
 Package: powerTCR
@@ -3163,8 +3149,6 @@ Package: PAST
 
 Package: StructuralVariantAnnotation
 
-Package: HCABrowser
-
 Package: TreeSummarizedExperiment
 
 Package: VennDetail
@@ -3354,8 +3338,6 @@ Package: tradeSeq
 Package: signatureSearch
 
 Package: cliqueMS
-
-Package: HCAExplorer
 
 Package: BiocSet
 
@@ -3585,8 +3567,6 @@ Package: RegEnrich
 
 Package: PeacoQC
 
-Package: HCAMatrixBrowser
-
 Package: RadioGx
 
 Package: MouseFM
@@ -3800,8 +3780,6 @@ Package: GWAS.BAYES
 Package: lefser
 
 Package: marr
-
-Package: MSEADbi
 
 Package: MSstatsConvert
 
