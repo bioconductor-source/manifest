@@ -3983,3 +3983,5 @@ Package: RCSL
 
 Package: ReactomeGraph4R
 
+Package: spiky
+
