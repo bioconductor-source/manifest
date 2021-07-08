@@ -49,3 +49,5 @@ Package: gwascatData
 
 Package: CTCF
 
+Package: chromhmmData
+
