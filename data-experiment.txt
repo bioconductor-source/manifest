@@ -567,8 +567,6 @@ Package: restfulSEData
 
 Package: vulcandata
 
-Package: brgedata
-
 Package: HarmonizedTCGAData
 
 Package: pcxnData
