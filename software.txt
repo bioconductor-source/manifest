@@ -4007,3 +4007,5 @@ Package: svaNUMT
 
 Package: Dino
 
+Package: scanMiR
+
