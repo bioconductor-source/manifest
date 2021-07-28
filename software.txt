@@ -3867,8 +3867,6 @@ Package: planet
 
 Package: NanoStringNCTools
 
-Package: scClassifR
-
 Package: RiboDiPA
 
 Package: GeomxTools
