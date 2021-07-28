@@ -4027,3 +4027,5 @@ Package: cfDNAPro
 
 Package: spatzie
 
+Package: scClassifR
+
