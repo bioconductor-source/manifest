@@ -4033,3 +4033,5 @@ Package: scanMiRApp
 
 Package: MAI
 
+Package: GEOexplorer
+
