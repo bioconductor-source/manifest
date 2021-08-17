@@ -4031,3 +4031,5 @@ Package: scClassifR
 
 Package: scanMiRApp
 
+Package: MAI
+
