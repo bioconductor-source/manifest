@@ -790,9 +790,8 @@ Package: SingleMoleculeFootprintingData
 Package: scanMiRData
 
 Package: brgedata
-Package: spatialDmelxsim
 
-Package: BentoBoxData
+Package: spatialDmelxsim
 
 Package: GSE103322
 
