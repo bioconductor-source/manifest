@@ -4046,3 +4046,5 @@ Package: BioPlex
 
 Package: traviz
 
+Package: spatialDE
+
