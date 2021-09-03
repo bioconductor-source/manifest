@@ -4050,3 +4050,5 @@ Package: spatialDE
 
 Package: ggspavis
 
+Package: rmspc
+
