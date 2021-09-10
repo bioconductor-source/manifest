@@ -51,3 +51,5 @@ Package: CTCF
 
 Package: chromhmmData
 
+Package: GeneSummary
+
