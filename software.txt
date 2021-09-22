@@ -4062,3 +4062,5 @@ Package: tanggle
 
 Package: ProteoDisco
 
+Package: scAnnotatR
+
