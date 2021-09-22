@@ -55,3 +55,5 @@ Package: GeneSummary
 
 Package: rGenomeTracksData
 
+Package: scAnnotatR.models
+
