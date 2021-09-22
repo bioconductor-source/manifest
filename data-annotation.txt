@@ -53,3 +53,5 @@ Package: chromhmmData
 
 Package: GeneSummary
 
+Package: rGenomeTracksData
+
