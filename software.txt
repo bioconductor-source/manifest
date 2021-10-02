@@ -4068,3 +4068,5 @@ Package: metapone
 
 Package: rGenomeTracks
 
+Package: tripr
+
