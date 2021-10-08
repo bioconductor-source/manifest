@@ -57,3 +57,5 @@ Package: rGenomeTracksData
 
 Package: scAnnotatR.models
 
+Package: synaptome.data
+
