@@ -4096,3 +4096,5 @@ Package: surfaltr
 
 Package: scTreeViz
 
+Package: CexoR
+
