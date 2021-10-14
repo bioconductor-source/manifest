@@ -4116,3 +4116,5 @@ Package: cliProfiler
 
 Package: MsBackendRawFileReader
 
+Package: biodbUniprot
+
