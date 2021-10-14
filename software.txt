@@ -4118,3 +4118,5 @@ Package: MsBackendRawFileReader
 
 Package: biodbUniprot
 
+Package: Cogito
+
