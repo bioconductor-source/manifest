@@ -423,8 +423,6 @@ Package: minionSummaryData
 
 Package: RnBeads.hg38
 
-Package: ABAData
-
 Package: RTCGA.clinical
 
 Package: RTCGA.mutations
@@ -444,8 +442,6 @@ Package: QDNAseq.mm10
 Package: SNPhoodData
 
 Package: miRcompData
-
-Package: PCHiCdata
 
 Package: FIs
 
@@ -555,8 +551,6 @@ Package: biotmleData
 
 Package: TCGAWorkflowData
 
-Package: RITANdata
-
 Package: microRNAome
 
 Package: OnassisJavaLibs
@@ -628,10 +622,6 @@ Package: TENxPBMCData
 Package: TabulaMurisData
 
 Package: mcsurvdata
-
-Package: tcgaWGBSData.hg19
-
-Package: brainImageRdata
 
 Package: breakpointRdata
 
