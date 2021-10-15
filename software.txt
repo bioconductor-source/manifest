@@ -363,8 +363,6 @@ Package: snpStats
 
 Package: GSEAlm
 
-Package: affyPara
-
 Package: flowClust
 
 Package: GEOmetadb
@@ -512,8 +510,6 @@ Package: CGHnormaliter
 Package: cycle
 
 Package: baySeq
-
-Package: GeneAnswers
 
 Package: ChromHeatMap
 
@@ -674,8 +670,6 @@ Package: MSnbase
 Package: ibh
 
 Package: flowPlots
-
-Package: ENVISIONQuery
 
 Package: cn.farms
 
@@ -841,8 +835,6 @@ Package: coGPS
 
 Package: HybridMTest
 
-Package: BrainStars
-
 Package: ReactomePA
 
 Package: gprege
@@ -886,8 +878,6 @@ Package: PWMEnrich
 Package: AnnotationForge
 
 Package: OSAT
-
-Package: KEGGprofile
 
 Package: synapter
 
@@ -1114,8 +1104,6 @@ Package: SeqVarTools
 Package: SpacePAC
 
 Package: trio
-
-Package: SwimR
 
 Package: supraHex
 
@@ -1621,8 +1609,6 @@ Package: diffHic
 
 Package: CAnD
 
-Package: ENCODExplorer
-
 Package: RnBeads
 
 Package: msa
@@ -1682,8 +1668,6 @@ Package: traseR
 Package: LedPred
 
 Package: HilbertCurve
-
-Package: destiny
 
 Package: variancePartition
 
@@ -1988,8 +1972,6 @@ Package: Pigengene
 Package: netprioR
 
 Package: FunChIP
-
-Package: SRGnet
 
 Package: GEM
 
@@ -3141,8 +3123,6 @@ Package: calm
 
 Package: SingleR
 
-Package: gramm4R
-
 Package: deltaCaptureC
 
 Package: Qtlizer
@@ -3200,8 +3180,6 @@ Package: target
 Package: OmnipathR
 
 Package: waddR
-
-Package: ALPS
 
 Package: LinkHD
 
@@ -3474,8 +3452,6 @@ Package: RegEnrich
 Package: PeacoQC
 
 Package: RadioGx
-
-Package: MouseFM
 
 Package: corral
 
