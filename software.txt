@@ -779,8 +779,6 @@ Package: GWASTools
 
 Package: minfi
 
-Package: predictionet
-
 Package: sva
 
 Package: r3Cseq
@@ -890,8 +888,6 @@ Package: AnnotationForge
 Package: OSAT
 
 Package: KEGGprofile
-
-Package: RGalaxy
 
 Package: synapter
 
@@ -1235,10 +1231,6 @@ Package: DMRcate
 
 Package: Clomial
 
-Package: dualKS
-
-Package: alsace
-
 Package: Basic4Cseq
 
 Package: CAFE
@@ -1425,8 +1417,6 @@ Package: ALDEx2
 
 Package: polyester
 
-Package: MSGFplus
-
 Package: derfinder
 
 Package: derfinderPlot
@@ -1434,8 +1424,6 @@ Package: derfinderPlot
 Package: derfinderHelper
 
 Package: regionReport
-
-Package: MSGFgui
 
 Package: IdeoViz
 
@@ -1743,8 +1731,6 @@ Package: dupRadar
 
 Package: EnrichedHeatmap
 
-Package: FindMyFriends
-
 Package: Guitar
 
 Package: TarSeqQC
@@ -1830,8 +1816,6 @@ Package: ggcyto
 Package: cellTree
 
 Package: SC3
-
-Package: PanVizGenerator
 
 Package: EmpiricalBrownsMethod
 
@@ -2728,8 +2712,6 @@ Package: CellTrails
 Package: sesame
 
 Package: qPLEXanalyzer
-
-Package: slinky
 
 Package: BiocNeighbors
 
@@ -3650,8 +3632,6 @@ Package: RnaSeqSampleSize
 Package: recount3
 
 Package: SpatialDecon
-
-Package: MSstatsTMTPTM
 
 Package: biocthis
 
