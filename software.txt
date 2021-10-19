@@ -4136,3 +4136,5 @@ Package: synapsis
 
 Package: biodbKegg
 
+Package: Cepo
+
