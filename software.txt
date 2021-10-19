@@ -4132,3 +4132,5 @@ Package: benchdamic
 
 Package: deconvR
 
+Package: synapsis
+
