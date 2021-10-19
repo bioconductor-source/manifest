@@ -799,3 +799,5 @@ Package: nullrangesData
 
 Package: NxtIRFdata
 
+Package: scATAC.Explorer
+
