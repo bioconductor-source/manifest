@@ -4134,3 +4134,5 @@ Package: deconvR
 
 Package: synapsis
 
+Package: biodbKegg
+
