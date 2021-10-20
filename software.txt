@@ -4148,3 +4148,5 @@ Package: GeoDiff
 
 Package: TargetDecoy
 
+Package: netOmics
+
