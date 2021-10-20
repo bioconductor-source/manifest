@@ -63,3 +63,5 @@ Package: synaptome.db
 
 Package: excluderanges
 
+Package: ontoProcData
+
