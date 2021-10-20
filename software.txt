@@ -3983,8 +3983,6 @@ Package: cfDNAPro
 
 Package: spatzie
 
-Package: scClassifR
-
 Package: scanMiRApp
 
 Package: MAI
@@ -3996,7 +3994,6 @@ Package: enhancerHomologSearch
 Package: veloviz
 
 Package: genomicInstability
-
 
 Package: BioPlex
 
