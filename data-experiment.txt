@@ -801,3 +801,5 @@ Package: NxtIRFdata
 
 Package: scATAC.Explorer
 
+Package: easierData
+
