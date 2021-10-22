@@ -4117,3 +4117,5 @@ Package: biodbHmdb
 
 Package: easier
 
+Package: RLSeq
+
