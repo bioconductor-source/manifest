@@ -4133,3 +4133,5 @@ Package: hermes
 
 Package: CNVMetrics
 
+Package: coMethDMR
+
