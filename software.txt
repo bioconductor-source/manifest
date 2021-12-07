@@ -4135,3 +4135,5 @@ Package: CNVMetrics
 
 Package: coMethDMR
 
+Package: GBScleanR
+
