@@ -4137,3 +4137,5 @@ Package: coMethDMR
 
 Package: GBScleanR
 
+Package: crisprBase
+
