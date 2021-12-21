@@ -4141,3 +4141,5 @@ Package: crisprBase
 
 Package: BOBaFIT
 
+Package: crisprScore
+
