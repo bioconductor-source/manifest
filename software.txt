@@ -4143,3 +4143,5 @@ Package: BOBaFIT
 
 Package: crisprScore
 
+Package: comapr
+
