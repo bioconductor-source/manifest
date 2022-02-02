@@ -4159,3 +4159,5 @@ Package: CompoundDb
 
 Package: MetaboAnnotation
 
+Package: PanomiR
+
