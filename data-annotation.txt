@@ -67,3 +67,5 @@ Package: ontoProcData
 
 Package: UCSCRepeatMasker
 
+Package: JASPAR2022
+
