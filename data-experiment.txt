@@ -813,3 +813,6 @@ Package: crisprScoreData
 
 Package: xcoredata
 
+Package: RITANdata
+
+
