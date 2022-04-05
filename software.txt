@@ -4207,3 +4207,5 @@ Package: fastreeR
 
 Package: biodbNcbi
 
+Package: biodbExpasy
+
