@@ -4219,3 +4219,5 @@ Package: qsvaR
 
 Package: seqArchR
 
+Package: single
+
