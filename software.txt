@@ -4217,3 +4217,5 @@ Package: GenProSeq
 
 Package: qsvaR
 
+Package: seqArchR
+
