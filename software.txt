@@ -4221,3 +4221,5 @@ Package: seqArchR
 
 Package: single
 
+Package: DepInfeR
+
