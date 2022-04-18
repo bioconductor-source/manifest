@@ -4227,3 +4227,5 @@ Package: protGear
 
 Package: tomoseqr
 
+Package: standR
+
