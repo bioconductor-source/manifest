@@ -4233,3 +4233,5 @@ Package: cytoMEM
 
 Package: qmtools
 
+Package: pareg
+
