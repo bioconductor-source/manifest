@@ -4225,3 +4225,5 @@ Package: DepInfeR
 
 Package: protGear
 
+Package: tomoseqr
+
