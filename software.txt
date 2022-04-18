@@ -4231,3 +4231,5 @@ Package: standR
 
 Package: cytoMEM
 
+Package: qmtools
+
