@@ -49,8 +49,6 @@ Package: MAQCsubset
 
 Package: MEEBOdata
 
-Package: ppiData
-
 Package: ProData
 
 Package: SNAData
@@ -244,8 +242,6 @@ Package: ARRmData
 Package: cMap2data
 
 Package: ConnectivityMap
-
-Package: DREAM4
 
 Package: DrugVsDiseasedata
 
@@ -554,8 +550,6 @@ Package: TCGAWorkflowData
 Package: microRNAome
 
 Package: OnassisJavaLibs
-
-Package: MSstatsBioData
 
 Package: restfulSEData
 

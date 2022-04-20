@@ -19,8 +19,6 @@ Package: liftOver
 
 Package: methylationArrayAnalysis
 
-Package: proteomics
-
 Package: recountWorkflow
 
 Package: RNAseq123

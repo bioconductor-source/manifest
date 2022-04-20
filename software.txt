@@ -209,8 +209,6 @@ Package: snapCGH
 
 Package: sscore
 
-Package: ScISI
-
 Package: beadarray
 
 Package: Mfuzz
@@ -266,8 +264,6 @@ Package: splots
 Package: pcaMethods
 
 Package: RbcBook1
-
-Package: ppiStats
 
 Package: flowCore
 
@@ -347,8 +343,6 @@ Package: BGmix
 
 Package: gaga
 
-Package: SLGI
-
 Package: BAC
 
 Package: XDE
@@ -402,8 +396,6 @@ Package: ITALICS
 Package: iterativeBMAsurv
 
 Package: DFP
-
-Package: RpsiXML
 
 Package: logitT
 
@@ -474,8 +466,6 @@ Package: Rmagpie
 Package: methylumi
 
 Package: CNTools
-
-Package: RmiR
 
 Package: chipseq
 
@@ -837,8 +827,6 @@ Package: HybridMTest
 
 Package: ReactomePA
 
-Package: gprege
-
 Package: VegaMC
 
 Package: BitSeq
@@ -886,8 +874,6 @@ Package: bsseq
 Package: gmapR
 
 Package: iPAC
-
-Package: networkBMA
 
 Package: PADOG
 
@@ -1047,8 +1033,6 @@ Package: sSeq
 
 Package: XVector
 
-Package: clonotypeR
-
 Package: plethy
 
 Package: EBSeq
@@ -1165,8 +1149,6 @@ Package: metaSeq
 
 Package: h5vc
 
-Package: PSICQUIC
-
 Package: CNVrd2
 
 Package: GenomicAlignments
@@ -1264,8 +1246,6 @@ Package: CoverageView
 Package: VariantFiltering
 
 Package: DMRforPairs
-
-Package: Sushi
 
 Package: npGSEA
 
@@ -1607,8 +1587,6 @@ Package: R3CPET
 
 Package: diffHic
 
-Package: CAnD
-
 Package: RnBeads
 
 Package: msa
@@ -1634,8 +1612,6 @@ Package: acde
 Package: ELMER
 
 Package: RareVariantVis
-
-Package: caOmicsV
 
 Package: hierGWAS
 
@@ -1679,8 +1655,6 @@ Package: NanoStringDiff
 
 Package: synlet
 
-Package: ABAEnrichment
-
 Package: TCGAbiolinks
 
 Package: BBCAnalyzer
@@ -1702,8 +1676,6 @@ Package: iGC
 Package: LOLA
 
 Package: motifbreakR
-
-Package: ProteomicsAnnotationHubData
 
 Package: RTCGA
 
@@ -1793,8 +1765,6 @@ Package: QuaternaryProd
 
 Package: GSALightning
 
-Package: tofsims
-
 Package: ggcyto
 
 Package: cellTree
@@ -1879,23 +1849,17 @@ Package: debrowser
 
 Package: ISoLDE
 
-Package: CountClust
-
 Package: OncoScore
 
 Package: AneuFinder
 
 Package: recoup
 
-Package: genphen
-
 Package: DEFormats
 
 Package: sscu
 
 Package: MultiAssayExperiment
-
-Package: GenoGAM
 
 Package: isomiRs
 
@@ -1944,8 +1908,6 @@ Package: Harman
 Package: epivizrServer
 
 Package: epivizrData
-
-Package: diffloop
 
 Package: CHRONOS
 
@@ -2289,8 +2251,6 @@ Package: pgca
 
 Package: RITAN
 
-Package: TSRchitect
-
 Package: msgbsR
 
 Package: trena
@@ -2360,8 +2320,6 @@ Package: RVS
 Package: CEMiTool
 
 Package: zFPKM
-
-Package: Onassis
 
 Package: DEP
 
@@ -2547,8 +2505,6 @@ Package: scmeth
 
 Package: MACPET
 
-Package: Rgin
-
 Package: DominoEffect
 
 Package: martini
@@ -2576,8 +2532,6 @@ Package: FELLA
 Package: iSEE
 
 Package: SummarizedBenchmark
-
-Package: perturbatr
 
 Package: iCNV
 
@@ -2903,8 +2857,6 @@ Package: rmelting
 
 Package: CNVRanger
 
-Package: phemd
-
 Package: Rcwl
 
 Package: BioMM
@@ -2942,8 +2894,6 @@ Package: DepecheR
 Package: RcwlPipelines
 
 Package: PoTRA
-
-Package: CHETAH
 
 Package: Structstrings
 
@@ -3082,8 +3032,6 @@ Package: SCANVIS
 Package: scGPS
 
 Package: HiLDA
-
-Package: Autotuner
 
 Package: Maaslin2
 
@@ -3235,8 +3183,6 @@ Package: selectKSigs
 
 Package: PathNet
 
-Package: PubScore
-
 Package: NPARC
 
 Package: CSSQ
@@ -3334,8 +3280,6 @@ Package: Dune
 Package: combi
 
 Package: gmoviz
-
-Package: GCSConnection
 
 Package: ROCpAI
 
@@ -3576,8 +3520,6 @@ Package: SeqGate
 Package: velociraptor
 
 Package: MSstatsPTM
-
-Package: GCSFilesystem
 
 Package: aggregateBioVar
 
