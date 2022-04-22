@@ -4195,3 +4195,5 @@ Package: sSNAPPY
 
 Package: extraChIPs
 
+Package: ompBAM
+
