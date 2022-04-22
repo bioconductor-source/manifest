@@ -4257,3 +4257,5 @@ Package: ompBAM
 
 Package: crisprBwa
 
+Package: cogeqc
+
