@@ -4193,3 +4193,5 @@ Package: borealis
 
 Package: sSNAPPY
 
+Package: extraChIPs
+
