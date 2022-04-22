@@ -4201,3 +4201,5 @@ Package: crisprBwa
 
 Package: cogeqc
 
+Package: Macarron
+
