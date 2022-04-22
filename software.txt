@@ -4263,3 +4263,5 @@ Package: Macarron
 
 Package: STdeconvolve
 
+Package: omicsViewer
+
