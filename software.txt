@@ -4255,3 +4255,5 @@ Package: extraChIPs
 
 Package: ompBAM
 
+Package: crisprBwa
+
