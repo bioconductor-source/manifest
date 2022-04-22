@@ -4191,3 +4191,5 @@ Package: terraTCGAdata
 
 Package: borealis
 
+Package: sSNAPPY
+
