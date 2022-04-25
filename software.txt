@@ -4269,3 +4269,5 @@ Package: DifferentialRegulation
 
 Package: RAREsim
 
+Package: EpiCompare
+
