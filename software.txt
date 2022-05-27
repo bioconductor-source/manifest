@@ -4223,3 +4223,5 @@ Package: mbOmic
 
 Package: BiocBaseUtils
 
+Package: SpotClean
+
