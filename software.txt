@@ -4225,3 +4225,5 @@ Package: BiocBaseUtils
 
 Package: SpotClean
 
+Package: SUITOR
+
