@@ -4229,3 +4229,5 @@ Package: SUITOR
 
 Package: PanViz
 
+Package: scDDboost
+
