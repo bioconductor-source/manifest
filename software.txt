@@ -4227,3 +4227,5 @@ Package: SpotClean
 
 Package: SUITOR
 
+Package: PanViz
+
