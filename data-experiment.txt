@@ -814,3 +814,5 @@ Package: epimutacionsData
 
 Package: VectraPolarisData
 
+Package: EpiMix.data
+
