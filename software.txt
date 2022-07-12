@@ -3937,8 +3937,6 @@ Package: veloviz
 
 Package: genomicInstability
 
-Package: BioPlex
-
 Package: traviz
 
 Package: spatialDE
