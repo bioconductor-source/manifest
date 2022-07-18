@@ -4263,3 +4263,5 @@ Package: RedisParam
 
 Package: eds
 
+Package: crisprDesign
+
