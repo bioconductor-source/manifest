@@ -4279,3 +4279,5 @@ Package: SimBu
 
 Package: ATACseqTFEA
 
+Package: crisprVerse
+
