@@ -4281,3 +4281,5 @@ Package: ATACseqTFEA
 
 Package: crisprVerse
 
+Package: BASiCStan
+
