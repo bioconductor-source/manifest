@@ -4283,3 +4283,5 @@ Package: crisprVerse
 
 Package: BASiCStan
 
+Package: EasyCellType
+
