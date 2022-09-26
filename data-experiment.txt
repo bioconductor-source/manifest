@@ -821,3 +821,5 @@ Package: gemma.R
 
 Package: MerfishData
 
+Package: HiContactsData
+
