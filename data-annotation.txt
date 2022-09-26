@@ -69,3 +69,5 @@ Package: UCSCRepeatMasker
 
 Package: JASPAR2022
 
+Package: UniProtKeywords
+
