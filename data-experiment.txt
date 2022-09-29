@@ -817,8 +817,6 @@ Package: EpiMix.data
 
 Package: BioPlex
 
-Package: gemma.R
-
 Package: MerfishData
 
 Package: HiContactsData
