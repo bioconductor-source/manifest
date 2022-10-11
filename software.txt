@@ -4315,3 +4315,5 @@ Package: gemma.R
 
 Package: SPIAT
 
+Package: scBubbletree
+
