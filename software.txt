@@ -4317,3 +4317,5 @@ Package: SPIAT
 
 Package: scBubbletree
 
+Package: magrene
+
