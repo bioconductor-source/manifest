@@ -821,3 +821,5 @@ Package: MerfishData
 
 Package: HiContactsData
 
+Package: SFEData
+
