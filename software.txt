@@ -4341,3 +4341,5 @@ Package: BioNAR
 
 Package: cardelino
 
+Package: signifinder
+
