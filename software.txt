@@ -4335,3 +4335,15 @@ Package: MetaPhOR
 
 Package: TENxIO
 
+Package: RESOLVE
+
+Package: BioNAR
+
+Package: cardelino
+
+Package: signifinder
+
+Package: ccImpute
+
+Package: stJoincount
+
