@@ -71,8 +71,6 @@ Package: qvalue
 
 Package: impute
 
-Package: rama
-
 Package: Icens
 
 Package: EBarrays
@@ -160,8 +158,6 @@ Package: idiogram
 Package: geneRecommender
 
 Package: ssize
-
-Package: bridge
 
 Package: hypergraph
 
@@ -267,8 +263,6 @@ Package: RbcBook1
 
 Package: flowCore
 
-Package: flowUtils
-
 Package: flowViz
 
 Package: AnnotationDbi
@@ -343,8 +337,6 @@ Package: BGmix
 
 Package: gaga
 
-Package: BAC
-
 Package: XDE
 
 Package: GraphAlignment
@@ -364,8 +356,6 @@ Package: GEOmetadb
 Package: RBioinf
 
 Package: rtracklayer
-
-Package: AffyCompatible
 
 Package: goProfiles
 
@@ -436,8 +426,6 @@ Package: KEGGgraph
 Package: qpgraph
 
 Package: spkTools
-
-Package: tspair
 
 Package: SPIA
 
@@ -630,8 +618,6 @@ Package: Clonality
 Package: mgsa
 
 Package: seqbias
-
-Package: TDARACNE
 
 Package: phenoTest
 
@@ -828,8 +814,6 @@ Package: HybridMTest
 Package: ReactomePA
 
 Package: VegaMC
-
-Package: BitSeq
 
 Package: iBBiG
 
@@ -1236,8 +1220,6 @@ Package: flowCyBar
 Package: FRGEpistasis
 
 Package: BiocCheck
-
-Package: flowCL
 
 Package: metaMS
 
@@ -2161,8 +2143,6 @@ Package: REMP
 
 Package: swfdr
 
-Package: TCGAbiolinksGUI
-
 Package: mapscape
 
 Package: cellscape
@@ -2892,8 +2872,6 @@ Package: qckitfastq
 Package: DepecheR
 
 Package: RcwlPipelines
-
-Package: PoTRA
 
 Package: Structstrings
 
