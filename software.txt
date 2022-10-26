@@ -4347,3 +4347,15 @@ Package: ccImpute
 
 Package: stJoincount
 
+Package: BiocFHIR
+
+Package: simpleSeg
+
+Package: DNAfusion
+
+Package: FuseSOM
+
+Package: NetActivity
+
+Package: octad
+
