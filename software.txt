@@ -4349,3 +4349,5 @@ Package: stJoincount
 
 Package: BiocFHIR
 
+Package: simpleSeg
+
