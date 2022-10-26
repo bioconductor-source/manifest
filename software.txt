@@ -563,8 +563,6 @@ Package: NTW
 
 Package: MBCB
 
-Package: IsoGeneGUI
-
 Package: CoGAPS
 
 Package: BioNet
@@ -605,8 +603,6 @@ Package: DEGraph
 
 Package: MLP
 
-Package: gaia
-
 Package: snm
 
 Package: TEQC
@@ -636,8 +632,6 @@ Package: RNAinteract
 Package: clst
 
 Package: clstutils
-
-Package: inveRsion
 
 Package: clusterProfiler
 
@@ -900,8 +894,6 @@ Package: CNORode
 Package: HMMcopy
 
 Package: HTSeqGenie
-
-Package: Rcade
 
 Package: TransView
 
@@ -1453,8 +1445,6 @@ Package: chromDraw
 
 Package: CODEX
 
-Package: coMET
-
 Package: gespeR
 
 Package: TRONCO
@@ -1748,8 +1738,6 @@ Package: QuaternaryProd
 Package: GSALightning
 
 Package: ggcyto
-
-Package: cellTree
 
 Package: SC3
 
@@ -2253,8 +2241,6 @@ Package: zinbwave
 
 Package: RTNsurvival
 
-Package: coexnet
-
 Package: mfa
 
 Package: RProtoBufLib
@@ -2469,11 +2455,7 @@ Package: omicplotR
 
 Package: TTMap
 
-Package: DEComplexDisease
-
 Package: powerTCR
-
-Package: iteremoval
 
 Package: kissDE
 
@@ -2482,8 +2464,6 @@ Package: enrichplot
 Package: CellScore
 
 Package: scmeth
-
-Package: MACPET
 
 Package: DominoEffect
 
@@ -2705,8 +2685,6 @@ Package: ERSSA
 
 Package: breakpointR
 
-Package: gpart
-
 Package: glmSparseNet
 
 Package: IsoCorrectoR
@@ -2728,8 +2706,6 @@ Package: NeighborNet
 Package: FCBF
 
 Package: MSstatsTMT
-
-Package: RNASeqR
 
 Package: KinSwingR
 
@@ -2766,8 +2742,6 @@ Package: artMS
 Package: abseqR
 
 Package: mixOmics
-
-Package: TimeSeriesExperiment
 
 Package: universalmotif
 
@@ -2921,8 +2895,6 @@ Package: RepViz
 
 Package: scRecover
 
-Package: scAlign
-
 Package: ADAMgui
 
 Package: HumanTranscriptomeCompendium
@@ -2972,8 +2944,6 @@ Package: TreeSummarizedExperiment
 Package: VennDetail
 
 Package: mnem
-
-Package: XCIR
 
 Package: SQLDataFrame
 
@@ -3036,8 +3006,6 @@ Package: SigsPack
 Package: VariantExperiment
 
 Package: brendaDb
-
-Package: sojourner
 
 Package: MOSim
 
@@ -3175,8 +3143,6 @@ Package: dearseq
 
 Package: easyreporting
 
-Package: scMAGeCK
-
 Package: BgeeCall
 
 Package: packFinder
@@ -3212,8 +3178,6 @@ Package: clustifyr
 Package: SCOPE
 
 Package: frenchFISH
-
-Package: ctgGEM
 
 Package: basilisk.utils
 
@@ -3351,8 +3315,6 @@ Package: cBioPortalData
 
 Package: sangeranalyseR
 
-Package: BrainSABER
-
 Package: TADCompare
 
 Package: flowCut
@@ -3386,8 +3348,6 @@ Package: pipeComp
 Package: fmrs
 
 Package: Rtpca
-
-Package: CytoTree
 
 Package: GWENA
 
@@ -3669,8 +3629,6 @@ Package: TrajectoryGeometry
 
 Package: SANTA
 
-Package: TraRe
-
 Package: Summix
 
 Package: HiCDCPlus
@@ -3750,8 +3708,6 @@ Package: mirTarRnaSeq
 Package: epidecodeR
 
 Package: cyanoFilter
-
-Package: conclus
 
 Package: ptairMS
 
