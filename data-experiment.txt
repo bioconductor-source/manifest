@@ -29,8 +29,6 @@ Package: fibroEset
 
 Package: gaschYHS
 
-Package: gatingMLData
-
 Package: golubEsets
 
 Package: harbChIP
@@ -622,8 +620,6 @@ Package: breakpointRdata
 Package: OMICsPCAdata
 
 Package: RegParallel
-
-Package: RNASeqRData
 
 Package: AssessORFData
 
