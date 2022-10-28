@@ -4297,3 +4297,5 @@ Package: coMET
 
 Package: Statial
 
+Package: metabinR
+
