@@ -4359,3 +4359,9 @@ Package: NetActivity
 
 Package: octad
 
+Package: Statial
+
+Package: metabinR
+
+Package: MSstatsShiny
+
