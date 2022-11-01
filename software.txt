@@ -281,9 +281,9 @@ Package: lumi
 
 Package: pdInfoBuilder
 
-Package: BufferedMatrix
+#Package: BufferedMatrix
 
-Package: BufferedMatrixMethods
+#Package: BufferedMatrixMethods
 
 Package: seqLogo
 
@@ -987,7 +987,7 @@ Package: proteinProfiles
 
 Package: ARRmNormalization
 
-Package: deltaGseg
+#Package: deltaGseg
 
 Package: epigenomix
 
@@ -1699,7 +1699,7 @@ Package: iCheck
 
 Package: lfa
 
-Package: MEAL
+#Package: MEAL
 
 Package: pathVar
 
@@ -2903,7 +2903,7 @@ Package: pathwayPCA
 
 Package: proBatch
 
-Package: projectR
+#Package: projectR
 
 Package: qsmooth
 
@@ -2973,7 +2973,7 @@ Package: metagene2
 
 Package: animalcules
 
-Package: infercnv
+#Package: infercnv
 
 Package: TPP2D
 
@@ -3613,7 +3613,7 @@ Package: moanin
 
 Package: shinyepico
 
-Package: VarCon
+#Package: VarCon
 
 Package: metapod
 
