@@ -4303,3 +4303,5 @@ Package: MSstatsShiny
 
 Package: doubletrouble
 
+Package: microSTASIS
+
