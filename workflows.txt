@@ -55,3 +55,5 @@ Package: ExpHunterSuite
 
 Package: GeoMxWorkflows
 
+Package: seqpac
+
