@@ -4313,3 +4313,5 @@ Package: seqArchRplus
 
 Package: speckle
 
+Package: MsQuality
+
