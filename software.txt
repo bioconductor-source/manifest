@@ -4311,3 +4311,5 @@ Package: planttfhunter
 
 Package: seqArchRplus
 
+Package: speckle
+
