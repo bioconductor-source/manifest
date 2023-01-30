@@ -827,3 +827,5 @@ Package: octad.db
 
 Package: MicrobiomeBenchmarkData
 
+Package: MetaScope
+
