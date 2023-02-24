@@ -4339,3 +4339,5 @@ Package: rifiComparative
 
 Package: CytoPipeline
 
+Package: scFeatures
+
