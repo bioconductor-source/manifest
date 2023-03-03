@@ -4359,3 +4359,5 @@ Package: alabaster.matrix
 
 Package: alabaster.se
 
+Package: alabaster.sce
+
