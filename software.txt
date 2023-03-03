@@ -4341,3 +4341,5 @@ Package: CytoPipeline
 
 Package: scFeatures
 
+Package: BiocHubsShiny
+
