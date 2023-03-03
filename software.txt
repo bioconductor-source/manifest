@@ -4373,3 +4373,5 @@ Package: alabaster.vcf
 
 Package: alabaster
 
+Package: chihaya
+
