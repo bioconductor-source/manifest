@@ -4363,3 +4363,5 @@ Package: alabaster.sce
 
 Package: alabaster.spatial
 
+Package: alabaster.bumpy
+
