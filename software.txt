@@ -4381,3 +4381,5 @@ Package: scviR
 
 Package: flowGate
 
+Package: magpie
+
