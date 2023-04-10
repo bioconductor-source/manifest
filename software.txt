@@ -4411,3 +4411,5 @@ Package: Rarr
 
 Package: SiPSiC
 
+Package: SpatialOmicsOverlay
+
