@@ -4419,3 +4419,5 @@ Package: seq.hotSPOT
 
 Package: DELocal
 
+Package: EDIRquery
+
