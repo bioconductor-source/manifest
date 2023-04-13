@@ -4417,3 +4417,5 @@ Package: Rcollectl
 
 Package: seq.hotSPOT
 
+Package: DELocal
+
