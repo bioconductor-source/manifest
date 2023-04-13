@@ -4415,3 +4415,5 @@ Package: SpatialOmicsOverlay
 
 Package: Rcollectl
 
+Package: seq.hotSPOT
+
