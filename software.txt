@@ -4413,3 +4413,5 @@ Package: SiPSiC
 
 Package: SpatialOmicsOverlay
 
+Package: Rcollectl
+
