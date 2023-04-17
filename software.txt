@@ -4423,3 +4423,5 @@ Package: EDIRquery
 
 Package: CBNplot
 
+Package: concordexR
+
