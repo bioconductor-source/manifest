@@ -4425,3 +4425,5 @@ Package: CBNplot
 
 Package: concordexR
 
+Package: MoleculeExperiment
+
