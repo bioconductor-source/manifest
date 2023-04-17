@@ -4435,3 +4435,5 @@ Package: pairedGSEA
 
 Package: retrofit
 
+Package: FeatSeekR
+
