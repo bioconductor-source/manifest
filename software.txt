@@ -4441,3 +4441,5 @@ Package: screenCounter
 
 Package: OutSplice
 
+Package: BiocHail
+
