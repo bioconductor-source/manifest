@@ -4443,3 +4443,5 @@ Package: OutSplice
 
 Package: BiocHail
 
+Package: SVMDO
+
