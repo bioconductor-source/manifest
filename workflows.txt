@@ -57,3 +57,5 @@ Package: GeoMxWorkflows
 
 Package: seqpac
 
+Package: spicyWorkflow
+
