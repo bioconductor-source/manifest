@@ -175,8 +175,6 @@ Package: diffGeneAnalysis
 
 Package: timecourse
 
-Package: maanova
-
 Package: affxparser
 
 Package: biocViews
@@ -665,8 +663,6 @@ Package: anota
 
 Package: GSVA
 
-Package: ArrayExpressHTS
-
 Package: flowWorkspace
 
 Package: REDseq
@@ -987,8 +983,6 @@ Package: SeqGSEA
 
 Package: geNetClassifier
 
-Package: copynumber
-
 Package: antiProfiles
 
 Package: piano
@@ -1149,15 +1143,11 @@ Package: BEAT
 
 Package: iClusterPlus
 
-Package: savR
-
 Package: trackViewer
 
 Package: GenomeInfoDb
 
 Package: SomaticSignatures
-
-Package: MIMOSA
 
 Package: CNEr
 
@@ -1290,8 +1280,6 @@ Package: OncoSimulR
 Package: missMethyl
 
 Package: ballgown
-
-Package: STAN
 
 Package: interactiveDisplayBase
 
@@ -1533,10 +1521,6 @@ Package: RUVcorr
 
 Package: cogena
 
-Package: CopywriteR
-
-Package: NanoStringQCPro
-
 Package: TPP
 
 Package: RCyjs
@@ -1603,8 +1587,6 @@ Package: rCGH
 
 Package: ropls
 
-Package: genotypeeval
-
 Package: miRLAB
 
 Package: traseR
@@ -1657,15 +1639,9 @@ Package: EnrichedHeatmap
 
 Package: Guitar
 
-Package: TarSeqQC
-
 Package: DAPAR
 
-Package: gcatest
-
 Package: iCheck
-
-Package: lfa
 
 Package: MEAL
 
@@ -2057,8 +2033,6 @@ Package: regsplice
 
 Package: yamss
 
-Package: proFIA
-
 Package: CCPROMISE
 
 Package: fCCAC
@@ -2196,8 +2170,6 @@ Package: methylInheritance
 Package: biotmle
 
 Package: BLMA
-
-Package: metavizr
 
 Package: cellbaseR
 
@@ -2527,8 +2499,6 @@ Package: InTAD
 
 Package: CytoDx
 
-Package: ChIC
-
 Package: RSeqAn
 
 Package: SDAMS
@@ -2611,8 +2581,6 @@ Package: appreci8R
 
 Package: OUTRIDER
 
-Package: NBSplice
-
 Package: ACE
 
 Package: scruff
@@ -2630,8 +2598,6 @@ Package: consensus
 Package: INDEED
 
 Package: hierinf
-
-Package: GeneAccord
 
 Package: celaref
 
@@ -2757,11 +2723,7 @@ Package: DNABarcodeCompatibility
 
 Package: rScudo
 
-Package: PrecisionTrialDrawer
-
 Package: DelayedDataFrame
-
-Package: epihet
 
 Package: VCFArray
 
@@ -2790,8 +2752,6 @@ Package: bigPint
 Package: adductomicsR
 
 Package: topconfects
-
-Package: GAPGOM
 
 Package: SMAD
 
@@ -2844,8 +2804,6 @@ Package: Structstrings
 Package: AMARETTO
 
 Package: pathwayPCA
-
-Package: proBatch
 
 Package: projectR
 
@@ -3039,8 +2997,6 @@ Package: MEB
 
 Package: BioTIP
 
-Package: pulsedSilac
-
 Package: GmicR
 
 Package: DMCFB
@@ -3069,13 +3025,9 @@ Package: waddR
 
 Package: LinkHD
 
-Package: ASpediaFI
-
 Package: schex
 
 Package: MBQN
-
-Package: MethCP
 
 Package: biscuiteer
 
@@ -3110,8 +3062,6 @@ Package: signatureSearch
 Package: cliqueMS
 
 Package: BiocSet
-
-Package: netboxr
 
 Package: ceRNAnetsim
 
@@ -3180,8 +3130,6 @@ Package: ribosomeProfilingQC
 Package: rrvgo
 
 Package: receptLoss
-
-Package: tscR
 
 Package: exomePeak2
 
@@ -3518,8 +3466,6 @@ Package: tidySummarizedExperiment
 Package: CellaRepertorium
 
 Package: tidySingleCellExperiment
-
-Package: dasper
 
 Package: scRepertoire
 
@@ -3920,8 +3866,6 @@ Package: sparrow
 Package: pairkat
 
 Package: MicrobiomeProfiler
-
-Package: ODER
 
 Package: microbiomeMarker
 
