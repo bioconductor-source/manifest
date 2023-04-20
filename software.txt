@@ -235,8 +235,6 @@ Package: TypeInfo
 
 Package: gaggle
 
-Package: sigPathway
-
 Package: ABarray
 
 Package: Harshlight
@@ -252,8 +250,6 @@ Package: BioMVCClass
 Package: lapmix
 
 Package: beadarraySNP
-
-Package: pkgDepTools
 
 Package: splots
 
@@ -2143,8 +2139,6 @@ Package: EventPointer
 
 Package: Organism.dplyr
 
-Package: MIGSA
-
 Package: rqt
 
 Package: GISPA
@@ -2390,8 +2384,6 @@ Package: oncomix
 Package: PROPS
 
 Package: MetaCyto
-
-Package: chromswitch
 
 Package: mpra
 
@@ -3233,8 +3225,6 @@ Package: HIPPO
 
 Package: cytomapper
 
-Package: BiocDockerManager
-
 Package: peco
 
 Package: GPA
@@ -3968,8 +3958,6 @@ Package: Cepo
 Package: scatterHatch
 
 Package: mosbi
-
-Package: NxtIRFcore
 
 Package: GeoDiff
 
