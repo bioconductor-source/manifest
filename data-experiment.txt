@@ -837,3 +837,5 @@ Package: gDNAinRNAseqData
 
 Package: marinerData
 
+Package: CoSIAdata
+
