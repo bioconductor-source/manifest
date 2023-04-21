@@ -563,7 +563,7 @@ Package: NTW
 
 Package: MBCB
 
-Package: CoGAPS
+#Package: CoGAPS
 
 Package: BioNet
 
