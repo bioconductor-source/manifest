@@ -4385,3 +4385,5 @@ Package: pfamAnalyzeR
 
 Package: CoSIA
 
+Package: MultimodalExperiment
+
