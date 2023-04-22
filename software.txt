@@ -4387,3 +4387,5 @@ Package: CoSIA
 
 Package: MultimodalExperiment
 
+Package: S4Arrays
+
