@@ -4453,3 +4453,9 @@ Package: pfamAnalyzeR
 
 Package: CoSIA
 
+Package: MultimodalExperiment
+
+Package: S4Arrays
+
+Package: SparseArray
+
