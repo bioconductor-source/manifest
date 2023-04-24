@@ -517,8 +517,6 @@ Package: scRNAseq
 
 Package: PtH2O2lipids
 
-Package: alpineData
-
 Package: CellMapperData
 
 Package: HumanAffyData
