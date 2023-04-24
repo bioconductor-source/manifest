@@ -1953,8 +1953,6 @@ Package: GAprediction
 
 Package: PharmacoGx
 
-Package: alpine
-
 Package: Anaquin
 
 Package: eegc
