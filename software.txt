@@ -4393,3 +4393,5 @@ Package: demuxSNP
 
 Package: DCATS
 
+Package: partCNV
+
