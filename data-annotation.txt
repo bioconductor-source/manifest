@@ -73,3 +73,5 @@ Package: UniProtKeywords
 
 Package: BioMartGOGeneSets
 
+Package: MPO.db
+
