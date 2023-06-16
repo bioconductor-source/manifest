@@ -181,3 +181,9 @@ Package: nem
 
 Package: affxparser
 
+Package: MsCoreUtils
+
+Package: biocViews
+
+Package: BiocCheck
+
