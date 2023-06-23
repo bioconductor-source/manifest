@@ -75,3 +75,5 @@ Package: BioMartGOGeneSets
 
 Package: MPO.db
 
+Package: HPO.db
+
