@@ -845,3 +845,5 @@ Package: orthosData
 
 Package: multiWGCNAdata
 
+Package: smokingMouse
+
