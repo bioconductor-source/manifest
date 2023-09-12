@@ -4449,3 +4449,5 @@ Package: beachmat.hdf5
 
 Package: iSEEde
 
+Package: compSPOT
+
