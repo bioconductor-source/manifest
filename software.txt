@@ -4463,3 +4463,5 @@ Package: CytoPipelineGUI
 
 Package: dreamlet
 
+Package: iSEEpathways
+
