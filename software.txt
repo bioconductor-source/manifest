@@ -4471,3 +4471,5 @@ Package: hoodscanR
 
 Package: Rvisdiff
 
+Package: GloScope
+
