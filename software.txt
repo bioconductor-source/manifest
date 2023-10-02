@@ -4469,3 +4469,5 @@ Package: easylift
 
 Package: hoodscanR
 
+Package: Rvisdiff
+
