@@ -4495,3 +4495,5 @@ Package: plasmut
 
 Package: BiocBook
 
+Package: CCPlotR
+
