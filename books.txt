@@ -15,3 +15,5 @@ Package: OSCA.advanced
 
 Package: OSCA.multisample
 
+Package: BiocBookDemo
+
