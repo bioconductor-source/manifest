@@ -4493,3 +4493,5 @@ Package: gg4way
 
 Package: plasmut
 
+Package: BiocBook
+
