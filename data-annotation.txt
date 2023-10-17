@@ -79,3 +79,5 @@ Package: HPO.db
 
 Package: JASPAR2024
 
+Package: SomaScan.db
+
