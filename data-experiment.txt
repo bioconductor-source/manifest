@@ -853,3 +853,5 @@ Package: HCATonsilData
 
 Package: TumourMethData
 
+Package: SpatialDatasets
+
