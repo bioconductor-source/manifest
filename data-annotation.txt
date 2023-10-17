@@ -77,3 +77,5 @@ Package: MPO.db
 
 Package: HPO.db
 
+Package: JASPAR2024
+
