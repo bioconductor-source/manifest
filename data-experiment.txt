@@ -855,3 +855,5 @@ Package: TumourMethData
 
 Package: SpatialDatasets
 
+Package: raerdata
+
