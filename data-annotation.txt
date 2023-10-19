@@ -81,3 +81,11 @@ Package: JASPAR2024
 
 Package: SomaScan.db
 
+Package: cadd.v1.6.hg38
+
+Package: cadd.v1.6.hg19
+
+Package: AlphaMissense.v2023.hg38
+
+Package: AlphaMissense.v2023.hg19
+
