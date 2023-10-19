@@ -123,8 +123,6 @@ Package: stepNorm
 
 Package: MVCClass
 
-Package: macat
-
 Package: SBMLR
 
 Package: sagenhaft
@@ -199,10 +197,6 @@ Package: GEOquery
 
 Package: codelink
 
-Package: snapCGH
-
-Package: sscore
-
 Package: beadarray
 
 Package: Mfuzz
@@ -230,8 +224,6 @@ Package: logicFS
 Package: BSgenome
 
 Package: TypeInfo
-
-Package: gaggle
 
 Package: ABarray
 
@@ -283,8 +275,6 @@ Package: LBE
 
 Package: SLqPCR
 
-Package: Ringo
-
 Package: ACME
 
 Package: MassSpecWavelet
@@ -327,8 +317,6 @@ Package: Rdisop
 
 Package: Rtreemix
 
-Package: BGmix
-
 Package: gaga
 
 Package: XDE
@@ -355,8 +343,6 @@ Package: goProfiles
 
 Package: ShortRead
 
-Package: LPEadj
-
 Package: CGHbase
 
 Package: CGHregions
@@ -380,8 +366,6 @@ Package: ITALICS
 Package: iterativeBMAsurv
 
 Package: DFP
-
-Package: logitT
 
 Package: PLPE
 
@@ -481,8 +465,6 @@ Package: CGHnormaliter
 
 Package: cycle
 
-Package: baySeq
-
 Package: ChromHeatMap
 
 Package: ChIPseqR
@@ -561,8 +543,6 @@ Package: CoGAPS
 
 Package: BioNet
 
-Package: imageHTS
-
 Package: RDRToolbox
 
 Package: NuPoP
@@ -603,11 +583,7 @@ Package: TEQC
 
 Package: TurboNorm
 
-Package: Clonality
-
 Package: mgsa
-
-Package: seqbias
 
 Package: phenoTest
 
@@ -642,8 +618,6 @@ Package: Rsubread
 Package: genefu
 
 Package: survcomp
-
-Package: qrqc
 
 Package: NCIgraph
 
@@ -742,8 +716,6 @@ Package: r3Cseq
 Package: ggbio
 
 Package: isobar
-
-Package: exomeCopy
 
 Package: ReQON
 
@@ -945,8 +917,6 @@ Package: MineICA
 
 Package: cisPath
 
-Package: biomvRCNS
-
 Package: CAGEr
 
 Package: DESeq2
@@ -999,8 +969,6 @@ Package: sSeq
 
 Package: XVector
 
-Package: plethy
-
 Package: EBSeq
 
 Package: tRanslatome
@@ -1029,13 +997,9 @@ Package: cleanUpdTSeq
 
 Package: OmicCircos
 
-Package: seqCNA
-
 Package: SigFuge
 
 Package: TargetScore
-
-Package: CSSP
 
 Package: intansv
 
@@ -1205,8 +1169,6 @@ Package: CoverageView
 
 Package: VariantFiltering
 
-Package: DMRforPairs
-
 Package: npGSEA
 
 Package: TitanCNA
@@ -1269,11 +1231,7 @@ Package: shinyMethyl
 
 Package: GSReg
 
-Package: MEIGOR
-
 Package: MultiMed
-
-Package: netbiov
 
 Package: OncoSimulR
 
@@ -1320,8 +1278,6 @@ Package: SNPRelate
 Package: rain
 
 Package: TSCAN
-
-Package: GOsummaries
 
 Package: systemPipeR
 
@@ -1407,8 +1363,6 @@ Package: seqTools
 
 Package: pepXMLTab
 
-Package: Metab
-
 Package: AIMS
 
 Package: genomation
@@ -1434,8 +1388,6 @@ Package: gespeR
 Package: TRONCO
 
 Package: gdsfmt
-
-Package: mAPKL
 
 Package: seqPattern
 
@@ -1498,8 +1450,6 @@ Package: ensembldb
 Package: gtrellis
 
 Package: rcellminer
-
-Package: LowMACA
 
 Package: podkat
 
@@ -1650,8 +1600,6 @@ Package: pathVar
 Package: Prostar
 
 Package: SICtools
-
-Package: SISPA
 
 Package: SWATH2stats
 
@@ -1833,8 +1781,6 @@ Package: pqsfinder
 
 Package: BgeeDB
 
-Package: genbankr
-
 Package: LymphoSeq
 
 Package: InteractionSet
@@ -1912,8 +1858,6 @@ Package: clusterExperiment
 Package: AMOUNTAIN
 
 Package: LOBSTAHS
-
-Package: DeepBlueR
 
 Package: methylKit
 
@@ -2043,8 +1987,6 @@ Package: phosphonormalizer
 
 Package: MWASTools
 
-Package: GRridge
-
 Package: IWTomics
 
 Package: DelayedArray
@@ -2112,8 +2054,6 @@ Package: EventPointer
 Package: Organism.dplyr
 
 Package: rqt
-
-Package: GISPA
 
 Package: epiNEM
 
@@ -2184,8 +2124,6 @@ Package: pgca
 Package: RITAN
 
 Package: msgbsR
-
-Package: trena
 
 Package: GA4GHshiny
 
@@ -2375,8 +2313,6 @@ Package: loci2path
 
 Package: omicsPrint
 
-Package: LineagePulse
-
 Package: GOfuncR
 
 Package: MAGeCKFlute
@@ -2457,8 +2393,6 @@ Package: SummarizedBenchmark
 
 Package: iCNV
 
-Package: SEPIRA
-
 Package: phantasus
 
 Package: Sconify
@@ -2514,8 +2448,6 @@ Package: igvR
 Package: sevenC
 
 Package: ccfindR
-
-Package: RNAdecay
 
 Package: TCGAutils
 
@@ -2727,8 +2659,6 @@ Package: VCFArray
 
 Package: SpatialCPie
 
-Package: deco
-
 Package: graper
 
 Package: CluMSID
@@ -2745,8 +2675,6 @@ Package: Rhisat2
 
 Package: cola
 
-Package: bigPint
-
 Package: adductomicsR
 
 Package: topconfects
@@ -2762,8 +2690,6 @@ Package: rmelting
 Package: CNVRanger
 
 Package: Rcwl
-
-Package: BioMM
 
 Package: atSNP
 
@@ -2846,8 +2772,6 @@ Package: scRecover
 Package: ADAMgui
 
 Package: HumanTranscriptomeCompendium
-
-Package: OmicsLonDA
 
 Package: CopyNumberPlots
 
@@ -2981,8 +2905,6 @@ Package: debCAM
 
 Package: ReactomeGSA
 
-Package: pwrEWAS
-
 Package: flowSpecs
 
 Package: lionessR
@@ -3000,8 +2922,6 @@ Package: GmicR
 Package: DMCFB
 
 Package: methylCC
-
-Package: MSstatsSampleSize
 
 Package: SAIGEgds
 
@@ -3043,11 +2963,7 @@ Package: MACSQuantifyR
 
 Package: methrix
 
-Package: GCSscore
-
 Package: scTGIF
-
-Package: fcoex
 
 Package: RNAsense
 
@@ -3319,8 +3235,6 @@ Package: transomics2cytoscape
 
 Package: Omixer
 
-Package: HPAStainR
-
 Package: hummingbird
 
 Package: uncoverappLib
@@ -3344,8 +3258,6 @@ Package: BiocIO
 Package: RIPAT
 
 Package: idpr
-
-Package: SCATE
 
 Package: Rfastp
 
@@ -3517,8 +3429,6 @@ Package: PoDCall
 
 Package: CAEN
 
-Package: PFP
-
 Package: GenomicDistributions
 
 Package: BumpyMatrix
@@ -3554,8 +3464,6 @@ Package: TrajectoryUtils
 Package: MetaboCoreUtils
 
 Package: fobitools
-
-Package: Travel
 
 Package: MACSr
 
@@ -3690,8 +3598,6 @@ Package: supersigs
 Package: DeepPINCS
 
 Package: miloR
-
-Package: multiSight
 
 Package: DExMA
 
@@ -4005,8 +3911,6 @@ Package: CBEA
 
 Package: biodbNci
 
-Package: biodbMirbase
-
 Package: fastreeR
 
 Package: biodbNcbi
@@ -4080,8 +3984,6 @@ Package: GRaNIE
 Package: rifi
 
 Package: APL
-
-Package: mbOmic
 
 Package: BiocBaseUtils
 
