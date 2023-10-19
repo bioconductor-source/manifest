@@ -55,8 +55,6 @@ Package: SpikeIn
 
 Package: SpikeInSubset
 
-Package: stjudem
-
 Package: yeastCC
 
 Package: yeastExpData
@@ -95,10 +93,6 @@ Package: hapmapsnp5
 
 Package: hapmapsnp6
 
-Package: MAQCsubsetILM
-
-Package: ccTutorial
-
 Package: ITALICSData
 
 Package: humanStemCell
@@ -126,8 +120,6 @@ Package: leeBamViews
 Package: geneLenDataBase
 
 Package: EatonEtAlChIPseq
-
-Package: DLBCL
 
 Package: dressCheck
 
@@ -271,8 +263,6 @@ Package: IlluminaDataTestFiles
 
 Package: TargetScoreData
 
-Package: seqCNA.annot
-
 Package: Fletcher2013a
 
 Package: Fletcher2013b
@@ -376,8 +366,6 @@ Package: genomationData
 Package: RnaSeqSampleSizeData
 
 Package: WES.1KG.WUGSC
-
-Package: mAPKLData
 
 Package: seq2pathway.data
 
@@ -535,8 +523,6 @@ Package: VariantToolsData
 
 Package: ChIPexoQualExample
 
-Package: MIGSAdata
-
 Package: biotmleData
 
 Package: TCGAWorkflowData
@@ -586,8 +572,6 @@ Package: tissueTreg
 Package: HDCytoData
 
 Package: MetaGxPancreas
-
-Package: ChIC.data
 
 Package: FlowSorted.Blood.EPIC
 
@@ -669,8 +653,6 @@ Package: TENxBUSData
 
 Package: ReactomeGSA.data
 
-Package: pwrEWAS.data
-
 Package: biscuiteerData
 
 Package: tartare
@@ -700,8 +682,6 @@ Package: optimalFlowData
 Package: celldex
 
 Package: FieldEffectCrc
-
-Package: SCATEData
 
 Package: clustifyrdatahub
 
