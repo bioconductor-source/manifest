@@ -4417,3 +4417,5 @@ Package: phantasusLite
 
 Package: enrichViewNet
 
+Package: scider
+
