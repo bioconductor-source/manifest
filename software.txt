@@ -4513,3 +4513,17 @@ Package: MSstatsBig
 
 Package: phantasusLite
 
+Package: enrichViewNet
+
+Package: scider
+
+Package: lemur
+
+Package: GNOSIS
+
+Package: regionalpcs
+
+Package: decontX
+
+Package: scDesign3
+
