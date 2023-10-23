@@ -4527,3 +4527,7 @@ Package: decontX
 
 Package: scDesign3
 
+Package: QTLExperiment
+
+Package: IsoBayes
+
