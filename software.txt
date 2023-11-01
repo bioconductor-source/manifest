@@ -4437,3 +4437,5 @@ Package: lute
 
 Package: pgxRpi
 
+Package: shiny.gosling
+
