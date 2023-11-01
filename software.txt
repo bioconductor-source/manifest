@@ -4439,3 +4439,5 @@ Package: pgxRpi
 
 Package: shiny.gosling
 
+Package: ClusterFoldSimilarity
+
