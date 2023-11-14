@@ -4441,3 +4441,5 @@ Package: shiny.gosling
 
 Package: ClusterFoldSimilarity
 
+Package: pathlinkR
+
