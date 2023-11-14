@@ -837,3 +837,5 @@ Package: SpatialDatasets
 
 Package: raerdata
 
+Package: curatedPCaData
+
