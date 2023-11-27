@@ -4447,3 +4447,5 @@ Package: CTexploreR
 
 Package: BERT
 
+Package: PLSDAbatch
+
