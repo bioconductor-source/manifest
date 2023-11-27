@@ -4443,3 +4443,5 @@ Package: ClusterFoldSimilarity
 
 Package: pathlinkR
 
+Package: CTexploreR
+
