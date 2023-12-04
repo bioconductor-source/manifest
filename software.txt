@@ -4447,5 +4447,7 @@ Package: CTexploreR
 
 Package: BERT
 
+Package: biomvRCNS
+
 Package: PLSDAbatch
 
