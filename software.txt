@@ -4455,3 +4455,5 @@ Package: AlphaMissenseR
 
 Package: spillR
 
+Package: betaHMM
+
