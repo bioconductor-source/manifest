@@ -4453,3 +4453,5 @@ Package: PLSDAbatch
 
 Package: AlphaMissenseR
 
+Package: spillR
+
