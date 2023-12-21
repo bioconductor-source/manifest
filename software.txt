@@ -4459,3 +4459,5 @@ Package: betaHMM
 
 Package: CRISPRball
 
+Package: saseR
+
