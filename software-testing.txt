@@ -37,6 +37,10 @@ Package: Biostrings
 
 Package: MatrixGenerics
 
+Package: S4Arrays
+
+Package: SparseArray
+
 Package: DelayedArray
 
 Package: sparseMatrixStats
