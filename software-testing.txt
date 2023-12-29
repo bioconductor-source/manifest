@@ -5,11 +5,7 @@ Package: BiocStyle
 
 Package: BiocGenerics
 
-Package: DynDoc
-
 Package: widgetTools
-
-Package: tkWidgets
 
 Package: Biobase
 
