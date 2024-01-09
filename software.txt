@@ -4463,3 +4463,5 @@ Package: saseR
 
 Package: Banksy
 
+Package: methodical
+
