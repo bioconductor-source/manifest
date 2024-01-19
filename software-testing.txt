@@ -63,6 +63,8 @@ Package: Rsamtools
 
 Package: GenomicAlignments
 
+Package: BiocIO
+
 Package: rtracklayer
 
 Package: microRNA
@@ -100,6 +102,8 @@ Package: multtest
 Package: impute
 
 Package: Rhdf5lib
+
+Package: rhdf5filters
 
 Package: rhdf5
 
@@ -182,4 +186,28 @@ Package: MsCoreUtils
 Package: biocViews
 
 Package: BiocCheck
+
+Package: KEGGREST
+
+Package: treeio
+
+Package: ggtree
+
+Package: enrichplot
+
+Package: clusterProfiler
+
+Package: DOSE
+
+Package: fgsea
+
+Package: GOSemSim
+
+Package: ComplexHeatmap
+
+Package: BiocSingular
+
+Package: ScaledMatrix
+
+Package: scuttle
 
