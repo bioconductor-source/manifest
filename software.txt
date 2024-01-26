@@ -4471,3 +4471,5 @@ Package: VisiumIO
 
 Package: tidyCoverage
 
+Package: tidySpatialExperiment
+
