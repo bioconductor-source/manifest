@@ -4473,3 +4473,5 @@ Package: tidyCoverage
 
 Package: tidySpatialExperiment
 
+Package: dar
+
