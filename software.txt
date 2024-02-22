@@ -4491,3 +4491,5 @@ Package: gypsum
 
 Package: transmogR
 
+Package: tidyomics
+
