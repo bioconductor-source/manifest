@@ -89,3 +89,5 @@ Package: AlphaMissense.v2023.hg38
 
 Package: AlphaMissense.v2023.hg19
 
+Package: EPICv2manifest
+
