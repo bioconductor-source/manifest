@@ -4493,3 +4493,5 @@ Package: transmogR
 
 Package: tidyomics
 
+Package: faers
+
