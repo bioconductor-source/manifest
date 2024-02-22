@@ -4495,3 +4495,5 @@ Package: tidyomics
 
 Package: faers
 
+Package: Pedixplorer
+
