@@ -4503,3 +4503,5 @@ Package: mobileRNA
 
 Package: sketchR
 
+Package: spoon
+
