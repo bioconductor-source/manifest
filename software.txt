@@ -4505,3 +4505,5 @@ Package: sketchR
 
 Package: spoon
 
+Package: rawDiag
+
