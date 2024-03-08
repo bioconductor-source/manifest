@@ -127,6 +127,8 @@ Package: Rsubread
 
 Package: geneplotter
 
+Package: glmGamPoi
+
 Package: DESeq2
 
 Package: tximport
