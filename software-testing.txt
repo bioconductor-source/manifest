@@ -227,3 +227,5 @@ Package: ScaledMatrix
 
 Package: scuttle
 
+Package: GEOquery
+
