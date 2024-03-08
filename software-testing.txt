@@ -107,6 +107,8 @@ Package: rhdf5filters
 
 Package: rhdf5
 
+Package: zellkonverter
+
 Package: HDF5Array
 
 Package: beachmat
