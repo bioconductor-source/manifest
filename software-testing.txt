@@ -131,6 +131,8 @@ Package: glmGamPoi
 
 Package: DESeq2
 
+Package: eds
+
 Package: tximport
 
 Package: tximeta
