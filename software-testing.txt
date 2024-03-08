@@ -215,6 +215,8 @@ Package: GOSemSim
 
 Package: ComplexHeatmap
 
+Package: ResidualMatrix
+
 Package: BiocSingular
 
 Package: ScaledMatrix
