@@ -141,6 +141,8 @@ Package: fishpond
 
 Package: DEXSeq
 
+Package: metapod
+
 Package: csaw
 
 Package: graph
@@ -169,6 +171,8 @@ Package: cytolib
 
 Package: flowCore
 
+Package: dir.expiry
+
 Package: basilisk.utils
 
 Package: basilisk
@@ -184,6 +188,8 @@ Package: affxparser
 Package: MsCoreUtils
 
 Package: biocViews
+
+Package: BiocBaseUtils
 
 Package: BiocCheck
 
