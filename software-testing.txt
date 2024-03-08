@@ -189,6 +189,8 @@ Package: pcaMethods
 
 Package: MSnbase
 
+Package: Rdisop
+
 Package: affxparser
 
 Package: MsCoreUtils
