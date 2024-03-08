@@ -229,3 +229,7 @@ Package: scuttle
 
 Package: GEOquery
 
+Package: gcrma
+
+Package: affyPLM
+
