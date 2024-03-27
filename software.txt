@@ -4535,3 +4535,5 @@ Package: CaMutQC
 
 Package: CytoMDS
 
+Package: dinoR
+
