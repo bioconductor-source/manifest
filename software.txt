@@ -4539,3 +4539,5 @@ Package: dinoR
 
 Package: motifTestR
 
+Package: MGnifyR
+
