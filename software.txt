@@ -4541,3 +4541,5 @@ Package: motifTestR
 
 Package: MGnifyR
 
+Package: smartid
+
