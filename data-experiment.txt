@@ -855,3 +855,5 @@ Package: TransOmicsData
 
 Package: CytoMethIC
 
+Package: JohnsonKinaseData
+
