@@ -4543,3 +4543,5 @@ Package: MGnifyR
 
 Package: smartid
 
+Package: smoothclust
+
