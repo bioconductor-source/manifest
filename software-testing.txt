@@ -17,6 +17,8 @@ Package: S4Vectors
 
 Package: IRanges
 
+Package: UCSC.utils
+
 Package: GenomeInfoDb
 
 Package: AnnotationDbi
