@@ -4569,3 +4569,5 @@ Package: hdxmsqc
 
 Package: PIUMA
 
+Package: scMultiSim
+
