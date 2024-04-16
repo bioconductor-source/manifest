@@ -1099,8 +1099,6 @@ Package: flowBin
 
 Package: geneRxCluster
 
-Package: COHCAP
-
 Package: GeneOverlap
 
 Package: BEAT
