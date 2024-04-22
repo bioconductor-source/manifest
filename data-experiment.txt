@@ -531,13 +531,9 @@ Package: microRNAome
 
 Package: OnassisJavaLibs
 
-Package: restfulSEData
-
 Package: vulcandata
 
 Package: HarmonizedTCGAData
-
-Package: pcxnData
 
 Package: curatedTCGAData
 
@@ -640,8 +636,6 @@ Package: RNAmodR.Data
 Package: depmap
 
 Package: muscData
-
-Package: MMAPPR2data
 
 Package: SBGNview.data
 
@@ -769,8 +763,6 @@ Package: scATAC.Explorer
 
 Package: easierData
 
-Package: RLHub
-
 Package: PCHiCdata
 
 Package: healthyControlsPresenceChecker
@@ -812,8 +804,6 @@ Package: DNAZooData
 Package: gDNAinRNAseqData
 
 Package: marinerData
-
-Package: CoSIAdata
 
 Package: scMultiome
 
