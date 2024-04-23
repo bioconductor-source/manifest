@@ -4435,5 +4435,7 @@ Package: multistateQTL
 
 Package: ggtreeSpace
 
+Package: singleCellTK
+
 Package: SpotSweeper
 
