@@ -4447,3 +4447,5 @@ Package: gINTomics
 
 Package: MAPFX
 
+Package: SingleCellAlleleExperiment
+
