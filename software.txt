@@ -4591,3 +4591,5 @@ Package: SingleCellAlleleExperiment
 
 Package: findIPs
 
+Package: epiregulon
+
