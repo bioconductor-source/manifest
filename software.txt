@@ -4449,3 +4449,5 @@ Package: MAPFX
 
 Package: SingleCellAlleleExperiment
 
+Package: findIPs
+
