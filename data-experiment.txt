@@ -857,3 +857,5 @@ Package: CytoMethIC
 
 Package: JohnsonKinaseData
 
+Package: homosapienDEE2CellScore
+
