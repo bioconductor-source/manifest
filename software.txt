@@ -4441,3 +4441,5 @@ Package: SpotSweeper
 
 Package: rBLAST
 
+Package: mosdef
+
