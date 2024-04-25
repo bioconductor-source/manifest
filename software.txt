@@ -4443,3 +4443,5 @@ Package: rBLAST
 
 Package: mosdef
 
+Package: gINTomics
+
