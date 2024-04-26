@@ -4597,3 +4597,5 @@ Package: epiregulon.extra
 
 Package: limpca
 
+Package: HicAggR
+
