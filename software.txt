@@ -4471,3 +4471,5 @@ Package: broadSeq
 
 Package: MPAC
 
+Package: funOmics
+
