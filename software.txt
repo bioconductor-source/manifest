@@ -4467,3 +4467,5 @@ Package: Pirat
 
 Package: ggseqalign
 
+Package: broadSeq
+
