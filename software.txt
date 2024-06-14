@@ -4477,3 +4477,5 @@ Package: zitools
 
 Package: DeepTarget
 
+Package: scDotPlot
+
