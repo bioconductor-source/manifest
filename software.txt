@@ -4503,3 +4503,5 @@ Package: CleanUpRNAseq
 
 Package: StabMap
 
+Package: seahtrue
+
