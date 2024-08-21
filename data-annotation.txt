@@ -91,3 +91,5 @@ Package: AlphaMissense.v2023.hg19
 
 Package: EPICv2manifest
 
+Package: TENET.AnnotationHub
+
