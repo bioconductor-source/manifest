@@ -4515,5 +4515,7 @@ Package: dominoSignal
 
 Package: TnT
 
+Package: DNABarcodes
+
 Package: tidytof
 
