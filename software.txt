@@ -4519,3 +4519,5 @@ Package: DNABarcodes
 
 Package: tidytof
 
+Package: scDiagnostics
+
