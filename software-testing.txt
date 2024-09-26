@@ -241,3 +241,10 @@ Package: affyPLM
 
 Package: BSgenomeForge
 
+Package: alabaster.base
+
+Package: alabaster.matrix
+
+Package: alabaster.sce
+
+Package: gypsum
