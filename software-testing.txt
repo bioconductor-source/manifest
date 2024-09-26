@@ -247,6 +247,8 @@ Package: alabaster.base
 
 Package: alabaster.matrix
 
+Package: alabaster.se
+
 Package: alabaster.sce
 
 Package: gypsum
