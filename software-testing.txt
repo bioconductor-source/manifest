@@ -113,6 +113,8 @@ Package: zellkonverter
 
 Package: HDF5Array
 
+Package: assorthead
+
 Package: beachmat
 
 Package: BiocNeighbors
