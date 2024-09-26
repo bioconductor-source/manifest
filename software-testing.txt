@@ -241,6 +241,8 @@ Package: affyPLM
 
 Package: BSgenomeForge
 
+Package: alabaster.schemas
+
 Package: alabaster.base
 
 Package: alabaster.matrix
