@@ -254,3 +254,5 @@ Package: alabaster.se
 Package: alabaster.sce
 
 Package: gypsum
+
+Package: chihaya
