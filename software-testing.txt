@@ -266,3 +266,11 @@ Package: scater
 Package: snifter
 
 Package: densvis
+
+Package: GSEABase
+
+Package: Category
+
+Package: GOstats
+
+Package: ReportingTools
