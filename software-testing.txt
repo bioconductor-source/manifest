@@ -284,3 +284,5 @@ Package: SpatialExperiment
 Package: GSVA
 
 Package: DropletUtils
+
+Package: DECIPHER
