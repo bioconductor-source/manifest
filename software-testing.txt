@@ -274,3 +274,5 @@ Package: Category
 Package: GOstats
 
 Package: ReportingTools
+
+Package: EBImage
