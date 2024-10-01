@@ -286,3 +286,5 @@ Package: GSVA
 Package: DropletUtils
 
 Package: DECIPHER
+
+Package: GEOmetadb
