@@ -276,3 +276,11 @@ Package: GOstats
 Package: ReportingTools
 
 Package: EBImage
+
+Package: BumpyMatrix
+
+Package: SpatialExperiment
+
+Package: GSVA
+
+Package: DropletUtils
