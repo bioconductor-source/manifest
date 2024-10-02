@@ -294,3 +294,7 @@ Package: regioneR
 Package: bamsignals
 
 Package: karyoploteR
+
+Package: DirichletMultinomial
+
+Package: mbkmeans
