@@ -298,3 +298,11 @@ Package: karyoploteR
 Package: DirichletMultinomial
 
 Package: mbkmeans
+
+Package: MultiAssayExperiment
+
+Package: RaggedExperiment
+
+Package: DNAcopy
+
+Package: maftools
