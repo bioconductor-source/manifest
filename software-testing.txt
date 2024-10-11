@@ -316,3 +316,11 @@ Package: HubPub
 Package: MetaboCoreUtils
 
 Package: Spectra
+
+Package: QFeatures
+
+Package: PSMatch
+
+Package: MsDataHub
+
+Package: rpx
