@@ -334,3 +334,19 @@ Package: fmcsR
 Package: CompoundDb
 
 Package: MsBackendMgf
+
+Package: flowClust
+
+Package: flowWorkspace
+
+Package: ncdfFlow
+
+Package: flowViz
+
+Package: flowStats
+
+Package: ggcyto
+
+Package: openCyto
+
+Package: CytoML
