@@ -4539,3 +4539,5 @@ Package: koinar
 
 Package: omXplore
 
+Package: geomeTriD
+
