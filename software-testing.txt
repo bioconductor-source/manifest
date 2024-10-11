@@ -119,6 +119,8 @@ Package: assorthead
 
 Package: beachmat
 
+Package: beachmat.hdf5
+
 Package: BiocNeighbors
 
 Package: AnnotationFilter
