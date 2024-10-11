@@ -4541,3 +4541,5 @@ Package: omXplore
 
 Package: geomeTriD
 
+Package: rhinotypeR
+
