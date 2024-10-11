@@ -314,3 +314,5 @@ Package: ExperimentHubData
 Package: HubPub
 
 Package: MetaboCoreUtils
+
+Package: Spectra
