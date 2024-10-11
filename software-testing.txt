@@ -306,3 +306,9 @@ Package: RaggedExperiment
 Package: DNAcopy
 
 Package: maftools
+
+Package: AnnotationHubData
+
+Package: ExperimentHubData
+
+Package: HubPub
