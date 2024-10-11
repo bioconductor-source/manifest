@@ -324,3 +324,7 @@ Package: PSMatch
 Package: MsDataHub
 
 Package: rpx
+
+Package: ChemmineR
+
+Package: fmcsR
