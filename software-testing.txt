@@ -215,6 +215,8 @@ Package: treeio
 
 Package: ggtree
 
+Package: ggtreeExtra
+
 Package: enrichplot
 
 Package: clusterProfiler
@@ -226,6 +228,8 @@ Package: fgsea
 Package: GOSemSim
 
 Package: ComplexHeatmap
+
+Package: EnrichedHeatmap
 
 Package: ResidualMatrix
 
@@ -350,3 +354,5 @@ Package: ggcyto
 Package: openCyto
 
 Package: CytoML
+
+Package: EBarrays
