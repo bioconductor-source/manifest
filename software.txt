@@ -4543,3 +4543,5 @@ Package: geomeTriD
 
 Package: rhinotypeR
 
+Package: EpipwR
+
