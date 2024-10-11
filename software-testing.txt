@@ -312,3 +312,5 @@ Package: AnnotationHubData
 Package: ExperimentHubData
 
 Package: HubPub
+
+Package: MetaboCoreUtils
