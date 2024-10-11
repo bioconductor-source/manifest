@@ -328,3 +328,7 @@ Package: rpx
 Package: ChemmineR
 
 Package: fmcsR
+
+Package: CompoundDb
+
+Package: MsBackendMgf
