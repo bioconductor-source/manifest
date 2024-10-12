@@ -317,6 +317,8 @@ Package: AnnotationHubData
 
 Package: ExperimentHubData
 
+Package: biocthis
+
 Package: HubPub
 
 Package: MetaboCoreUtils
