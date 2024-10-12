@@ -358,3 +358,13 @@ Package: openCyto
 Package: CytoML
 
 Package: EBarrays
+
+Package: pRoloc
+
+Package: MLInterfaces
+
+Package: gpls
+
+Package: keggorthology
+
+Package: hpar
