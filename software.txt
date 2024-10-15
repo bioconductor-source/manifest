@@ -4545,3 +4545,5 @@ Package: rhinotypeR
 
 Package: EpipwR
 
+Package: NetPathMiner
+
