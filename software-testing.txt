@@ -335,6 +335,8 @@ Package: rpx
 
 Package: ChemmineR
 
+Package: ChemmineOB
+
 Package: fmcsR
 
 Package: CompoundDb
