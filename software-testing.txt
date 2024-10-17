@@ -370,3 +370,5 @@ Package: gpls
 Package: keggorthology
 
 Package: hpar
+
+Package: LoomExperiment
