@@ -392,3 +392,5 @@ Package: EnhancedVolcano
 Package: pathview
 
 Package: gage
+
+Package: SingleR
