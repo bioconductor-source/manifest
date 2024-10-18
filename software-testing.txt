@@ -374,3 +374,5 @@ Package: hpar
 Package: LoomExperiment
 
 Package: sva
+
+Package: biomformat
