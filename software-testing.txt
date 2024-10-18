@@ -396,3 +396,7 @@ Package: gage
 Package: SingleR
 
 Package: ConsensusClusterPlus
+
+Package: aroma.light
+
+Package: EDASeq
