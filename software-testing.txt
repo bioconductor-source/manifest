@@ -119,6 +119,8 @@ Package: assorthead
 
 Package: beachmat
 
+Package: beachmat.hdf5
+
 Package: BiocNeighbors
 
 Package: AnnotationFilter
@@ -213,6 +215,8 @@ Package: treeio
 
 Package: ggtree
 
+Package: ggtreeExtra
+
 Package: enrichplot
 
 Package: clusterProfiler
@@ -224,6 +228,8 @@ Package: fgsea
 Package: GOSemSim
 
 Package: ComplexHeatmap
+
+Package: EnrichedHeatmap
 
 Package: ResidualMatrix
 
@@ -298,3 +304,93 @@ Package: karyoploteR
 Package: DirichletMultinomial
 
 Package: mbkmeans
+
+Package: MultiAssayExperiment
+
+Package: RaggedExperiment
+
+Package: DNAcopy
+
+Package: maftools
+
+Package: AnnotationHubData
+
+Package: ExperimentHubData
+
+Package: biocthis
+
+Package: HubPub
+
+Package: MetaboCoreUtils
+
+Package: Spectra
+
+Package: QFeatures
+
+Package: PSMatch
+
+Package: MsDataHub
+
+Package: rpx
+
+Package: ChemmineR
+
+Package: ChemmineOB
+
+Package: fmcsR
+
+Package: CompoundDb
+
+Package: MsBackendMgf
+
+Package: flowClust
+
+Package: flowWorkspace
+
+Package: ncdfFlow
+
+Package: flowViz
+
+Package: flowStats
+
+Package: ggcyto
+
+Package: openCyto
+
+Package: CytoML
+
+Package: EBarrays
+
+Package: pRoloc
+
+Package: MLInterfaces
+
+Package: gpls
+
+Package: keggorthology
+
+Package: hpar
+
+Package: LoomExperiment
+
+Package: sva
+
+Package: biomformat
+
+Package: phyloseq
+
+Package: metagenomeSeq
+
+Package: Wrench
+
+Package: IHW
+
+Package: lpsymphony
+
+Package: EnhancedVolcano
+
+Package: pathview
+
+Package: gage
+
+Package: SingleR
