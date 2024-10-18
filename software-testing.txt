@@ -394,3 +394,5 @@ Package: pathview
 Package: gage
 
 Package: SingleR
+
+Package: ConsensusClusterPlus
