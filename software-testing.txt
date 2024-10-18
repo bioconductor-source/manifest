@@ -388,3 +388,7 @@ Package: IHW
 Package: lpsymphony
 
 Package: EnhancedVolcano
+
+Package: pathview
+
+Package: gage
