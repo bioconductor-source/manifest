@@ -37,6 +37,8 @@ Package: SPIA
 
 Package: Biostrings
 
+Package: pwalign
+
 Package: MatrixGenerics
 
 Package: S4Arrays
