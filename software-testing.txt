@@ -400,3 +400,11 @@ Package: ConsensusClusterPlus
 Package: aroma.light
 
 Package: EDASeq
+
+Package: TCGAbiolinks
+
+Package: minet
+
+Package: sesame
+
+Package: supraHex
