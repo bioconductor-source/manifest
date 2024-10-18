@@ -376,3 +376,13 @@ Package: LoomExperiment
 Package: sva
 
 Package: biomformat
+
+Package: phyloseq
+
+Package: metagenomeSeq
+
+Package: Wrench
+
+Package: IHW
+
+Package: lpsymphony
