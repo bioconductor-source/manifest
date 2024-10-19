@@ -414,3 +414,5 @@ Package: supraHex
 Package: batchelor
 
 Package: seqLogo
+
+Package: microRNA
