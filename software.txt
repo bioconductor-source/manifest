@@ -4549,3 +4549,5 @@ Package: NetPathMiner
 
 Package: CoSIA
 
+Package: spatialSimGP
+
