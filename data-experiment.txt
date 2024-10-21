@@ -855,3 +855,6 @@ Package: EpipwR.data
 
 Package: LegATo
 
+Package: CoSIAdata
+
+
