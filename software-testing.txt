@@ -7,6 +7,10 @@ Package: BiocGenerics
 
 Package: widgetTools
 
+Package: DynDoc
+
+Package: tkWidgets
+
 Package: Biobase
 
 Package: zlibbioc
