@@ -860,3 +860,5 @@ Package: CoSIAdata
 
 Package: ProteinGymR
 
+Package: eoPredData
+
