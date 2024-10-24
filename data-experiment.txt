@@ -371,8 +371,6 @@ Package: seq2pathway.data
 
 Package: CardinalWorkflows
 
-Package: DmelSGI
-
 Package: diggitdata
 
 Package: grndata
@@ -692,8 +690,6 @@ Package: NanoporeRNASeq
 Package: preciseTADhub
 
 Package: GenomicDistributionsData
-
-Package: RNAinteractMAPK
 
 Package: sampleClassifierData
 

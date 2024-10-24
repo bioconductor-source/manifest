@@ -457,8 +457,6 @@ Package: ChromHeatMap
 
 Package: ChIPseqR
 
-Package: HTqPCR
-
 Package: LiquidAssociation
 
 Package: DEGseq
@@ -578,8 +576,6 @@ Package: chopsticks
 Package: pvac
 
 Package: procoil
-
-Package: RNAinteract
 
 Package: clst
 
@@ -818,8 +814,6 @@ Package: OrganismDbi
 Package: hapFabia
 
 Package: hpar
-
-Package: Risa
 
 Package: motifStack
 
@@ -1261,8 +1255,6 @@ Package: GenomicInteractions
 
 Package: ALDEx2
 
-Package: polyester
-
 Package: derfinder
 
 Package: derfinderPlot
@@ -1671,8 +1663,6 @@ Package: nucleoSim
 
 Package: miRNAmeConverter
 
-Package: psygenet2r
-
 Package: doppelgangR
 
 Package: PCAN
@@ -1807,8 +1797,6 @@ Package: LOBSTAHS
 
 Package: methylKit
 
-Package: rDGIdb
-
 Package: maftools
 
 Package: ASAFE
@@ -1864,8 +1852,6 @@ Package: synergyfinder
 Package: bigmelon
 
 Package: uSORT
-
-Package: Pi
 
 Package: FitHiC
 
@@ -2303,8 +2289,6 @@ Package: FELLA
 
 Package: iSEE
 
-Package: SummarizedBenchmark
-
 Package: iCNV
 
 Package: phantasus
@@ -2360,10 +2344,6 @@ Package: sevenC
 Package: ccfindR
 
 Package: TCGAutils
-
-Package: RandomWalkRestartMH
-
-Package: BiocOncoTK
 
 Package: singscore
 
@@ -2681,8 +2661,6 @@ Package: scMerge
 
 Package: gpuMagic
 
-Package: nanotatoR
-
 Package: SynMut
 
 Package: metagene2
@@ -2855,8 +2833,6 @@ Package: scTGIF
 
 Package: RNAsense
 
-Package: brainflowprobes
-
 Package: tradeSeq
 
 Package: signatureSearch
@@ -2964,8 +2940,6 @@ Package: gmoviz
 Package: ROCpAI
 
 Package: spicyR
-
-Package: BRGenomics
 
 Package: HIPPO
 
@@ -3247,8 +3221,6 @@ Package: densvis
 
 Package: tidySummarizedExperiment
 
-Package: CellaRepertorium
-
 Package: tidySingleCellExperiment
 
 Package: scRepertoire
@@ -3475,8 +3447,6 @@ Package: fgga
 
 Package: biodb
 
-Package: MQmetrics
-
 Package: cbpManager
 
 Package: POWSC
@@ -3641,8 +3611,6 @@ Package: pairkat
 
 Package: MicrobiomeProfiler
 
-Package: microbiomeMarker
-
 Package: TRESS
 
 Package: nullranges
@@ -3669,8 +3637,6 @@ Package: deconvR
 
 Package: synapsis
 
-Package: biodbKegg
-
 Package: Cepo
 
 Package: scatterHatch
@@ -3680,8 +3646,6 @@ Package: mosbi
 Package: GeoDiff
 
 Package: TargetDecoy
-
-Package: netOmics
 
 Package: txcutr
 
@@ -3779,8 +3743,6 @@ Package: fastreeR
 
 Package: biodbNcbi
 
-Package: biodbExpasy
-
 Package: nnSVG
 
 Package: ASURAT
@@ -3790,8 +3752,6 @@ Package: GenProSeq
 Package: qsvaR
 
 Package: seqArchR
-
-Package: single
 
 Package: DepInfeR
 
@@ -3878,8 +3838,6 @@ Package: factR
 Package: SpliceWiz
 
 Package: mslp
-
-Package: ATACCoGAPS
 
 Package: HiCDOC
 
