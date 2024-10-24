@@ -4563,3 +4563,5 @@ Package: MetMashR
 
 Package: plyxp
 
+Package: SpaNorm
+
