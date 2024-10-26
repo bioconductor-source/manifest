@@ -299,8 +299,6 @@ Package: DropletUtils
 
 Package: DECIPHER
 
-Package: GEOmetadb
-
 Package: regioneR
 
 Package: bamsignals
