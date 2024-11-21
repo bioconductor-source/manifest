@@ -418,3 +418,13 @@ Package: supraHex
 Package: batchelor
 
 Package: seqLogo
+
+Package: MassSpecWavelet
+
+Package: MsFeatures
+
+Package: MsBackendSql
+
+Package: MsExperiment
+
+Package: xcms
