@@ -4541,3 +4541,5 @@ Package: mspms
 
 Package: visiumStitched
 
+Package: MotifPeeker
+
