@@ -399,6 +399,8 @@ Package: pathview
 
 Package: gage
 
+Package: scrapper
+
 Package: SingleR
 
 Package: ConsensusClusterPlus
