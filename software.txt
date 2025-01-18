@@ -4569,3 +4569,5 @@ Package: sosta
 
 Package: xCell2
 
+Package: smoppix
+
