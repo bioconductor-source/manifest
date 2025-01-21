@@ -119,9 +119,11 @@ Package: rhdf5filters
 
 Package: rhdf5
 
-Package: zellkonverter
+Package: h5mread
 
 Package: HDF5Array
+
+Package: zellkonverter
 
 Package: assorthead
 
