@@ -4575,3 +4575,5 @@ Package: spatialFDA
 
 Package: scQTLtools
 
+Package: SpatialExperimentIO
+
