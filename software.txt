@@ -4571,3 +4571,5 @@ Package: xCell2
 
 Package: smoppix
 
+Package: spatialFDA
+
