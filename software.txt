@@ -4573,3 +4573,5 @@ Package: smoppix
 
 Package: spatialFDA
 
+Package: scQTLtools
+
