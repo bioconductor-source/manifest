@@ -4585,3 +4585,5 @@ Package: MetaboDynamics
 
 Package: chevreulPlot
 
+Package: chevreulProcess
+
