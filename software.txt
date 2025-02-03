@@ -4589,9 +4589,3 @@ Package: chevreulProcess
 
 Package: chevreulShiny
 
-Package: PICB
-
-Package: biocmake
-
-Package: MetaboDynamics
-
