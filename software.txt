@@ -4587,3 +4587,5 @@ Package: chevreulPlot
 
 Package: chevreulProcess
 
+Package: chevreulShiny
+
