@@ -4583,3 +4583,5 @@ Package: biocmake
 
 Package: MetaboDynamics
 
+Package: chevreulPlot
+
