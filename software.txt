@@ -4599,3 +4599,5 @@ Package: bedbaser
 
 Package: MSstatsBioNet
 
+Package: HiCParser
+
