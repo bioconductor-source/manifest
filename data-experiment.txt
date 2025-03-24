@@ -862,3 +862,5 @@ Package: humanHippocampus2024
 
 Package: TENET.ExperimentHub
 
+Package: muSpaData
+
