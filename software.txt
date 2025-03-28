@@ -4627,5 +4627,7 @@ Package: XAItest
 
 Package: rigvf
 
+Package: HTqPCR
+
 Package: limpa
 
