@@ -4653,3 +4653,5 @@ Package: shinyDSP
 
 Package: RUCova
 
+Package: clustSIGNAL
+
