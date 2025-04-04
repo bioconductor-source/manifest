@@ -4651,3 +4651,5 @@ Package: RbowtieCuda
 
 Package: shinyDSP
 
+Package: RUCova
+
