@@ -4657,3 +4657,5 @@ Package: clustSIGNAL
 
 Package: vmrseq
 
+Package: SEraster
+
