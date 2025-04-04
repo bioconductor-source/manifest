@@ -4649,3 +4649,5 @@ Package: spacexr
 
 Package: RbowtieCuda
 
+Package: shinyDSP
+
