@@ -207,6 +207,8 @@ Package: pcaMethods
 
 Package: MSnbase
 
+Package: rols
+
 Package: Rdisop
 
 Package: affxparser
