@@ -401,6 +401,8 @@ Package: pathview
 
 Package: gage
 
+Package: Rigraphlib
+
 Package: scrapper
 
 Package: SingleR
