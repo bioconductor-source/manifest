@@ -421,8 +421,6 @@ Package: minet
 
 Package: sesame
 
-Package: supraHex
-
 Package: batchelor
 
 Package: seqLogo
