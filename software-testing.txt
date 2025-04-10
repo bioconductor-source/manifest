@@ -207,6 +207,8 @@ Package: pcaMethods
 
 Package: MSnbase
 
+Package: rols
+
 Package: Rdisop
 
 Package: affxparser
@@ -401,6 +403,8 @@ Package: pathview
 
 Package: gage
 
+Package: Rigraphlib
+
 Package: scrapper
 
 Package: SingleR
@@ -416,8 +420,6 @@ Package: TCGAbiolinks
 Package: minet
 
 Package: sesame
-
-Package: supraHex
 
 Package: batchelor
 
