@@ -223,8 +223,6 @@ Package: logicFS
 
 Package: BSgenome
 
-Package: TypeInfo
-
 Package: ABarray
 
 Package: Harshlight
@@ -303,8 +301,6 @@ Package: rsbml
 
 Package: Rdisop
 
-Package: Rtreemix
-
 Package: gaga
 
 Package: XDE
@@ -322,8 +318,6 @@ Package: GSEAlm
 Package: flowClust
 
 Package: GEOmetadb
-
-Package: RBioinf
 
 Package: rtracklayer
 
@@ -485,11 +479,7 @@ Package: segmentSeq
 
 Package: GenomicRanges
 
-Package: genoCN
-
 Package: BeadDataPackR
-
-Package: girafe
 
 Package: Rsamtools
 
@@ -498,8 +488,6 @@ Package: tigre
 Package: goseq
 
 Package: SRAdb
-
-Package: PICS
 
 Package: flowMeans
 
@@ -619,8 +607,6 @@ Package: flowWorkspace
 
 Package: REDseq
 
-Package: zlibbioc
-
 Package: RCASPAR
 
 Package: DOSE
@@ -705,8 +691,6 @@ Package: cn.mops
 
 Package: fastseg
 
-Package: trigger
-
 Package: BiocGenerics
 
 Package: ASEB
@@ -734,8 +718,6 @@ Package: Gviz
 Package: ternarynet
 
 Package: gwascat
-
-Package: PING
 
 Package: BRAIN
 
@@ -767,8 +749,6 @@ Package: DirichletMultinomial
 
 Package: cancerclass
 
-Package: staRank
-
 Package: MiRaGE
 
 Package: rols
@@ -785,13 +765,9 @@ Package: AnnotationForge
 
 Package: OSAT
 
-Package: synapter
-
 Package: bsseq
 
 Package: gmapR
-
-Package: iPAC
 
 Package: PADOG
 
@@ -831,8 +807,6 @@ Package: CNORode
 
 Package: HMMcopy
 
-Package: HTSeqGenie
-
 Package: TransView
 
 Package: NOISeq
@@ -858,8 +832,6 @@ Package: DriverNet
 Package: bumphunter
 
 Package: wateRmelon
-
-Package: GraphPAC
 
 Package: iBMQ
 
@@ -987,11 +959,7 @@ Package: RTN
 
 Package: SeqVarTools
 
-Package: SpacePAC
-
 Package: trio
-
-Package: supraHex
 
 Package: ASSET
 
@@ -1271,8 +1239,6 @@ Package: ASGSCA
 
 Package: PAA
 
-Package: paxtoolsr
-
 Package: flowcatchR
 
 Package: GenomicTuples
@@ -1319,8 +1285,6 @@ Package: AIMS
 
 Package: genomation
 
-Package: QuartPAC
-
 Package: cpvSNP
 
 Package: nethet
@@ -1334,8 +1298,6 @@ Package: rgsepd
 Package: chromDraw
 
 Package: CODEX
-
-Package: gespeR
 
 Package: TRONCO
 
@@ -1468,8 +1430,6 @@ Package: RareVariantVis
 Package: hierGWAS
 
 Package: mirIntegrator
-
-Package: erma
 
 Package: IONiseR
 
@@ -1681,8 +1641,6 @@ Package: ISoLDE
 
 Package: OncoScore
 
-Package: AneuFinder
-
 Package: recoup
 
 Package: DEFormats
@@ -1747,8 +1705,6 @@ Package: EGAD
 
 Package: epivizrStandalone
 
-Package: Director
-
 Package: covRNA
 
 Package: msPurity
@@ -1769,13 +1725,9 @@ Package: geneplast
 
 Package: sights
 
-Package: crossmeta
-
 Package: MetCirc
 
 Package: esetVis
-
-Package: chromstaR
 
 Package: normr
 
@@ -1802,8 +1754,6 @@ Package: maftools
 Package: ASAFE
 
 Package: RCAS
-
-Package: GeneGeneInteR
 
 Package: SNPediaR
 
@@ -2215,8 +2165,6 @@ Package: omicsPrint
 
 Package: GOfuncR
 
-Package: MAGeCKFlute
-
 Package: MetaNeighbor
 
 Package: TFEA.ChIP
@@ -2224,8 +2172,6 @@ Package: TFEA.ChIP
 Package: scFeatureFilter
 
 Package: drawProteins
-
-Package: RGMQL
 
 Package: hmdbQuery
 
@@ -2246,8 +2192,6 @@ Package: Trendy
 Package: srnadiff
 
 Package: gsean
-
-Package: BEARscc
 
 Package: omicplotR
 
@@ -2875,11 +2819,7 @@ Package: SimFFPE
 
 Package: DAMEfinder
 
-Package: DIAlignR
-
 Package: structToolbox
-
-Package: netDx
 
 Package: struct
 
@@ -3251,8 +3191,6 @@ Package: RLassoCox
 
 Package: mina
 
-Package: ReactomeContentService4R
-
 Package: bnem
 
 Package: flowGraph
@@ -3332,8 +3270,6 @@ Package: hca
 Package: PDATK
 
 Package: midasHLA
-
-Package: dce
 
 Package: ModCon
 
@@ -3518,8 +3454,6 @@ Package: svaNUMT
 Package: Dino
 
 Package: scanMiR
-
-Package: NeuCA
 
 Package: FLAMES
 
@@ -3735,8 +3669,6 @@ Package: PSMatch
 
 Package: rgoslin
 
-Package: CBEA
-
 Package: biodbNci
 
 Package: fastreeR
@@ -3765,8 +3697,6 @@ Package: cytoMEM
 
 Package: qmtools
 
-Package: pareg
-
 Package: bandle
 
 Package: SPOTlight
@@ -3793,8 +3723,6 @@ Package: cogeqc
 
 Package: Macarron
 
-Package: STdeconvolve
-
 Package: omicsViewer
 
 Package: DifferentialRegulation
@@ -3814,8 +3742,6 @@ Package: BiocBaseUtils
 Package: SpotClean
 
 Package: SUITOR
-
-Package: PanViz
 
 Package: scDDboost
 
@@ -3942,8 +3868,6 @@ Package: FuseSOM
 Package: NetActivity
 
 Package: octad
-
-Package: coMET
 
 Package: Statial
 
@@ -4296,8 +4220,6 @@ Package: biocroxytest
 Package: MIRit
 
 Package: PIPETS
-
-Package: DeProViR
 
 Package: SurfR
 

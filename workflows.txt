@@ -35,8 +35,6 @@ Package: TCGAWorkflow
 
 Package: variants
 
-Package: BiocMetaWorkflow
-
 Package: maEndToEnd
 
 Package: rnaseqDTU

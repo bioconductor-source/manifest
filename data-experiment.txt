@@ -187,8 +187,6 @@ Package: miRNATarget
 
 Package: PWMEnrich.Dmelanogaster.background
 
-Package: synapterdata
-
 Package: bsseqData
 
 Package: TBX20BamSubset
@@ -222,8 +220,6 @@ Package: PathNetData
 Package: DvDdata
 
 Package: SomatiCAData
-
-Package: parathyroidSE
 
 Package: FANTOM3and4CAGE
 
@@ -624,8 +620,6 @@ Package: MOFAdata
 Package: curatedAdipoChIP
 
 Package: nanotubes
-
-Package: benchmarkfdrData2019
 
 Package: HMP2Data
 
