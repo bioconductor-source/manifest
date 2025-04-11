@@ -4669,3 +4669,17 @@ Package: BreastSubtypeR
 
 Package: scHiCcompare
 
+Package: mitology
+
+Package: imageTCGA
+
+Package: islify
+
+Package: QRscore
+
+Package: TaxSEA
+
+Package: crupR
+
+
+
