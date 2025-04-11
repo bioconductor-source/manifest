@@ -4597,3 +4597,5 @@ Package: imageTCGA
 
 Package: islify
 
+Package: QRscore
+
