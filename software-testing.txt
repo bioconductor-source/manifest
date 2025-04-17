@@ -403,6 +403,8 @@ Package: pathview
 
 Package: gage
 
+Package: biocmake
+
 Package: Rigraphlib
 
 Package: scrapper
