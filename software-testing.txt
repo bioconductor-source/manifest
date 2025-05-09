@@ -299,6 +299,10 @@ Package: BumpyMatrix
 
 Package: SpatialExperiment
 
+Package: TENxIO
+
+Package: VisiumIO
+
 Package: GSVA
 
 Package: DropletUtils
