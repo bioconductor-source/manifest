@@ -13,8 +13,6 @@ Package: tkWidgets
 
 Package: Biobase
 
-Package: zlibbioc
-
 Package: BiocParallel
 
 Package: S4Vectors
