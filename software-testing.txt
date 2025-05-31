@@ -438,3 +438,5 @@ Package: MsBackendSql
 Package: MsExperiment
 
 Package: xcms
+
+Package: BiocPkgTools
