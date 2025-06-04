@@ -4613,3 +4613,5 @@ Package: HVP
 
 Package: Seqinfo
 
+Package: igblastr
+
