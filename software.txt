@@ -4617,3 +4617,5 @@ Package: igblastr
 
 Package: dmGsea
 
+Package: SpectriPy
+
