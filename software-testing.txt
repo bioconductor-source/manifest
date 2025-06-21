@@ -19,6 +19,8 @@ Package: S4Vectors
 
 Package: IRanges
 
+Package: Seqinfo
+
 Package: UCSC.utils
 
 Package: GenomeInfoDb
