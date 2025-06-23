@@ -444,3 +444,9 @@ Package: xcms
 Package: BiocPkgTools
 
 Package: bsseq
+
+Package: siggenes
+
+Package: bumphunter
+
+Package: minfi
