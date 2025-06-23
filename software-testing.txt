@@ -450,3 +450,7 @@ Package: siggenes
 Package: bumphunter
 
 Package: minfi
+
+Package: TFBSTools
+
+Package: CNEr
