@@ -4623,3 +4623,5 @@ Package: GCPtools
 
 Package: scafari
 
+Package: batchCorr
+
