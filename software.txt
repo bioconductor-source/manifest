@@ -4621,3 +4621,5 @@ Package: SpectriPy
 
 Package: GCPtools
 
+Package: scafari
+
