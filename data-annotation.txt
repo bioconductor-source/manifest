@@ -95,3 +95,5 @@ Package: TENET.AnnotationHub
 
 Package: CENTREannotation
 
+Package: org.Hbacteriophora.eg.db
+
