@@ -4629,3 +4629,5 @@ Package: SpaceTrooper
 
 Package: SanityR
 
+Package: HiCPotts
+
