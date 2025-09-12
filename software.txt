@@ -4649,3 +4649,5 @@ Package: mutscan
 
 Package: Bioc.gff
 
+Package: Chromatograms
+
