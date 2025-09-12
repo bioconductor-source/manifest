@@ -4651,3 +4651,5 @@ Package: Bioc.gff
 
 Package: Chromatograms
 
+Package: stPipe
+
