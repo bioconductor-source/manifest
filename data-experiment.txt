@@ -864,3 +864,5 @@ Package: AWAggregatorData
 
 Package: iModMixData
 
+Package: ChIPDBData
+
