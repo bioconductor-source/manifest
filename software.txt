@@ -4665,3 +4665,5 @@ Package: shinybiocloader
 
 Package: goatea
 
+Package: gVenn
+
