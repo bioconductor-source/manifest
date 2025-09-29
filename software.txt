@@ -4669,3 +4669,5 @@ Package: gVenn
 
 Package: SuperCellCyto
 
+Package: markeR
+
