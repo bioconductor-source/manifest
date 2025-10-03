@@ -4679,3 +4679,5 @@ Package: SETA
 
 Package: looking4clusters
 
+Package: PMScanR
+
