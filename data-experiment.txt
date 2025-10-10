@@ -866,3 +866,5 @@ Package: iModMixData
 
 Package: ChIPDBData
 
+Package: nmrdata
+
