@@ -285,8 +285,6 @@ Package: h5vcData
 
 Package: COSMIC.67
 
-Package: curatedCRCData
-
 Package: HiCDataLymphoblast
 
 Package: ChimpHumanBrainData
@@ -348,8 +346,6 @@ Package: TCGAcrcmRNA
 Package: ListerEtAlBSseq
 
 Package: NGScopyData
-
-Package: rRDPData
 
 Package: derfinderData
 
@@ -459,8 +455,6 @@ Package: prostateCancerGrasso
 
 Package: prostateCancerVarambally
 
-Package: AneuFinderData
-
 Package: DAPARdata
 
 Package: CONFESSdata
@@ -488,8 +482,6 @@ Package: curatedMetagenomicData
 Package: minfiDataEPIC
 
 Package: lydata
-
-Package: chromstaRData
 
 Package: aracne.networks
 
@@ -536,8 +528,6 @@ Package: topdownrdata
 Package: HMP16SData
 
 Package: TCGAbiolinksGUI.data
-
-Package: RGMQLlib
 
 Package: TENxBrainData
 

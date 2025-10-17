@@ -225,8 +225,6 @@ Package: BSgenome
 
 Package: ABarray
 
-Package: Harshlight
-
 Package: quantsmooth
 
 Package: aroma.light
@@ -234,8 +232,6 @@ Package: aroma.light
 Package: spikeLI
 
 Package: BioMVCClass
-
-Package: lapmix
 
 Package: splots
 
@@ -276,8 +272,6 @@ Package: MassSpecWavelet
 Package: GeneticsPed
 
 Package: rbsurv
-
-Package: bgx
 
 Package: puma
 
@@ -469,8 +463,6 @@ Package: ConsensusClusterPlus
 
 Package: iChip
 
-Package: rGADEM
-
 Package: MassArray
 
 Package: SamSPECTRAL
@@ -617,8 +609,6 @@ Package: randPack
 
 Package: cqn
 
-Package: Repitools
-
 Package: ReadqPCR
 
 Package: Cormotif
@@ -630,8 +620,6 @@ Package: RedeR
 Package: nucleR
 
 Package: NormqPCR
-
-Package: Streamer
 
 Package: VariantAnnotation
 
@@ -807,8 +795,6 @@ Package: CNORode
 
 Package: HMMcopy
 
-Package: TransView
-
 Package: NOISeq
 
 Package: VariantTools
@@ -858,8 +844,6 @@ Package: rBiopaxParser
 Package: lpNet
 
 Package: MineICA
-
-Package: cisPath
 
 Package: CAGEr
 
@@ -969,8 +953,6 @@ Package: qusage
 
 Package: TCC
 
-Package: BiGGR
-
 Package: chipenrich
 
 Package: BADER
@@ -1007,8 +989,6 @@ Package: FGNet
 
 Package: ChAMP
 
-Package: interactiveDisplay
-
 Package: metaSeq
 
 Package: h5vc
@@ -1024,8 +1004,6 @@ Package: PECA
 Package: flowMatch
 
 Package: ccrepe
-
-Package: PhenStat
 
 Package: roar
 
@@ -1103,8 +1081,6 @@ Package: VariantFiltering
 
 Package: npGSEA
 
-Package: TitanCNA
-
 Package: compcodeR
 
 Package: GenomicFiles
@@ -1118,8 +1094,6 @@ Package: ChIPseeker
 Package: fastLiquidAssociation
 
 Package: S4Vectors
-
-Package: hiAnnotator
 
 Package: blima
 
@@ -1169,8 +1143,6 @@ Package: missMethyl
 
 Package: ballgown
 
-Package: interactiveDisplayBase
-
 Package: metabomxtr
 
 Package: ClassifyR
@@ -1188,8 +1160,6 @@ Package: quantro
 Package: compEpiTools
 
 Package: erccdashboard
-
-Package: hiReadsProcessor
 
 Package: MBASED
 
@@ -1216,8 +1186,6 @@ Package: GOexpress
 Package: MSnID
 
 Package: MGFM
-
-Package: rRDP
 
 Package: GenomicInteractions
 
@@ -1276,8 +1244,6 @@ Package: COSNet
 Package: specL
 
 Package: mygene
-
-Package: seqTools
 
 Package: pepXMLTab
 
@@ -1653,8 +1619,6 @@ Package: isomiRs
 
 Package: QUBIC
 
-Package: CINdex
-
 Package: EBSEA
 
 Package: BadRegionFinder
@@ -1717,8 +1681,6 @@ Package: netprioR
 
 Package: GEM
 
-Package: MADSEQ
-
 Package: covEB
 
 Package: geneplast
@@ -1730,8 +1692,6 @@ Package: MetCirc
 Package: esetVis
 
 Package: normr
-
-Package: ccmap
 
 Package: qsea
 
@@ -2053,8 +2013,6 @@ Package: CEMiTool
 
 Package: zFPKM
 
-Package: DEP
-
 Package: M3C
 
 Package: miRspongeR
@@ -2202,8 +2160,6 @@ Package: powerTCR
 Package: kissDE
 
 Package: enrichplot
-
-Package: CellScore
 
 Package: scmeth
 
@@ -2533,15 +2489,11 @@ Package: Xeva
 
 Package: CellBench
 
-Package: hypeR
-
 Package: Modstrings
 
 Package: PrInCE
 
 Package: pram
-
-Package: qckitfastq
 
 Package: DepecheR
 
@@ -2602,8 +2554,6 @@ Package: dcanr
 Package: pipeFrame
 
 Package: scMerge
-
-Package: gpuMagic
 
 Package: SynMut
 
@@ -2766,8 +2716,6 @@ Package: MMUPHin
 Package: scDblFinder
 
 Package: scPCA
-
-Package: oppti
 
 Package: MACSQuantifyR
 
@@ -3050,8 +2998,6 @@ Package: zellkonverter
 Package: BiocIO
 
 Package: idpr
-
-Package: Rfastp
 
 Package: metabolomicsWorkbenchR
 
@@ -3397,8 +3343,6 @@ Package: epialleleR
 
 Package: MatrixQCvis
 
-Package: XNAString
-
 Package: vissE
 
 Package: BloodGen3Module
@@ -3426,8 +3370,6 @@ Package: SingleMoleculeFootprinting
 Package: systemPipeTools
 
 Package: RCSL
-
-Package: ReactomeGraph4R
 
 Package: spiky
 
@@ -3484,8 +3426,6 @@ Package: enhancerHomologSearch
 Package: veloviz
 
 Package: genomicInstability
-
-Package: traviz
 
 Package: spatialDE
 
@@ -3553,8 +3493,6 @@ Package: cliProfiler
 
 Package: MsBackendRawFileReader
 
-Package: biodbUniprot
-
 Package: Cogito
 
 Package: epistack
@@ -3589,8 +3527,6 @@ Package: CellBarcode
 
 Package: pengls
 
-Package: biodbHmdb
-
 Package: easier
 
 Package: sccomp
@@ -3600,8 +3536,6 @@ Package: MouseFM
 Package: rprimer
 
 Package: ggmanh
-
-Package: netZooR
 
 Package: hermes
 
@@ -3635,8 +3569,6 @@ Package: MetaboAnnotation
 
 Package: PanomiR
 
-Package: LinTInd
-
 Package: lineagespot
 
 Package: beer
@@ -3669,11 +3601,7 @@ Package: PSMatch
 
 Package: rgoslin
 
-Package: biodbNci
-
 Package: fastreeR
-
-Package: biodbNcbi
 
 Package: nnSVG
 
@@ -3682,8 +3610,6 @@ Package: ASURAT
 Package: GenProSeq
 
 Package: qsvaR
-
-Package: seqArchR
 
 Package: DepInfeR
 
@@ -3883,8 +3809,6 @@ Package: IFAA
 
 Package: planttfhunter
 
-Package: seqArchRplus
-
 Package: speckle
 
 Package: MsQuality
@@ -4073,8 +3997,6 @@ Package: multiWGCNA
 
 Package: hicVennDiagram
 
-Package: SARC
-
 Package: HarmonizR
 
 Package: RegionalST
@@ -4170,8 +4092,6 @@ Package: scDesign3
 Package: QTLExperiment
 
 Package: IsoBayes
-
-Package: lute
 
 Package: pgxRpi
 
