@@ -858,3 +858,5 @@ Package: ChIPDBData
 
 Package: nmrdata
 
+Package: DoReMiTra
+
