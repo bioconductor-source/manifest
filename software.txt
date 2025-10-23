@@ -4715,3 +4715,5 @@ Package: anndataR
 
 Package: iscream
 
+Package: DspikeIn
+
