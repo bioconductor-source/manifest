@@ -69,6 +69,8 @@ Package: Rhtslib
 
 Package: Rsamtools
 
+Package: cigarillo
+
 Package: GenomicAlignments
 
 Package: BiocIO
