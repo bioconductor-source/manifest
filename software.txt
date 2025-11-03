@@ -4643,3 +4643,5 @@ Package: cigarillo
 
 Package: SpiecEasi
 
+Package: dominatR
+
