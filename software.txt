@@ -4647,3 +4647,5 @@ Package: dominatR
 
 Package: LACHESIS
 
+Package: leapR
+
