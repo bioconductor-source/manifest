@@ -4655,3 +4655,5 @@ Package: asuri
 
 Package: immReferent
 
+Package: hypeR
+
