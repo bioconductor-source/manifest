@@ -862,3 +862,5 @@ Package: DoReMiTra
 
 Package: dominatRData
 
+Package: MutSeqRData
+
