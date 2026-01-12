@@ -4677,3 +4677,5 @@ Package: tidyexposomics
 
 Package: singIST
 
+Package: decemedip
+
