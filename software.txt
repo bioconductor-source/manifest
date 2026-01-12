@@ -4669,3 +4669,5 @@ Package: CellMentor
 
 Package: DOTSeq
 
+Package: epiSeeker
+
