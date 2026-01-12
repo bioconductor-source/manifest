@@ -4683,3 +4683,5 @@ Package: staRgate
 
 Package: drugfindR
 
+Package: MutSeqR
+
