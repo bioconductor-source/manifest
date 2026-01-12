@@ -4675,3 +4675,5 @@ Package: plaid
 
 Package: tidyexposomics
 
+Package: singIST
+
