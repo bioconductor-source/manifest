@@ -864,3 +864,5 @@ Package: dominatRData
 
 Package: MutSeqRData
 
+Package: EMTscoreData
+
