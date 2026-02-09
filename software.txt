@@ -4697,3 +4697,5 @@ Package: proBatch
 
 Package: BiocMaintainerApp
 
+Package: glycoTraitR
+
