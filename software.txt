@@ -4699,3 +4699,5 @@ Package: BiocMaintainerApp
 
 Package: glycoTraitR
 
+Package: DenoIST
+
