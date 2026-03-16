@@ -4729,3 +4729,5 @@ Package: fRagmentomics
 
 Package: MetaProViz
 
+Package: SEMPLR
+
