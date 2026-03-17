@@ -4735,3 +4735,5 @@ Package: SMTrackR
 
 Package: BiocBuildReporter
 
+Package: HiSpaR
+
