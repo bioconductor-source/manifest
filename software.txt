@@ -4739,3 +4739,5 @@ Package: HiSpaR
 
 Package: Seqtometry
 
+Package: fraq
+
