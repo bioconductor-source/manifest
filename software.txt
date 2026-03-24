@@ -4741,3 +4741,5 @@ Package: Seqtometry
 
 Package: fraq
 
+Package: BiocPkgDash
+
