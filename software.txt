@@ -4743,3 +4743,5 @@ Package: fraq
 
 Package: BiocPkgDash
 
+Package: sfi
+
