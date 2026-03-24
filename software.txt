@@ -4737,3 +4737,5 @@ Package: BiocBuildReporter
 
 Package: HiSpaR
 
+Package: Seqtometry
+
