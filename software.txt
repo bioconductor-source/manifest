@@ -4759,3 +4759,5 @@ Package: MetaboAnnotatoR
 
 Package: GenomicCoordinates
 
+Package: scPassport
+
