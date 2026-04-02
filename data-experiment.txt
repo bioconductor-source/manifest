@@ -866,3 +866,5 @@ Package: MutSeqRData
 
 Package: EMTscoreData
 
+Package: DMRsegaldata
+
