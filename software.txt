@@ -4753,3 +4753,5 @@ Package: scConform
 
 Package: ExpoRiskR
 
+Package: SpNeigh
+
