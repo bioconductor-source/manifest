@@ -343,6 +343,8 @@ Package: Spectra
 
 Package: QFeatures
 
+Package: PTMods
+
 Package: PSMatch
 
 Package: MsDataHub
