@@ -4771,3 +4771,5 @@ Package: RFGeneRank
 
 Package: hammers
 
+Package: SpliceImpactR
+
