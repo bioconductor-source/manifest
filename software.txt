@@ -4779,3 +4779,5 @@ Package: scLang
 
 Package: LRDE
 
+Package: betterChromVAR
+
