@@ -866,5 +866,7 @@ Package: MutSeqRData
 
 Package: EMTscoreData
 
+Package: curatedCRCData
+
 Package: DMRsegaldata
 
