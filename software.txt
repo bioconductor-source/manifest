@@ -4783,3 +4783,5 @@ Package: betterChromVAR
 
 Package: RankMap
 
+Package: scTypeEval
+
