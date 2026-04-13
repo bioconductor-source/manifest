@@ -4787,3 +4787,5 @@ Package: scTypeEval
 
 Package: parati
 
+Package: Rega
+
