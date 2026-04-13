@@ -4785,3 +4785,5 @@ Package: RankMap
 
 Package: scTypeEval
 
+Package: parati
+
