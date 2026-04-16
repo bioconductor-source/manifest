@@ -653,8 +653,6 @@ Package: biovizBase
 
 Package: CNAnorm
 
-Package: cummeRbund
-
 Package: DECIPHER
 
 Package: GWASTools
@@ -739,8 +737,6 @@ Package: cancerclass
 
 Package: MiRaGE
 
-Package: rols
-
 Package: annmap
 
 Package: flowPeaks
@@ -780,8 +776,6 @@ Package: hapFabia
 Package: hpar
 
 Package: motifStack
-
-Package: DeconRNASeq
 
 Package: ReportingTools
 
@@ -842,8 +836,6 @@ Package: HTSFilter
 Package: rBiopaxParser
 
 Package: lpNet
-
-Package: MineICA
 
 Package: CAGEr
 
@@ -925,8 +917,6 @@ Package: cleanUpdTSeq
 
 Package: OmicCircos
 
-Package: SigFuge
-
 Package: TargetScore
 
 Package: intansv
@@ -958,8 +948,6 @@ Package: chipenrich
 Package: BADER
 
 Package: mzID
-
-Package: BiRewire
 
 Package: omicade4
 
@@ -1002,8 +990,6 @@ Package: CRISPRseek
 Package: PECA
 
 Package: flowMatch
-
-Package: ccrepe
 
 Package: roar
 
@@ -1064,8 +1050,6 @@ Package: nondetects
 Package: ASSIGN
 
 Package: ABSSeq
-
-Package: ChIPQC
 
 Package: flowCyBar
 
@@ -1140,8 +1124,6 @@ Package: MultiMed
 Package: OncoSimulR
 
 Package: missMethyl
-
-Package: ballgown
 
 Package: metabomxtr
 
@@ -1289,8 +1271,6 @@ Package: HIBAG
 
 Package: rGREAT
 
-Package: BubbleTree
-
 Package: ProtGenerics
 
 Package: SELEX
@@ -1316,8 +1296,6 @@ Package: LEA
 Package: MatrixRider
 
 Package: SIMAT
-
-Package: bamsignals
 
 Package: GENESIS
 
@@ -1359,8 +1337,6 @@ Package: conumee
 
 Package: MethTargetedNGS
 
-Package: soGGi
-
 Package: ENmix
 
 Package: pandaR
@@ -1396,8 +1372,6 @@ Package: RareVariantVis
 Package: hierGWAS
 
 Package: mirIntegrator
-
-Package: IONiseR
 
 Package: fCI
 
@@ -1453,8 +1427,6 @@ Package: LOLA
 
 Package: motifbreakR
 
-Package: RTCGA
-
 Package: DiffLogo
 
 Package: dupRadar
@@ -1479,15 +1451,11 @@ Package: GUIDEseq
 
 Package: GeneBreak
 
-Package: RiboProfiling
-
 Package: SNPhood
 
 Package: RCy3
 
 Package: miRcomp
-
-Package: biobroom
 
 Package: subSeq
 
@@ -1677,8 +1645,6 @@ Package: bioCancer
 
 Package: Pigengene
 
-Package: netprioR
-
 Package: GEM
 
 Package: covEB
@@ -1690,8 +1656,6 @@ Package: sights
 Package: MetCirc
 
 Package: esetVis
-
-Package: normr
 
 Package: qsea
 
@@ -1775,8 +1739,6 @@ Package: DEsubs
 
 Package: statTarget
 
-Package: geneXtendeR
-
 Package: KEGGlincs
 
 Package: flowPloidy
@@ -1812,8 +1774,6 @@ Package: CCPROMISE
 Package: fCCAC
 
 Package: yarn
-
-Package: BPRMeth
 
 Package: phosphonormalizer
 
@@ -1881,8 +1841,6 @@ Package: twoddpcr
 
 Package: EventPointer
 
-Package: Organism.dplyr
-
 Package: rqt
 
 Package: epiNEM
@@ -1896,8 +1854,6 @@ Package: DaMiRseq
 Package: BioCor
 
 Package: BiocFileCache
-
-Package: motifcounter
 
 Package: cydar
 
@@ -1919,13 +1875,9 @@ Package: banocc
 
 Package: RaggedExperiment
 
-Package: basecallQC
-
 Package: CATALYST
 
 Package: GenomicScores
-
-Package: IMAS
 
 Package: semisup
 
@@ -1968,8 +1920,6 @@ Package: Scale4C
 Package: zinbwave
 
 Package: RTNsurvival
-
-Package: mfa
 
 Package: RProtoBufLib
 
@@ -2123,15 +2073,11 @@ Package: omicsPrint
 
 Package: GOfuncR
 
-Package: MetaNeighbor
-
 Package: TFEA.ChIP
 
 Package: scFeatureFilter
 
 Package: drawProteins
-
-Package: hmdbQuery
 
 Package: DropletUtils
 
@@ -2142,8 +2088,6 @@ Package: mCSEA
 Package: pogos
 
 Package: GDCRNATools
-
-Package: RcisTarget
 
 Package: Trendy
 
@@ -2461,8 +2405,6 @@ Package: topconfects
 
 Package: SMAD
 
-Package: Melissa
-
 Package: divergence
 
 Package: rmelting
@@ -2512,8 +2454,6 @@ Package: qsmooth
 Package: evaluomeR
 
 Package: DeMixT
-
-Package: GNET2
 
 Package: batchelor
 
@@ -2583,8 +2523,6 @@ Package: VennDetail
 
 Package: mnem
 
-Package: SQLDataFrame
-
 Package: RNAmodR
 
 Package: RNAmodR.RiboMethSeq
@@ -2629,8 +2567,6 @@ Package: IgGeneUsage
 
 Package: AlphaBeta
 
-Package: APAlyzer
-
 Package: fcScan
 
 Package: GenomicOZone
@@ -2662,8 +2598,6 @@ Package: idr2d
 Package: SEtools
 
 Package: SharedObject
-
-Package: debCAM
 
 Package: ReactomeGSA
 
@@ -2792,8 +2726,6 @@ Package: VaSP
 Package: ribosomeProfilingQC
 
 Package: rrvgo
-
-Package: receptLoss
 
 Package: dittoSeq
 
@@ -3021,15 +2953,11 @@ Package: FilterFFPE
 
 Package: rsemmed
 
-Package: nearBynding
-
 Package: preciseTAD
 
 Package: TileDBArray
 
 Package: pageRank
-
-Package: MethReg
 
 Package: msImpute
 
@@ -3046,8 +2974,6 @@ Package: aggregateBioVar
 Package: systemPipeShiny
 
 Package: Informeasure
-
-Package: MSPrep
 
 Package: ChromSCape
 
@@ -3211,8 +3137,6 @@ Package: PhenoGeneRanker
 
 Package: MsBackendMassbank
 
-Package: hca
-
 Package: PDATK
 
 Package: midasHLA
@@ -3239,8 +3163,6 @@ Package: sitadela
 
 Package: geva
 
-Package: CelliD
-
 Package: methylscaper
 
 Package: dir.expiry
@@ -3262,8 +3184,6 @@ Package: miaViz
 Package: airpart
 
 Package: condiments
-
-Package: barcodetrackR
 
 Package: CytoGLMM
 
@@ -3301,23 +3221,17 @@ Package: CGEN
 
 Package: flowVS
 
-Package: granulator
-
 Package: DelayedRandomArray
 
 Package: FEAST
 
 Package: Rbec
 
-Package: tLOH
-
 Package: quantiseqr
 
 Package: awst
 
 Package: immunotation
-
-Package: supersigs
 
 Package: DeepPINCS
 
@@ -3413,13 +3327,9 @@ Package: VAExprs
 
 Package: cfDNAPro
 
-Package: spatzie
-
 Package: scanMiRApp
 
 Package: MAI
-
-Package: GEOexplorer
 
 Package: enhancerHomologSearch
 
@@ -3466,8 +3376,6 @@ Package: IntramiRExploreR
 Package: cytoKernel
 
 Package: ggmsa
-
-Package: biodbChebi
 
 Package: imcRtools
 
@@ -3671,8 +3579,6 @@ Package: SUITOR
 
 Package: scDDboost
 
-Package: RgnTX
-
 Package: ScreenR
 
 Package: iSEEhex
@@ -3803,8 +3709,6 @@ Package: MSstatsShiny
 
 Package: doubletrouble
 
-Package: microSTASIS
-
 Package: IFAA
 
 Package: planttfhunter
@@ -3812,8 +3716,6 @@ Package: planttfhunter
 Package: speckle
 
 Package: MsQuality
-
-Package: SGCP
 
 Package: clevRvis
 
@@ -3872,8 +3774,6 @@ Package: alabaster
 Package: chihaya
 
 Package: HiCool
-
-Package: scviR
 
 Package: flowGate
 
@@ -3957,8 +3857,6 @@ Package: demuxSNP
 
 Package: DCATS
 
-Package: partCNV
-
 Package: lfa
 
 Package: gcatest
@@ -3988,8 +3886,6 @@ Package: gDRcore
 Package: CDI
 
 Package: MICSQTL
-
-Package: CuratedAtlasQueryR
 
 Package: orthos
 
@@ -4094,8 +3990,6 @@ Package: QTLExperiment
 Package: IsoBayes
 
 Package: pgxRpi
-
-Package: shiny.gosling
 
 Package: ClusterFoldSimilarity
 

@@ -261,8 +261,6 @@ Package: TargetScoreData
 
 Package: Fletcher2013a
 
-Package: Fletcher2013b
-
 Package: curatedBladderData
 
 Package: chipenrich.data
@@ -366,8 +364,6 @@ Package: CardinalWorkflows
 Package: diggitdata
 
 Package: grndata
-
-Package: curatedBreastData
 
 Package: rcellminerData
 
