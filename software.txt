@@ -4703,3 +4703,5 @@ Package: imageFeatureTCGA
 
 Package: HistoImagePlot
 
+Package: LoriTestPkg5
+
