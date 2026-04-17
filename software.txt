@@ -4797,3 +4797,5 @@ Package: imageTCGAutils
 
 Package: VISTA
 
+Package: scECODA
+
