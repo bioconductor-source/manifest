@@ -4791,3 +4791,5 @@ Package: Rega
 
 Package: PlinkMatrix
 
+Package: fastRanges
+
