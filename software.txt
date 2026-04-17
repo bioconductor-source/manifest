@@ -4701,3 +4701,5 @@ Package: scToppR
 
 Package: imageFeatureTCGA
 
+Package: HistoImagePlot
+
