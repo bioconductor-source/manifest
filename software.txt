@@ -4687,3 +4687,5 @@ Package: PlinkMatrix
 
 Package: fastRanges
 
+Package: imageTCGAutils
+
