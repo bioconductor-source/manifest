@@ -4699,6 +4699,8 @@ Package: CrcBiomeScreen
 
 Package: scToppR
 
+Package: shiny.gosling
+
 Package: imageFeatureTCGA
 
 Package: HistoImagePlot
