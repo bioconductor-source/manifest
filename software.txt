@@ -4707,3 +4707,5 @@ Package: HistoImagePlot
 
 Package: splicelogic
 
+Package: BiocAzul
+
