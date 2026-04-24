@@ -4815,3 +4815,5 @@ Package: BiocAzul
 
 Package: GraphExperiment
 
+Package: epiRomics
+
