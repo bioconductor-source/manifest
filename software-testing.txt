@@ -205,8 +205,6 @@ Package: pcaMethods
 
 Package: MSnbase
 
-Package: rols
-
 Package: Rdisop
 
 Package: affxparser
@@ -308,8 +306,6 @@ Package: DropletUtils
 Package: DECIPHER
 
 Package: regioneR
-
-Package: bamsignals
 
 Package: karyoploteR
 
