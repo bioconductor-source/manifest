@@ -83,10 +83,6 @@ Package: BSgenome
 
 Package: BiocFileCache
 
-Package: interactiveDisplayBase
-
-Package: interactiveDisplay
-
 Package: AnnotationHub
 
 Package: ExperimentHub
