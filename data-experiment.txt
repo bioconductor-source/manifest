@@ -868,5 +868,3 @@ Package: DMRsegaldata
 
 Package: HumanRetinaLRSData
 
-Package: nmrdata
-
