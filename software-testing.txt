@@ -452,3 +452,7 @@ Package: TFBSTools
 Package: CNEr
 
 Package: gwascat
+
+Package: Rarr
+
+Package: ZarrArray
