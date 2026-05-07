@@ -4737,3 +4737,5 @@ Package: BamScale
 
 Package: phylobar
 
+Package: augere.core
+
