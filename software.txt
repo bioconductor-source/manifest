@@ -4733,3 +4733,5 @@ Package: ClonalSim
 
 Package: GOaGO
 
+Package: BamScale
+
