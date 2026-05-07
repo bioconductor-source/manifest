@@ -4735,3 +4735,5 @@ Package: GOaGO
 
 Package: BamScale
 
+Package: phylobar
+
