@@ -4751,3 +4751,5 @@ Package: augere.solo
 
 Package: dnaEPICO
 
+Package: panoramic
+
