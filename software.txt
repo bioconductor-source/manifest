@@ -4753,5 +4753,7 @@ Package: dnaEPICO
 
 Package: panoramic
 
+Package: ChIPQC
+
 Package: DaparToolshed
 
