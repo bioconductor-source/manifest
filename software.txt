@@ -4757,5 +4757,9 @@ Package: ChIPQC
 
 Package: DaparToolshed
 
+Package: normr
+
+Package: bamsignals
+
 Package: MSTree
 
