@@ -43,6 +43,8 @@ Package: Biostrings
 
 Package: pwalign
 
+Package: MultipleAlignment
+
 Package: MatrixGenerics
 
 Package: S4Arrays
