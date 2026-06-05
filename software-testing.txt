@@ -45,6 +45,8 @@ Package: pwalign
 
 Package: MultipleAlignment
 
+Package: msa
+
 Package: MatrixGenerics
 
 Package: S4Arrays
