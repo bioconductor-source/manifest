@@ -4791,3 +4791,5 @@ Package: EMMA
 
 Package: gesel
 
+Package: scFastDE
+
