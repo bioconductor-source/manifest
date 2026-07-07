@@ -4799,3 +4799,5 @@ Package: CGRphylo2
 
 Package: dbSequence
 
+Package: scCompoundDE
+
