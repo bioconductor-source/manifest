@@ -4801,3 +4801,5 @@ Package: dbSequence
 
 Package: scCompoundDE
 
+Package: MultiOmicsBridge
+
