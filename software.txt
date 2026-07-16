@@ -4811,3 +4811,5 @@ Package: barmixR
 
 Package: GExPipe
 
+Package: wSIR
+
