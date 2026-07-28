@@ -462,3 +462,5 @@ Package: Rarr
 Package: ZarrArray
 
 Package: anndataR
+
+Package: bamsignals
