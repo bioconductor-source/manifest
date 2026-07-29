@@ -464,3 +464,9 @@ Package: ZarrArray
 Package: anndataR
 
 Package: bamsignals
+
+Package: ggspavis
+
+Package: OSTA.data
+
+Package: SpatialExperimentIO
