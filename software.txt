@@ -4833,3 +4833,5 @@ Package: MetaPathNet
 
 Package: multipointR
 
+Package: SimiCviz
+
