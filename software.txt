@@ -4845,3 +4845,5 @@ Package: EMTscore
 
 Package: DuckDBDataFrame
 
+Package: DuckDBGRanges
+
