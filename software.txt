@@ -4847,3 +4847,5 @@ Package: DuckDBDataFrame
 
 Package: DuckDBGRanges
 
+Package: DuckDBArray
+
