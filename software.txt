@@ -4851,3 +4851,5 @@ Package: DuckDBArray
 
 Package: DuckDBSpatial
 
+Package: exploreSE
+
