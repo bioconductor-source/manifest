@@ -4849,3 +4849,5 @@ Package: DuckDBGRanges
 
 Package: DuckDBArray
 
+Package: DuckDBSpatial
+
