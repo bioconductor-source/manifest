@@ -4853,3 +4853,5 @@ Package: DuckDBSpatial
 
 Package: exploreSE
 
+Package: quantMSImageR
+
