@@ -4855,3 +4855,5 @@ Package: exploreSE
 
 Package: quantMSImageR
 
+Package: spatialdataR
+
