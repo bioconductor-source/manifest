@@ -4859,3 +4859,5 @@ Package: spatialdataR
 
 Package: CySA
 
+Package: Fancy
+
