@@ -1,0 +1,3 @@
+## Blank lines between all entries
+Package: flowCore
+Exemptions: no_large_files
