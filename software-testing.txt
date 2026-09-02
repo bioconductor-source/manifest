@@ -470,3 +470,7 @@ Package: ggspavis
 Package: OSTA.data
 
 Package: SpatialExperimentIO
+
+Package: Chromatograms
+
+Package: MsBackendMetaboLights
