@@ -4869,3 +4869,5 @@ Package: pepVet
 
 Package: MultiAssaySpatialExperiment
 
+Package: SpectraStash
+
