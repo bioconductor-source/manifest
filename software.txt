@@ -4877,3 +4877,5 @@ Package: scCertify
 
 Package: normScore
 
+Package: BiocDuckDB
+
