@@ -55,3 +55,5 @@ Package: GeoMxWorkflows
 
 Package: seqpac
 
+Package: savingBiocObjects
+
