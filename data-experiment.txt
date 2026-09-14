@@ -259,8 +259,6 @@ Package: IlluminaDataTestFiles
 
 Package: TargetScoreData
 
-Package: Fletcher2013a
-
 Package: curatedBladderData
 
 Package: chipenrich.data
